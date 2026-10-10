@@ -1,0 +1,48 @@
+
+eff_speed2.png
+size: 1024,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/0000
+  rotate: false
+  xy: 371, 53
+  size: 10, 10
+  orig: 10, 10
+  offset: 0, 0
+  index: -1
+effect/beijing02
+  rotate: true
+  xy: 247, 2
+  size: 61, 122
+  orig: 61, 122
+  offset: 0, 0
+  index: -1
+effect/liudong
+  rotate: false
+  xy: 492, 75
+  size: 122, 19
+  orig: 122, 19
+  offset: 0, 0
+  index: -1
+effect/tiao
+  rotate: true
+  xy: 492, 96
+  size: 30, 243
+  orig: 30, 243
+  offset: 0, 0
+  index: -1
+effect/tiao01
+  rotate: true
+  xy: 247, 65
+  size: 61, 243
+  orig: 61, 243
+  offset: 0, 0
+  index: -1
+effect/xian
+  rotate: true
+  xy: 2, 4
+  size: 122, 243
+  orig: 122, 243
+  offset: 0, 0
+  index: -1

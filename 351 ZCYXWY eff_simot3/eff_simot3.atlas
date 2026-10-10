@@ -1,0 +1,83 @@
+
+eff_simot3.png
+size: 512,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/lvqiang/liang
+  rotate: false
+  xy: 2, 24
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+effect/lvqiang/lizi2
+  rotate: false
+  xy: 104, 42
+  size: 83, 82
+  orig: 83, 82
+  offset: 0, 0
+  index: -1
+effect/lvqiang/luanma_00
+  rotate: true
+  xy: 2, 2
+  size: 20, 59
+  orig: 20, 59
+  offset: 0, 0
+  index: -1
+effect/lvqiang/luanma_01
+  rotate: true
+  xy: 189, 52
+  size: 20, 59
+  orig: 20, 59
+  offset: 0, 0
+  index: -1
+effect/lvqiang/luanma_02
+  rotate: true
+  xy: 291, 104
+  size: 20, 59
+  orig: 20, 59
+  offset: 0, 0
+  index: -1
+effect/lvqiang/luanma_03
+  rotate: true
+  xy: 291, 82
+  size: 20, 59
+  orig: 20, 59
+  offset: 0, 0
+  index: -1
+effect/lvqiang/luanma_04
+  rotate: true
+  xy: 352, 104
+  size: 20, 59
+  orig: 20, 59
+  offset: 0, 0
+  index: -1
+effect/lvqiang/luanma_05
+  rotate: true
+  xy: 352, 82
+  size: 20, 59
+  orig: 20, 59
+  offset: 0, 0
+  index: -1
+effect/lvqiang/luanma_06
+  rotate: true
+  xy: 413, 104
+  size: 20, 59
+  orig: 20, 59
+  offset: 0, 0
+  index: -1
+effect/lvqiang/luanma_07
+  rotate: true
+  xy: 413, 82
+  size: 20, 59
+  orig: 20, 59
+  offset: 0, 0
+  index: -1
+effect/lvqiang/yuan
+  rotate: false
+  xy: 189, 74
+  size: 100, 50
+  orig: 100, 50
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,69 @@
+
+eff_venomCannon.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/baoza01
+  rotate: true
+  xy: 2, 42
+  size: 190, 152
+  orig: 190, 152
+  offset: 0, 0
+  index: -1
+effect/baoza02
+  rotate: true
+  xy: 156, 42
+  size: 190, 152
+  orig: 190, 152
+  offset: 0, 0
+  index: -1
+effect/baoza03
+  rotate: true
+  xy: 310, 42
+  size: 190, 152
+  orig: 190, 152
+  offset: 0, 0
+  index: -1
+effect/baoza04
+  rotate: true
+  xy: 464, 42
+  size: 190, 152
+  orig: 190, 152
+  offset: 0, 0
+  index: -1
+effect/baoza05
+  rotate: true
+  xy: 618, 42
+  size: 190, 152
+  orig: 190, 152
+  offset: 0, 0
+  index: -1
+effect/dian
+  rotate: false
+  xy: 126, 2
+  size: 38, 38
+  orig: 38, 38
+  offset: 0, 0
+  index: -1
+effect/huo
+  rotate: false
+  xy: 772, 110
+  size: 122, 122
+  orig: 122, 122
+  offset: 0, 0
+  index: -1
+effect/shan
+  rotate: false
+  xy: 896, 137
+  size: 95, 95
+  orig: 95, 95
+  offset: 0, 0
+  index: -1
+effect/tiao
+  rotate: true
+  xy: 2, 10
+  size: 30, 122
+  orig: 30, 122
+  offset: 0, 0
+  index: -1

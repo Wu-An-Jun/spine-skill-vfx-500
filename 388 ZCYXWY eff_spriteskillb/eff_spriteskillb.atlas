@@ -1,0 +1,132 @@
+
+eff_spriteskillb.png
+size: 2048,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/di_00
+  rotate: false
+  xy: 475, 118
+  size: 102, 102
+  orig: 102, 102
+  offset: 0, 0
+  index: -1
+effect/di_01
+  rotate: false
+  xy: 579, 118
+  size: 102, 102
+  orig: 102, 102
+  offset: 0, 0
+  index: -1
+effect/di_02
+  rotate: false
+  xy: 683, 118
+  size: 102, 102
+  orig: 102, 102
+  offset: 0, 0
+  index: -1
+effect/di_03
+  rotate: false
+  xy: 787, 118
+  size: 102, 102
+  orig: 102, 102
+  offset: 0, 0
+  index: -1
+effect/di_04
+  rotate: false
+  xy: 891, 118
+  size: 102, 102
+  orig: 102, 102
+  offset: 0, 0
+  index: -1
+effect/di_05
+  rotate: false
+  xy: 995, 118
+  size: 102, 102
+  orig: 102, 102
+  offset: 0, 0
+  index: -1
+effect/di_06
+  rotate: false
+  xy: 1099, 118
+  size: 102, 102
+  orig: 102, 102
+  offset: 0, 0
+  index: -1
+effect/di_07
+  rotate: false
+  xy: 1203, 118
+  size: 102, 102
+  orig: 102, 102
+  offset: 0, 0
+  index: -1
+effect/di_08
+  rotate: false
+  xy: 1307, 118
+  size: 102, 102
+  orig: 102, 102
+  offset: 0, 0
+  index: -1
+effect/di_09
+  rotate: false
+  xy: 1411, 118
+  size: 102, 102
+  orig: 102, 102
+  offset: 0, 0
+  index: -1
+effect/di_10
+  rotate: false
+  xy: 1515, 118
+  size: 102, 102
+  orig: 102, 102
+  offset: 0, 0
+  index: -1
+effect/di_11
+  rotate: false
+  xy: 1619, 118
+  size: 102, 102
+  orig: 102, 102
+  offset: 0, 0
+  index: -1
+effect/diquan
+  rotate: false
+  xy: 1723, 118
+  size: 102, 102
+  orig: 102, 102
+  offset: 0, 0
+  index: -1
+effect/guang
+  rotate: false
+  xy: 2, 21
+  size: 199, 199
+  orig: 199, 199
+  offset: 0, 0
+  index: -1
+effect/line
+  rotate: true
+  xy: 2, 2
+  size: 17, 130
+  orig: 17, 130
+  offset: 0, 0
+  index: -1
+effect/suipian
+  rotate: false
+  xy: 1827, 153
+  size: 78, 67
+  orig: 78, 67
+  offset: 0, 0
+  index: -1
+m_sylphking/0000
+  rotate: false
+  xy: 203, 85
+  size: 174, 135
+  orig: 174, 135
+  offset: 0, 0
+  index: -1
+m_sylphking/002
+  rotate: false
+  xy: 379, 86
+  size: 94, 134
+  orig: 94, 134
+  offset: 0, 0
+  index: -1

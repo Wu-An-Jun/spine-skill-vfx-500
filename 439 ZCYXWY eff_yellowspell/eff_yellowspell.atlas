@@ -1,0 +1,97 @@
+
+eff_yellowspell.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/dian
+  rotate: false
+  xy: 719, 191
+  size: 57, 57
+  orig: 57, 57
+  offset: 0, 0
+  index: -1
+effect/guang_01
+  rotate: false
+  xy: 2, 126
+  size: 122, 122
+  orig: 122, 122
+  offset: 0, 0
+  index: -1
+effect/guang_02
+  rotate: false
+  xy: 2, 2
+  size: 122, 122
+  orig: 122, 122
+  offset: 0, 0
+  index: -1
+effect/guang_03
+  rotate: false
+  xy: 126, 126
+  size: 122, 122
+  orig: 122, 122
+  offset: 0, 0
+  index: -1
+effect/guang_04
+  rotate: false
+  xy: 126, 2
+  size: 122, 122
+  orig: 122, 122
+  offset: 0, 0
+  index: -1
+effect/guang_05
+  rotate: false
+  xy: 250, 126
+  size: 122, 122
+  orig: 122, 122
+  offset: 0, 0
+  index: -1
+effect/guang_06
+  rotate: false
+  xy: 250, 2
+  size: 122, 122
+  orig: 122, 122
+  offset: 0, 0
+  index: -1
+effect/guang_07
+  rotate: false
+  xy: 374, 126
+  size: 122, 122
+  orig: 122, 122
+  offset: 0, 0
+  index: -1
+effect/guang_08
+  rotate: false
+  xy: 374, 2
+  size: 122, 122
+  orig: 122, 122
+  offset: 0, 0
+  index: -1
+effect/guang_09
+  rotate: false
+  xy: 498, 126
+  size: 122, 122
+  orig: 122, 122
+  offset: 0, 0
+  index: -1
+effect/guang_10
+  rotate: false
+  xy: 498, 2
+  size: 122, 122
+  orig: 122, 122
+  offset: 0, 0
+  index: -1
+effect/tiao
+  rotate: false
+  xy: 622, 29
+  size: 29, 122
+  orig: 29, 122
+  offset: 0, 0
+  index: -1
+effect/zi
+  rotate: false
+  xy: 622, 153
+  size: 95, 95
+  orig: 95, 95
+  offset: 0, 0
+  index: -1

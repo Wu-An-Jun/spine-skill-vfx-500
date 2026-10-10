@@ -1,0 +1,48 @@
+
+ayin_attack13_1_2.png
+size: 239,198
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+tx_ci_00
+  rotate: false
+  xy: 2, 62
+  size: 85, 90
+  orig: 85, 110
+  offset: 0, 0
+  index: -1
+tx_ci_01
+  rotate: true
+  xy: 89, 72
+  size: 80, 90
+  orig: 85, 110
+  offset: 0, 18
+  index: -1
+tx_ci_02
+  rotate: true
+  xy: 2, 2
+  size: 58, 71
+  orig: 85, 110
+  offset: 22, 39
+  index: -1
+tx_glow_00
+  rotate: true
+  xy: 89, 3
+  size: 67, 65
+  orig: 77, 75
+  offset: 5, 6
+  index: -1
+tx_kuosan_00
+  rotate: true
+  xy: 204, 16
+  size: 180, 33
+  orig: 180, 35
+  offset: 0, 1
+  index: -1
+tx_shuiwen_00
+  rotate: false
+  xy: 2, 154
+  size: 200, 42
+  orig: 200, 43
+  offset: 0, 1
+  index: -1

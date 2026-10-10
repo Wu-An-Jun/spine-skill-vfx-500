@@ -1,0 +1,118 @@
+
+eff_spritebufff.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/feng/di_00
+  rotate: false
+  xy: 2, 2
+  size: 102, 102
+  orig: 102, 102
+  offset: 0, 0
+  index: -1
+effect/feng/di_01
+  rotate: false
+  xy: 150, 150
+  size: 102, 102
+  orig: 102, 102
+  offset: 0, 0
+  index: -1
+effect/feng/di_02
+  rotate: false
+  xy: 254, 150
+  size: 102, 102
+  orig: 102, 102
+  offset: 0, 0
+  index: -1
+effect/feng/di_03
+  rotate: false
+  xy: 358, 150
+  size: 102, 102
+  orig: 102, 102
+  offset: 0, 0
+  index: -1
+effect/feng/di_04
+  rotate: false
+  xy: 462, 150
+  size: 102, 102
+  orig: 102, 102
+  offset: 0, 0
+  index: -1
+effect/feng/di_05
+  rotate: false
+  xy: 566, 150
+  size: 102, 102
+  orig: 102, 102
+  offset: 0, 0
+  index: -1
+effect/feng/di_06
+  rotate: false
+  xy: 670, 150
+  size: 102, 102
+  orig: 102, 102
+  offset: 0, 0
+  index: -1
+effect/feng/di_07
+  rotate: false
+  xy: 774, 150
+  size: 102, 102
+  orig: 102, 102
+  offset: 0, 0
+  index: -1
+effect/feng/di_08
+  rotate: false
+  xy: 878, 150
+  size: 102, 102
+  orig: 102, 102
+  offset: 0, 0
+  index: -1
+effect/feng/di_09
+  rotate: false
+  xy: 106, 2
+  size: 102, 102
+  orig: 102, 102
+  offset: 0, 0
+  index: -1
+effect/feng/di_10
+  rotate: false
+  xy: 210, 27
+  size: 102, 102
+  orig: 102, 102
+  offset: 0, 0
+  index: -1
+effect/feng/di_11
+  rotate: false
+  xy: 314, 46
+  size: 102, 102
+  orig: 102, 102
+  offset: 0, 0
+  index: -1
+effect/feng/diquan
+  rotate: false
+  xy: 418, 46
+  size: 102, 102
+  orig: 102, 102
+  offset: 0, 0
+  index: -1
+effect/feng/line
+  rotate: true
+  xy: 150, 131
+  size: 17, 130
+  orig: 17, 130
+  offset: 0, 0
+  index: -1
+effect/liang
+  rotate: false
+  xy: 522, 68
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+effect/sui4
+  rotate: false
+  xy: 2, 106
+  size: 146, 146
+  orig: 146, 146
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,279 @@
+
+eff_spritekingskillb.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/bingbao_00
+  rotate: false
+  xy: 2, 1706
+  size: 368, 325
+  orig: 368, 325
+  offset: 0, 0
+  index: -1
+effect/bingbao_01
+  rotate: false
+  xy: 2, 1379
+  size: 368, 325
+  orig: 368, 325
+  offset: 0, 0
+  index: -1
+effect/bingbao_02
+  rotate: false
+  xy: 372, 1706
+  size: 368, 325
+  orig: 368, 325
+  offset: 0, 0
+  index: -1
+effect/bingbao_03
+  rotate: false
+  xy: 2, 1052
+  size: 368, 325
+  orig: 368, 325
+  offset: 0, 0
+  index: -1
+effect/bingbao_04
+  rotate: false
+  xy: 372, 1379
+  size: 368, 325
+  orig: 368, 325
+  offset: 0, 0
+  index: -1
+effect/bingbao_05
+  rotate: false
+  xy: 742, 1706
+  size: 368, 325
+  orig: 368, 325
+  offset: 0, 0
+  index: -1
+effect/bingbao_06
+  rotate: false
+  xy: 2, 725
+  size: 368, 325
+  orig: 368, 325
+  offset: 0, 0
+  index: -1
+effect/bingbao_07
+  rotate: false
+  xy: 372, 1052
+  size: 368, 325
+  orig: 368, 325
+  offset: 0, 0
+  index: -1
+effect/bingbao_08
+  rotate: false
+  xy: 742, 1379
+  size: 368, 325
+  orig: 368, 325
+  offset: 0, 0
+  index: -1
+effect/bingbao_09
+  rotate: false
+  xy: 1112, 1706
+  size: 368, 325
+  orig: 368, 325
+  offset: 0, 0
+  index: -1
+effect/bingbao_10
+  rotate: false
+  xy: 2, 398
+  size: 368, 325
+  orig: 368, 325
+  offset: 0, 0
+  index: -1
+effect/bingbao_11
+  rotate: false
+  xy: 372, 725
+  size: 368, 325
+  orig: 368, 325
+  offset: 0, 0
+  index: -1
+effect/bingbao_12
+  rotate: false
+  xy: 742, 1052
+  size: 368, 325
+  orig: 368, 325
+  offset: 0, 0
+  index: -1
+effect/bingbao_13
+  rotate: false
+  xy: 1112, 1379
+  size: 368, 325
+  orig: 368, 325
+  offset: 0, 0
+  index: -1
+effect/bingbao_14
+  rotate: false
+  xy: 1482, 1706
+  size: 368, 325
+  orig: 368, 325
+  offset: 0, 0
+  index: -1
+effect/bingbao_15
+  rotate: false
+  xy: 2, 71
+  size: 368, 325
+  orig: 368, 325
+  offset: 0, 0
+  index: -1
+effect/di_00
+  rotate: false
+  xy: 944, 922
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+effect/di_01
+  rotate: false
+  xy: 1112, 1078
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+effect/di_02
+  rotate: false
+  xy: 1332, 1249
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+effect/di_03
+  rotate: false
+  xy: 1482, 1392
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+effect/di_04
+  rotate: false
+  xy: 1666, 1576
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+effect/di_05
+  rotate: false
+  xy: 491, 344
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+effect/di_06
+  rotate: false
+  xy: 1852, 1738
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+effect/di_07
+  rotate: false
+  xy: 742, 720
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+effect/di_08
+  rotate: false
+  xy: 372, 175
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+effect/di_09
+  rotate: false
+  xy: 372, 45
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+effect/di_10
+  rotate: false
+  xy: 1242, 1078
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+effect/di_11
+  rotate: false
+  xy: 502, 214
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+effect/dilie
+  rotate: false
+  xy: 742, 850
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+effect/diquan
+  rotate: false
+  xy: 502, 84
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+effect/guang
+  rotate: false
+  xy: 372, 474
+  size: 249, 249
+  orig: 249, 249
+  offset: 0, 0
+  index: -1
+effect/guangxiao
+  rotate: false
+  xy: 2, 2
+  size: 200, 67
+  orig: 200, 67
+  offset: 0, 0
+  index: -1
+effect/liang
+  rotate: false
+  xy: 623, 623
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+effect/line
+  rotate: false
+  xy: 1978, 1868
+  size: 21, 163
+  orig: 21, 163
+  offset: 0, 0
+  index: -1
+effect/sui
+  rotate: false
+  xy: 1482, 1522
+  size: 182, 182
+  orig: 182, 182
+  offset: 0, 0
+  index: -1
+effect/suipian
+  rotate: false
+  xy: 623, 537
+  size: 98, 84
+  orig: 98, 84
+  offset: 0, 0
+  index: -1
+m_sylphking/0000
+  rotate: false
+  xy: 1112, 1208
+  size: 218, 169
+  orig: 218, 169
+  offset: 0, 0
+  index: -1
+m_sylphking/002
+  rotate: false
+  xy: 372, 305
+  size: 117, 167
+  orig: 117, 167
+  offset: 0, 0
+  index: -1
+m_sylphking/003
+  rotate: false
+  xy: 1852, 1868
+  size: 124, 163
+  orig: 124, 163
+  offset: 0, 0
+  index: -1

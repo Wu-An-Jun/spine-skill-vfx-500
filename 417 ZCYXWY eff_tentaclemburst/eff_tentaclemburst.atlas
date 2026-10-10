@@ -1,0 +1,174 @@
+
+eff_tentaclemburst.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/baodiandi00
+  rotate: false
+  xy: 744, 78
+  size: 192, 192
+  orig: 192, 192
+  offset: 0, 0
+  index: -1
+effect/baodiandi01
+  rotate: false
+  xy: 938, 140
+  size: 130, 130
+  orig: 130, 130
+  offset: 0, 0
+  index: -1
+effect/baodiandi02
+  rotate: false
+  xy: 1082, 730
+  size: 130, 130
+  orig: 130, 130
+  offset: 0, 0
+  index: -1
+effect/baodiandi03
+  rotate: false
+  xy: 1234, 882
+  size: 130, 130
+  orig: 130, 130
+  offset: 0, 0
+  index: -1
+effect/baodiandi04
+  rotate: false
+  xy: 1082, 598
+  size: 130, 130
+  orig: 130, 130
+  offset: 0, 0
+  index: -1
+effect/baodiandi05
+  rotate: false
+  xy: 1366, 882
+  size: 130, 130
+  orig: 130, 130
+  offset: 0, 0
+  index: -1
+effect/baodiandi06
+  rotate: false
+  xy: 1082, 466
+  size: 130, 130
+  orig: 130, 130
+  offset: 0, 0
+  index: -1
+effect/flash
+  rotate: false
+  xy: 876, 26
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+effect/jinhuan_01
+  rotate: false
+  xy: 2, 643
+  size: 268, 369
+  orig: 268, 369
+  offset: 0, 0
+  index: -1
+effect/jinhuan_03
+  rotate: false
+  xy: 2, 272
+  size: 268, 369
+  orig: 268, 369
+  offset: 0, 0
+  index: -1
+effect/jinhuan_05
+  rotate: false
+  xy: 272, 643
+  size: 268, 369
+  orig: 268, 369
+  offset: 0, 0
+  index: -1
+effect/jinhuan_07
+  rotate: false
+  xy: 272, 272
+  size: 268, 369
+  orig: 268, 369
+  offset: 0, 0
+  index: -1
+effect/jinhuan_09
+  rotate: true
+  xy: 2, 2
+  size: 268, 369
+  orig: 268, 369
+  offset: 0, 0
+  index: -1
+effect/jinhuan_11
+  rotate: false
+  xy: 542, 643
+  size: 268, 369
+  orig: 268, 369
+  offset: 0, 0
+  index: -1
+effect/jinhuan_13
+  rotate: false
+  xy: 542, 272
+  size: 268, 369
+  orig: 268, 369
+  offset: 0, 0
+  index: -1
+effect/jinhuan_15
+  rotate: true
+  xy: 373, 2
+  size: 268, 369
+  orig: 268, 369
+  offset: 0, 0
+  index: -1
+effect/jinhuan_17
+  rotate: false
+  xy: 812, 643
+  size: 268, 369
+  orig: 268, 369
+  offset: 0, 0
+  index: -1
+effect/jinhuan_19
+  rotate: false
+  xy: 812, 272
+  size: 268, 369
+  orig: 268, 369
+  offset: 0, 0
+  index: -1
+effect/sanjiao
+  rotate: false
+  xy: 1082, 862
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+effect/shandian_00
+  rotate: true
+  xy: 744, 6
+  size: 70, 130
+  orig: 70, 130
+  offset: 0, 0
+  index: -1
+effect/shandian_01
+  rotate: false
+  xy: 1498, 882
+  size: 70, 130
+  orig: 70, 130
+  offset: 0, 0
+  index: -1
+effect/shandian_02
+  rotate: false
+  xy: 1082, 334
+  size: 70, 130
+  orig: 70, 130
+  offset: 0, 0
+  index: -1
+effect/shandian_03
+  rotate: false
+  xy: 1570, 882
+  size: 70, 130
+  orig: 70, 130
+  offset: 0, 0
+  index: -1
+effect/star
+  rotate: true
+  xy: 938, 78
+  size: 60, 65
+  orig: 60, 65
+  offset: 0, 0
+  index: -1

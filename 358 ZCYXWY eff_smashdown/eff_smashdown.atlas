@@ -1,0 +1,20 @@
+
+eff_smashdown.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/dilie
+  rotate: false
+  xy: 2, 2
+  size: 150, 87
+  orig: 150, 87
+  offset: 0, 0
+  index: -1
+effect/quan
+  rotate: false
+  xy: 2, 91
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1

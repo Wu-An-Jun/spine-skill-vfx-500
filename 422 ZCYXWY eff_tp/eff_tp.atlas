@@ -1,0 +1,83 @@
+
+eff_tp.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/bo01
+  rotate: false
+  xy: 247, 126
+  size: 122, 122
+  orig: 122, 122
+  offset: 0, 0
+  index: -1
+effect/bo02
+  rotate: false
+  xy: 371, 126
+  size: 122, 122
+  orig: 122, 122
+  offset: 0, 0
+  index: -1
+effect/bo03
+  rotate: false
+  xy: 495, 126
+  size: 122, 122
+  orig: 122, 122
+  offset: 0, 0
+  index: -1
+effect/bo04
+  rotate: false
+  xy: 619, 126
+  size: 122, 122
+  orig: 122, 122
+  offset: 0, 0
+  index: -1
+effect/bo05
+  rotate: false
+  xy: 743, 126
+  size: 122, 122
+  orig: 122, 122
+  offset: 0, 0
+  index: -1
+effect/dian
+  rotate: false
+  xy: 991, 219
+  size: 29, 29
+  orig: 29, 29
+  offset: 0, 0
+  index: -1
+effect/fazhen
+  rotate: false
+  xy: 867, 126
+  size: 122, 122
+  orig: 122, 122
+  offset: 0, 0
+  index: -1
+effect/guang
+  rotate: false
+  xy: 247, 2
+  size: 122, 122
+  orig: 122, 122
+  offset: 0, 0
+  index: -1
+effect/suipian
+  rotate: false
+  xy: 495, 95
+  size: 29, 29
+  orig: 29, 29
+  offset: 0, 0
+  index: -1
+effect/xuanzhuan
+  rotate: false
+  xy: 2, 5
+  size: 243, 243
+  orig: 243, 243
+  offset: 0, 0
+  index: -1
+effect/yuan
+  rotate: false
+  xy: 371, 2
+  size: 122, 122
+  orig: 122, 122
+  offset: 0, 0
+  index: -1

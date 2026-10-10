@@ -1,0 +1,13 @@
+
+ayin_attack11_1_2.png
+size: 64,64
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+tx_dgbglow_00
+  rotate: false
+  xy: 2, 2
+  size: 35, 49
+  orig: 35, 49
+  offset: 0, 0
+  index: -1

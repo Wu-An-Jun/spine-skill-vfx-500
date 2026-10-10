@@ -1,0 +1,55 @@
+
+Buff.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+02
+  rotate: false
+  xy: 2, 138
+  size: 241, 241
+  orig: 241, 241
+  offset: 0, 0
+  index: -1
+03
+  rotate: false
+  xy: 2, 2
+  size: 134, 134
+  orig: 134, 134
+  offset: 0, 0
+  index: -1
+05
+  rotate: false
+  xy: 245, 245
+  size: 134, 134
+  orig: 134, 134
+  offset: 0, 0
+  index: -1
+06
+  rotate: false
+  xy: 381, 245
+  size: 134, 134
+  orig: 134, 134
+  offset: 0, 0
+  index: -1
+07
+  rotate: false
+  xy: 517, 245
+  size: 134, 134
+  orig: 134, 134
+  offset: 0, 0
+  index: -1
+08
+  rotate: false
+  xy: 653, 245
+  size: 134, 134
+  orig: 134, 134
+  offset: 0, 0
+  index: -1
+09
+  rotate: false
+  xy: 789, 245
+  size: 134, 134
+  orig: 134, 134
+  offset: 0, 0
+  index: -1

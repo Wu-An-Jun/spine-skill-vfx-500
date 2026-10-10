@@ -1,0 +1,34 @@
+
+ayin_attack11_1_3.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ayin_diguang_4
+  rotate: false
+  xy: 2, 260
+  size: 241, 228
+  orig: 241, 229
+  offset: 0, 0
+  index: -1
+ayin_diguang_5
+  rotate: true
+  xy: 245, 233
+  size: 94, 98
+  orig: 123, 123
+  offset: 14, 13
+  index: -1
+ayin_hudie_1
+  rotate: true
+  xy: 245, 329
+  size: 159, 243
+  orig: 172, 269
+  offset: 0, 17
+  index: -1
+ayin_xx_2_0001
+  rotate: false
+  xy: 2, 54
+  size: 216, 204
+  orig: 221, 214
+  offset: 3, 8
+  index: -1

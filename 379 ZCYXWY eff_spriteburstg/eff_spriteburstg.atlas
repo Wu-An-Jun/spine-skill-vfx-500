@@ -1,0 +1,237 @@
+
+eff_spriteburstg.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/guang/guang
+  rotate: false
+  xy: 2, 24
+  size: 199, 199
+  orig: 199, 199
+  offset: 0, 0
+  index: -1
+effect/guang/guangbao_00
+  rotate: false
+  xy: 2, 749
+  size: 294, 260
+  orig: 294, 260
+  offset: 0, 0
+  index: -1
+effect/guang/guangbao_01
+  rotate: false
+  xy: 298, 749
+  size: 294, 260
+  orig: 294, 260
+  offset: 0, 0
+  index: -1
+effect/guang/guangbao_02
+  rotate: false
+  xy: 594, 749
+  size: 294, 260
+  orig: 294, 260
+  offset: 0, 0
+  index: -1
+effect/guang/guangbao_03
+  rotate: false
+  xy: 890, 749
+  size: 294, 260
+  orig: 294, 260
+  offset: 0, 0
+  index: -1
+effect/guang/guangbao_04
+  rotate: true
+  xy: 1186, 715
+  size: 294, 260
+  orig: 294, 260
+  offset: 0, 0
+  index: -1
+effect/guang/guangbao_05
+  rotate: true
+  xy: 1448, 715
+  size: 294, 260
+  orig: 294, 260
+  offset: 0, 0
+  index: -1
+effect/guang/guangbao_06
+  rotate: true
+  xy: 1710, 715
+  size: 294, 260
+  orig: 294, 260
+  offset: 0, 0
+  index: -1
+effect/guang/guangbao_07
+  rotate: false
+  xy: 2, 487
+  size: 294, 260
+  orig: 294, 260
+  offset: 0, 0
+  index: -1
+effect/guang/guangbao_08
+  rotate: false
+  xy: 298, 487
+  size: 294, 260
+  orig: 294, 260
+  offset: 0, 0
+  index: -1
+effect/guang/guangbao_09
+  rotate: true
+  xy: 594, 453
+  size: 294, 260
+  orig: 294, 260
+  offset: 0, 0
+  index: -1
+effect/guang/guangbao_10
+  rotate: false
+  xy: 2, 225
+  size: 294, 260
+  orig: 294, 260
+  offset: 0, 0
+  index: -1
+effect/guang/guangbao_11
+  rotate: true
+  xy: 298, 191
+  size: 294, 260
+  orig: 294, 260
+  offset: 0, 0
+  index: -1
+effect/guang/guangbao_12
+  rotate: true
+  xy: 856, 453
+  size: 294, 260
+  orig: 294, 260
+  offset: 0, 0
+  index: -1
+effect/guang/guangbao_13
+  rotate: false
+  xy: 1118, 453
+  size: 294, 260
+  orig: 294, 260
+  offset: 0, 0
+  index: -1
+effect/guang/guangbao_14
+  rotate: true
+  xy: 1414, 419
+  size: 294, 260
+  orig: 294, 260
+  offset: 0, 0
+  index: -1
+effect/guang/guangbao_15
+  rotate: true
+  xy: 1676, 419
+  size: 294, 260
+  orig: 294, 260
+  offset: 0, 0
+  index: -1
+effect/guang/guangdilizi01
+  rotate: false
+  xy: 560, 264
+  size: 198, 187
+  orig: 198, 187
+  offset: 0, 0
+  index: -1
+effect/guang/guangdilizi02
+  rotate: false
+  xy: 760, 264
+  size: 198, 187
+  orig: 198, 187
+  offset: 0, 0
+  index: -1
+effect/guang/guangdilizi09
+  rotate: true
+  xy: 960, 253
+  size: 198, 187
+  orig: 198, 187
+  offset: 0, 0
+  index: -1
+effect/guang/guangdilizi10
+  rotate: false
+  xy: 560, 75
+  size: 198, 187
+  orig: 198, 187
+  offset: 0, 0
+  index: -1
+effect/guang/guangdilizi11
+  rotate: true
+  xy: 760, 64
+  size: 198, 187
+  orig: 198, 187
+  offset: 0, 0
+  index: -1
+effect/guang/guangdilizi12
+  rotate: false
+  xy: 203, 2
+  size: 198, 187
+  orig: 198, 187
+  offset: 0, 0
+  index: -1
+effect/guang/guangdilizi13
+  rotate: true
+  xy: 1149, 253
+  size: 198, 187
+  orig: 198, 187
+  offset: 0, 0
+  index: -1
+effect/guang/guangdilizi14
+  rotate: false
+  xy: 1338, 230
+  size: 198, 187
+  orig: 198, 187
+  offset: 0, 0
+  index: -1
+effect/guang/guangdilizi15
+  rotate: false
+  xy: 949, 64
+  size: 198, 187
+  orig: 198, 187
+  offset: 0, 0
+  index: -1
+effect/guang/guangdilizi16
+  rotate: true
+  xy: 1149, 53
+  size: 198, 187
+  orig: 198, 187
+  offset: 0, 0
+  index: -1
+effect/guang/guangdilizi17
+  rotate: false
+  xy: 1538, 230
+  size: 198, 187
+  orig: 198, 187
+  offset: 0, 0
+  index: -1
+effect/guang/guangdilizi18
+  rotate: true
+  xy: 1738, 219
+  size: 198, 187
+  orig: 198, 187
+  offset: 0, 0
+  index: -1
+effect/guang/guangdilizi19
+  rotate: false
+  xy: 1338, 41
+  size: 198, 187
+  orig: 198, 187
+  offset: 0, 0
+  index: -1
+effect/guang/guangdilizi20
+  rotate: true
+  xy: 1538, 30
+  size: 198, 187
+  orig: 198, 187
+  offset: 0, 0
+  index: -1
+effect/guang/guangdilizi21
+  rotate: false
+  xy: 1727, 30
+  size: 198, 187
+  orig: 198, 187
+  offset: 0, 0
+  index: -1
+effect/guang/line2
+  rotate: false
+  xy: 1972, 879
+  size: 17, 130
+  orig: 17, 130
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,314 @@
+
+eff_searcyskillburst1.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/biaopan
+  rotate: false
+  xy: 2, 1199
+  size: 365, 365
+  orig: 365, 365
+  offset: 0, 0
+  index: -1
+effect/biaopan2
+  rotate: false
+  xy: 2, 1566
+  size: 384, 384
+  orig: 384, 384
+  offset: 0, 0
+  index: -1
+effect/fenzhen
+  rotate: true
+  xy: 2, 2
+  size: 85, 293
+  orig: 85, 293
+  offset: 0, 0
+  index: -1
+effect/guang/guangbao_00
+  rotate: false
+  xy: 388, 1625
+  size: 368, 325
+  orig: 368, 325
+  offset: 0, 0
+  index: -1
+effect/guang/guangbao_01
+  rotate: true
+  xy: 2, 829
+  size: 368, 325
+  orig: 368, 325
+  offset: 0, 0
+  index: -1
+effect/guang/guangbao_02
+  rotate: false
+  xy: 758, 1625
+  size: 368, 325
+  orig: 368, 325
+  offset: 0, 0
+  index: -1
+effect/guang/guangbao_03
+  rotate: true
+  xy: 2, 459
+  size: 368, 325
+  orig: 368, 325
+  offset: 0, 0
+  index: -1
+effect/guang/guangbao_04
+  rotate: false
+  xy: 1128, 1625
+  size: 368, 325
+  orig: 368, 325
+  offset: 0, 0
+  index: -1
+effect/guang/guangbao_05
+  rotate: true
+  xy: 2, 89
+  size: 368, 325
+  orig: 368, 325
+  offset: 0, 0
+  index: -1
+effect/guang/guangbao_06
+  rotate: false
+  xy: 1498, 1625
+  size: 368, 325
+  orig: 368, 325
+  offset: 0, 0
+  index: -1
+effect/guang/guangbao_07
+  rotate: false
+  xy: 388, 1298
+  size: 368, 325
+  orig: 368, 325
+  offset: 0, 0
+  index: -1
+effect/guang/guangbao_08
+  rotate: false
+  xy: 758, 1298
+  size: 368, 325
+  orig: 368, 325
+  offset: 0, 0
+  index: -1
+effect/guang/guangbao_09
+  rotate: false
+  xy: 1128, 1298
+  size: 368, 325
+  orig: 368, 325
+  offset: 0, 0
+  index: -1
+effect/guang/guangbao_10
+  rotate: false
+  xy: 1498, 1298
+  size: 368, 325
+  orig: 368, 325
+  offset: 0, 0
+  index: -1
+effect/guang/guangbao_11
+  rotate: false
+  xy: 369, 971
+  size: 368, 325
+  orig: 368, 325
+  offset: 0, 0
+  index: -1
+effect/guang/guangbao_12
+  rotate: false
+  xy: 739, 971
+  size: 368, 325
+  orig: 368, 325
+  offset: 0, 0
+  index: -1
+effect/guang/guangbao_13
+  rotate: false
+  xy: 1109, 971
+  size: 368, 325
+  orig: 368, 325
+  offset: 0, 0
+  index: -1
+effect/guang/guangbao_14
+  rotate: false
+  xy: 1479, 971
+  size: 368, 325
+  orig: 368, 325
+  offset: 0, 0
+  index: -1
+effect/guang/guangbao_15
+  rotate: false
+  xy: 329, 644
+  size: 368, 325
+  orig: 368, 325
+  offset: 0, 0
+  index: -1
+effect/guang/guangdilizi01
+  rotate: false
+  xy: 329, 408
+  size: 247, 234
+  orig: 247, 234
+  offset: 0, 0
+  index: -1
+effect/guang/guangdilizi02
+  rotate: false
+  xy: 699, 735
+  size: 247, 234
+  orig: 247, 234
+  offset: 0, 0
+  index: -1
+effect/guang/guangdilizi09
+  rotate: false
+  xy: 329, 172
+  size: 247, 234
+  orig: 247, 234
+  offset: 0, 0
+  index: -1
+effect/guang/guangdilizi10
+  rotate: false
+  xy: 948, 735
+  size: 247, 234
+  orig: 247, 234
+  offset: 0, 0
+  index: -1
+effect/guang/guangdilizi11
+  rotate: false
+  xy: 1197, 735
+  size: 247, 234
+  orig: 247, 234
+  offset: 0, 0
+  index: -1
+effect/guang/guangdilizi12
+  rotate: false
+  xy: 1446, 735
+  size: 247, 234
+  orig: 247, 234
+  offset: 0, 0
+  index: -1
+effect/guang/guangdilizi13
+  rotate: false
+  xy: 1695, 735
+  size: 247, 234
+  orig: 247, 234
+  offset: 0, 0
+  index: -1
+effect/guang/guangdilizi14
+  rotate: true
+  xy: 578, 395
+  size: 247, 234
+  orig: 247, 234
+  offset: 0, 0
+  index: -1
+effect/guang/guangdilizi15
+  rotate: false
+  xy: 578, 159
+  size: 247, 234
+  orig: 247, 234
+  offset: 0, 0
+  index: -1
+effect/guang/guangdilizi16
+  rotate: false
+  xy: 814, 499
+  size: 247, 234
+  orig: 247, 234
+  offset: 0, 0
+  index: -1
+effect/guang/guangdilizi17
+  rotate: false
+  xy: 1063, 499
+  size: 247, 234
+  orig: 247, 234
+  offset: 0, 0
+  index: -1
+effect/guang/guangdilizi18
+  rotate: false
+  xy: 1312, 499
+  size: 247, 234
+  orig: 247, 234
+  offset: 0, 0
+  index: -1
+effect/guang/guangdilizi19
+  rotate: false
+  xy: 1561, 499
+  size: 247, 234
+  orig: 247, 234
+  offset: 0, 0
+  index: -1
+effect/guang/guangdilizi20
+  rotate: false
+  xy: 827, 263
+  size: 247, 234
+  orig: 247, 234
+  offset: 0, 0
+  index: -1
+effect/guang/guangdilizi21
+  rotate: false
+  xy: 1076, 263
+  size: 247, 234
+  orig: 247, 234
+  offset: 0, 0
+  index: -1
+effect/guang/liang
+  rotate: false
+  xy: 827, 161
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+effect/guang/line2
+  rotate: false
+  xy: 329, 1034
+  size: 21, 163
+  orig: 21, 163
+  offset: 0, 0
+  index: -1
+effect/shizhen
+  rotate: false
+  xy: 1868, 1733
+  size: 85, 217
+  orig: 85, 217
+  offset: 0, 0
+  index: -1
+effect/shuye_00
+  rotate: false
+  xy: 1694, 381
+  size: 99, 116
+  orig: 99, 116
+  offset: 0, 0
+  index: -1
+effect/shuyefan_00
+  rotate: false
+  xy: 1810, 614
+  size: 121, 119
+  orig: 121, 119
+  offset: 0, 0
+  index: -1
+effect/shuyefan_01
+  rotate: false
+  xy: 1325, 378
+  size: 121, 119
+  orig: 121, 119
+  offset: 0, 0
+  index: -1
+effect/shuyefan_02
+  rotate: false
+  xy: 1448, 378
+  size: 121, 119
+  orig: 121, 119
+  offset: 0, 0
+  index: -1
+effect/shuyefan_03
+  rotate: false
+  xy: 1571, 378
+  size: 121, 119
+  orig: 121, 119
+  offset: 0, 0
+  index: -1
+effect/shuyefan_04
+  rotate: false
+  xy: 1810, 493
+  size: 121, 119
+  orig: 121, 119
+  offset: 0, 0
+  index: -1
+effect/shuyefan_05
+  rotate: false
+  xy: 1325, 257
+  size: 121, 119
+  orig: 121, 119
+  offset: 0, 0
+  index: -1

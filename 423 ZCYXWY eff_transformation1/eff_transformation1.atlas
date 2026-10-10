@@ -1,0 +1,76 @@
+
+eff_transformation1.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/guang
+  rotate: false
+  xy: 348, 32
+  size: 122, 122
+  orig: 122, 122
+  offset: 0, 0
+  index: -1
+effect/zhuan_01
+  rotate: false
+  xy: 2, 310
+  size: 171, 152
+  orig: 171, 152
+  offset: 0, 0
+  index: -1
+effect/zhuan_02
+  rotate: false
+  xy: 2, 156
+  size: 171, 152
+  orig: 171, 152
+  offset: 0, 0
+  index: -1
+effect/zhuan_03
+  rotate: false
+  xy: 175, 310
+  size: 171, 152
+  orig: 171, 152
+  offset: 0, 0
+  index: -1
+effect/zhuan_04
+  rotate: false
+  xy: 2, 2
+  size: 171, 152
+  orig: 171, 152
+  offset: 0, 0
+  index: -1
+effect/zhuan_05
+  rotate: false
+  xy: 175, 156
+  size: 171, 152
+  orig: 171, 152
+  offset: 0, 0
+  index: -1
+effect/zhuan_06
+  rotate: false
+  xy: 348, 310
+  size: 171, 152
+  orig: 171, 152
+  offset: 0, 0
+  index: -1
+effect/zhuan_07
+  rotate: false
+  xy: 175, 2
+  size: 171, 152
+  orig: 171, 152
+  offset: 0, 0
+  index: -1
+effect/zhuan_08
+  rotate: false
+  xy: 348, 156
+  size: 171, 152
+  orig: 171, 152
+  offset: 0, 0
+  index: -1
+effect/zhuan_09
+  rotate: false
+  xy: 521, 310
+  size: 171, 152
+  orig: 171, 152
+  offset: 0, 0
+  index: -1

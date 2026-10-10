@@ -1,0 +1,41 @@
+
+eff_SMGHits.png
+size: 512,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/dian
+  rotate: false
+  xy: 394, 84
+  size: 38, 38
+  orig: 38, 38
+  offset: 0, 0
+  index: -1
+effect/feijian01
+  rotate: false
+  xy: 2, 2
+  size: 96, 120
+  orig: 96, 120
+  offset: 0, 0
+  index: -1
+effect/feijian02
+  rotate: false
+  xy: 100, 2
+  size: 96, 120
+  orig: 96, 120
+  offset: 0, 0
+  index: -1
+effect/feijian03
+  rotate: false
+  xy: 198, 2
+  size: 96, 120
+  orig: 96, 120
+  offset: 0, 0
+  index: -1
+effect/feijian04
+  rotate: false
+  xy: 296, 2
+  size: 96, 120
+  orig: 96, 120
+  offset: 0, 0
+  index: -1

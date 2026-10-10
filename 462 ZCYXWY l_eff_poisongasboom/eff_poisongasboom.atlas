@@ -1,0 +1,83 @@
+
+eff_poisongasboom.png
+size: 1024,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/bao
+  rotate: false
+  xy: 578, 19
+  size: 95, 95
+  orig: 95, 95
+  offset: 0, 0
+  index: -1
+effect/dian
+  rotate: false
+  xy: 675, 57
+  size: 57, 57
+  orig: 57, 57
+  offset: 0, 0
+  index: -1
+effect/duqidan
+  rotate: false
+  xy: 852, 67
+  size: 47, 47
+  orig: 47, 47
+  offset: 0, 0
+  index: -1
+effect/guang
+  rotate: false
+  xy: 734, 57
+  size: 57, 57
+  orig: 57, 57
+  offset: 0, 0
+  index: -1
+effect/shang01
+  rotate: false
+  xy: 2, 2
+  size: 94, 112
+  orig: 94, 112
+  offset: 0, 0
+  index: -1
+effect/shang02
+  rotate: false
+  xy: 98, 2
+  size: 94, 112
+  orig: 94, 112
+  offset: 0, 0
+  index: -1
+effect/shang03
+  rotate: false
+  xy: 194, 2
+  size: 94, 112
+  orig: 94, 112
+  offset: 0, 0
+  index: -1
+effect/shang04
+  rotate: false
+  xy: 290, 2
+  size: 94, 112
+  orig: 94, 112
+  offset: 0, 0
+  index: -1
+effect/shang05
+  rotate: false
+  xy: 386, 2
+  size: 94, 112
+  orig: 94, 112
+  offset: 0, 0
+  index: -1
+effect/shang06
+  rotate: false
+  xy: 482, 2
+  size: 94, 112
+  orig: 94, 112
+  offset: 0, 0
+  index: -1
+effect/yan
+  rotate: false
+  xy: 793, 57
+  size: 57, 57
+  orig: 57, 57
+  offset: 0, 0
+  index: -1

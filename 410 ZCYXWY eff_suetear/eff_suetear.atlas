@@ -1,0 +1,279 @@
+
+eff_suetear.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/diliehe/dilie_00
+  rotate: false
+  xy: 2, 1392
+  size: 406, 156
+  orig: 406, 156
+  offset: 0, 0
+  index: -1
+effect/diliehe/dilie_01
+  rotate: false
+  xy: 2, 1234
+  size: 406, 156
+  orig: 406, 156
+  offset: 0, 0
+  index: -1
+effect/diliehe/dilie_02
+  rotate: false
+  xy: 410, 1392
+  size: 406, 156
+  orig: 406, 156
+  offset: 0, 0
+  index: -1
+effect/diliehe/dilie_03
+  rotate: false
+  xy: 2, 1076
+  size: 406, 156
+  orig: 406, 156
+  offset: 0, 0
+  index: -1
+effect/diliehe/dilie_04
+  rotate: false
+  xy: 410, 1234
+  size: 406, 156
+  orig: 406, 156
+  offset: 0, 0
+  index: -1
+effect/diliehe/dilie_05
+  rotate: false
+  xy: 818, 1392
+  size: 406, 156
+  orig: 406, 156
+  offset: 0, 0
+  index: -1
+effect/diliehe/dilie_06
+  rotate: false
+  xy: 2, 918
+  size: 406, 156
+  orig: 406, 156
+  offset: 0, 0
+  index: -1
+effect/diliehe/dilie_07
+  rotate: false
+  xy: 410, 1076
+  size: 406, 156
+  orig: 406, 156
+  offset: 0, 0
+  index: -1
+effect/diliehe/dilie_08
+  rotate: false
+  xy: 818, 1234
+  size: 406, 156
+  orig: 406, 156
+  offset: 0, 0
+  index: -1
+effect/diliehe/dilie_09
+  rotate: false
+  xy: 1226, 1392
+  size: 406, 156
+  orig: 406, 156
+  offset: 0, 0
+  index: -1
+effect/diliehe/dilie_10
+  rotate: false
+  xy: 2, 760
+  size: 406, 156
+  orig: 406, 156
+  offset: 0, 0
+  index: -1
+effect/diliehe/dilie_11
+  rotate: false
+  xy: 410, 918
+  size: 406, 156
+  orig: 406, 156
+  offset: 0, 0
+  index: -1
+effect/diliehe/dilie_12
+  rotate: false
+  xy: 818, 1076
+  size: 406, 156
+  orig: 406, 156
+  offset: 0, 0
+  index: -1
+effect/diliehe/dilie_13
+  rotate: false
+  xy: 1226, 1234
+  size: 406, 156
+  orig: 406, 156
+  offset: 0, 0
+  index: -1
+effect/diliehe/dilie_14
+  rotate: false
+  xy: 1634, 1392
+  size: 406, 156
+  orig: 406, 156
+  offset: 0, 0
+  index: -1
+effect/diliehe/dilie_15
+  rotate: false
+  xy: 2, 602
+  size: 406, 156
+  orig: 406, 156
+  offset: 0, 0
+  index: -1
+effect/diliehe/dilie_16
+  rotate: false
+  xy: 410, 760
+  size: 406, 156
+  orig: 406, 156
+  offset: 0, 0
+  index: -1
+effect/diliehe/dilie_17
+  rotate: false
+  xy: 818, 918
+  size: 406, 156
+  orig: 406, 156
+  offset: 0, 0
+  index: -1
+effect/diliehe/dilie_18
+  rotate: false
+  xy: 1226, 1076
+  size: 406, 156
+  orig: 406, 156
+  offset: 0, 0
+  index: -1
+effect/diliehe/dilie_19
+  rotate: false
+  xy: 1634, 1234
+  size: 406, 156
+  orig: 406, 156
+  offset: 0, 0
+  index: -1
+effect/diliehe/dilie_20
+  rotate: false
+  xy: 2, 444
+  size: 406, 156
+  orig: 406, 156
+  offset: 0, 0
+  index: -1
+effect/diliehe/dilie_21
+  rotate: false
+  xy: 410, 602
+  size: 406, 156
+  orig: 406, 156
+  offset: 0, 0
+  index: -1
+effect/diliehe/dilie_22
+  rotate: false
+  xy: 818, 760
+  size: 406, 156
+  orig: 406, 156
+  offset: 0, 0
+  index: -1
+effect/diliehe/dilie_23
+  rotate: false
+  xy: 1226, 918
+  size: 406, 156
+  orig: 406, 156
+  offset: 0, 0
+  index: -1
+effect/diliehe/dilie_24
+  rotate: false
+  xy: 1634, 1076
+  size: 406, 156
+  orig: 406, 156
+  offset: 0, 0
+  index: -1
+effect/diliehe/dilie_25
+  rotate: false
+  xy: 2, 286
+  size: 406, 156
+  orig: 406, 156
+  offset: 0, 0
+  index: -1
+effect/diliehe/dilie_26
+  rotate: false
+  xy: 410, 444
+  size: 406, 156
+  orig: 406, 156
+  offset: 0, 0
+  index: -1
+effect/diliehe/dilie_27
+  rotate: false
+  xy: 818, 602
+  size: 406, 156
+  orig: 406, 156
+  offset: 0, 0
+  index: -1
+effect/diliehe/dilie_28
+  rotate: false
+  xy: 1226, 760
+  size: 406, 156
+  orig: 406, 156
+  offset: 0, 0
+  index: -1
+effect/diliehe/dilie_29
+  rotate: false
+  xy: 1634, 918
+  size: 406, 156
+  orig: 406, 156
+  offset: 0, 0
+  index: -1
+effect/diliehe/guangzou_00
+  rotate: false
+  xy: 2, 144
+  size: 60, 140
+  orig: 60, 140
+  offset: 0, 0
+  index: -1
+effect/diliehe/guangzou_01
+  rotate: false
+  xy: 410, 302
+  size: 60, 140
+  orig: 60, 140
+  offset: 0, 0
+  index: -1
+effect/diliehe/guangzou_02
+  rotate: false
+  xy: 818, 460
+  size: 60, 140
+  orig: 60, 140
+  offset: 0, 0
+  index: -1
+effect/diliehe/guangzou_03
+  rotate: false
+  xy: 1226, 618
+  size: 60, 140
+  orig: 60, 140
+  offset: 0, 0
+  index: -1
+effect/diliehe/guangzou_04
+  rotate: false
+  xy: 1634, 776
+  size: 60, 140
+  orig: 60, 140
+  offset: 0, 0
+  index: -1
+effect/diliehe/guangzou_05
+  rotate: false
+  xy: 2, 2
+  size: 60, 140
+  orig: 60, 140
+  offset: 0, 0
+  index: -1
+effect/diliehe/guangzou_06
+  rotate: false
+  xy: 64, 144
+  size: 60, 140
+  orig: 60, 140
+  offset: 0, 0
+  index: -1
+effect/diliehe/guangzou_07
+  rotate: false
+  xy: 472, 302
+  size: 60, 140
+  orig: 60, 140
+  offset: 0, 0
+  index: -1
+effect/diliehe/liang
+  rotate: false
+  xy: 880, 500
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1

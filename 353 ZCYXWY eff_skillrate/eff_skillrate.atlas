@@ -1,0 +1,62 @@
+
+eff_skillrate.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/dian
+  rotate: false
+  xy: 247, 22
+  size: 29, 29
+  orig: 29, 29
+  offset: 0, 0
+  index: -1
+effect/guang
+  rotate: false
+  xy: 883, 134
+  size: 95, 111
+  orig: 95, 111
+  offset: 0, 0
+  index: -1
+effect/guangsi02
+  rotate: true
+  xy: 247, 150
+  size: 95, 254
+  orig: 95, 254
+  offset: 0, 0
+  index: -1
+effect/guangsi03
+  rotate: true
+  xy: 247, 53
+  size: 95, 254
+  orig: 95, 254
+  offset: 0, 0
+  index: -1
+effect/guangsi04
+  rotate: true
+  xy: 503, 150
+  size: 95, 254
+  orig: 95, 254
+  offset: 0, 0
+  index: -1
+effect/guangsi05
+  rotate: true
+  xy: 503, 53
+  size: 95, 254
+  orig: 95, 254
+  offset: 0, 0
+  index: -1
+effect/yuan01
+  rotate: false
+  xy: 2, 2
+  size: 243, 243
+  orig: 243, 243
+  offset: 0, 0
+  index: -1
+effect/yuanquan
+  rotate: false
+  xy: 759, 123
+  size: 122, 122
+  orig: 122, 122
+  offset: 0, 0
+  index: -1

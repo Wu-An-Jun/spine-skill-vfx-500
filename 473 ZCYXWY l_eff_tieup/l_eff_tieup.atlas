@@ -1,0 +1,48 @@
+
+l_eff_tieup.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/zhuan_01
+  rotate: false
+  xy: 2, 2
+  size: 133, 133
+  orig: 133, 133
+  offset: 0, 0
+  index: -1
+effect/zhuan_03
+  rotate: false
+  xy: 137, 2
+  size: 133, 133
+  orig: 133, 133
+  offset: 0, 0
+  index: -1
+effect/zhuan_05
+  rotate: false
+  xy: 272, 2
+  size: 133, 133
+  orig: 133, 133
+  offset: 0, 0
+  index: -1
+effect/zhuan_07
+  rotate: false
+  xy: 407, 2
+  size: 133, 133
+  orig: 133, 133
+  offset: 0, 0
+  index: -1
+effect/zhuan_09
+  rotate: false
+  xy: 542, 2
+  size: 133, 133
+  orig: 133, 133
+  offset: 0, 0
+  index: -1
+effect/zhuan_10
+  rotate: false
+  xy: 677, 2
+  size: 133, 133
+  orig: 133, 133
+  offset: 0, 0
+  index: -1

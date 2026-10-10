@@ -1,0 +1,83 @@
+
+eff_simoburst.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/lvqiang/guang
+  rotate: false
+  xy: 2, 99
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+effect/lvqiang/lizi2
+  rotate: false
+  xy: 2, 15
+  size: 83, 82
+  orig: 83, 82
+  offset: 0, 0
+  index: -1
+effect/lvqiang/pen_00
+  rotate: true
+  xy: 132, 127
+  size: 100, 150
+  orig: 100, 150
+  offset: 0, 0
+  index: -1
+effect/lvqiang/pen_01
+  rotate: true
+  xy: 284, 127
+  size: 100, 150
+  orig: 100, 150
+  offset: 0, 0
+  index: -1
+effect/lvqiang/pen_02
+  rotate: true
+  xy: 436, 127
+  size: 100, 150
+  orig: 100, 150
+  offset: 0, 0
+  index: -1
+effect/lvqiang/pen_03
+  rotate: true
+  xy: 588, 127
+  size: 100, 150
+  orig: 100, 150
+  offset: 0, 0
+  index: -1
+effect/lvqiang/shan01
+  rotate: false
+  xy: 740, 104
+  size: 123, 123
+  orig: 123, 123
+  offset: 0, 0
+  index: -1
+effect/lvqiang/shan02
+  rotate: false
+  xy: 865, 104
+  size: 123, 123
+  orig: 123, 123
+  offset: 0, 0
+  index: -1
+effect/lvqiang/shan03
+  rotate: false
+  xy: 132, 2
+  size: 123, 123
+  orig: 123, 123
+  offset: 0, 0
+  index: -1
+effect/lvqiang/shan04
+  rotate: false
+  xy: 257, 2
+  size: 123, 123
+  orig: 123, 123
+  offset: 0, 0
+  index: -1
+effect/lvqiang/yuan
+  rotate: false
+  xy: 382, 75
+  size: 100, 50
+  orig: 100, 50
+  offset: 0, 0
+  index: -1

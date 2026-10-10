@@ -1,0 +1,55 @@
+
+eff_venomcburst.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/baodian_01
+  rotate: false
+  xy: 814, 114
+  size: 153, 131
+  orig: 164, 139
+  offset: 4, 8
+  index: -1
+effect/baodian_02
+  rotate: false
+  xy: 2, 109
+  size: 164, 136
+  orig: 164, 139
+  offset: 0, 3
+  index: -1
+effect/baodian_03
+  rotate: false
+  xy: 655, 118
+  size: 157, 127
+  orig: 164, 139
+  offset: 5, 0
+  index: -1
+effect/baodian_04
+  rotate: false
+  xy: 168, 2
+  size: 153, 115
+  orig: 164, 139
+  offset: 4, 8
+  index: -1
+effect/baodian_05
+  rotate: false
+  xy: 168, 119
+  size: 164, 126
+  orig: 164, 139
+  offset: 0, 3
+  index: -1
+effect/baodian_06
+  rotate: false
+  xy: 495, 118
+  size: 158, 127
+  orig: 164, 139
+  offset: 4, 0
+  index: -1
+effect/baodian_07
+  rotate: false
+  xy: 334, 118
+  size: 159, 127
+  orig: 164, 139
+  offset: 3, 0
+  index: -1

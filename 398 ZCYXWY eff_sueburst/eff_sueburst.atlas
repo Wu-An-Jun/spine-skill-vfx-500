@@ -1,0 +1,146 @@
+
+eff_sueburst.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/bao01
+  rotate: false
+  xy: 126, 146
+  size: 130, 102
+  orig: 130, 102
+  offset: 0, 0
+  index: -1
+effect/bao02
+  rotate: false
+  xy: 258, 146
+  size: 130, 102
+  orig: 130, 102
+  offset: 0, 0
+  index: -1
+effect/bao03
+  rotate: false
+  xy: 390, 146
+  size: 130, 102
+  orig: 130, 102
+  offset: 0, 0
+  index: -1
+effect/bao04
+  rotate: false
+  xy: 522, 146
+  size: 130, 102
+  orig: 130, 102
+  offset: 0, 0
+  index: -1
+effect/bao05
+  rotate: false
+  xy: 654, 146
+  size: 130, 102
+  orig: 130, 102
+  offset: 0, 0
+  index: -1
+effect/bowen_01
+  rotate: false
+  xy: 786, 172
+  size: 76, 76
+  orig: 76, 76
+  offset: 0, 0
+  index: -1
+effect/bowen_02
+  rotate: false
+  xy: 864, 172
+  size: 76, 76
+  orig: 76, 76
+  offset: 0, 0
+  index: -1
+effect/bowen_03
+  rotate: false
+  xy: 942, 172
+  size: 76, 76
+  orig: 76, 76
+  offset: 0, 0
+  index: -1
+effect/bowen_04
+  rotate: false
+  xy: 65, 48
+  size: 76, 76
+  orig: 76, 76
+  offset: 0, 0
+  index: -1
+effect/bowen_05
+  rotate: false
+  xy: 143, 68
+  size: 76, 76
+  orig: 76, 76
+  offset: 0, 0
+  index: -1
+effect/bowen_06
+  rotate: false
+  xy: 221, 68
+  size: 76, 76
+  orig: 76, 76
+  offset: 0, 0
+  index: -1
+effect/bowen_07
+  rotate: false
+  xy: 299, 68
+  size: 76, 76
+  orig: 76, 76
+  offset: 0, 0
+  index: -1
+effect/bowen_08
+  rotate: false
+  xy: 377, 68
+  size: 76, 76
+  orig: 76, 76
+  offset: 0, 0
+  index: -1
+effect/bowen_09
+  rotate: false
+  xy: 455, 68
+  size: 76, 76
+  orig: 76, 76
+  offset: 0, 0
+  index: -1
+effect/bowen_10
+  rotate: false
+  xy: 533, 68
+  size: 76, 76
+  orig: 76, 76
+  offset: 0, 0
+  index: -1
+effect/dian
+  rotate: false
+  xy: 665, 106
+  size: 38, 38
+  orig: 38, 38
+  offset: 0, 0
+  index: -1
+effect/guang
+  rotate: false
+  xy: 2, 2
+  size: 61, 122
+  orig: 61, 122
+  offset: 0, 0
+  index: -1
+effect/yuan
+  rotate: false
+  xy: 2, 126
+  size: 122, 122
+  orig: 122, 122
+  offset: 0, 0
+  index: -1
+hero_sue/zhangyujiao
+  rotate: false
+  xy: 611, 83
+  size: 52, 61
+  orig: 52, 61
+  offset: 0, 0
+  index: -1
+hero_sue/zhangyujiaoer
+  rotate: false
+  xy: 65, 14
+  size: 46, 32
+  orig: 46, 32
+  offset: 0, 0
+  index: -1

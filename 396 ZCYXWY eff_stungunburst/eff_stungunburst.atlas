@@ -1,0 +1,111 @@
+
+eff_stungunburst.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/bao02
+  rotate: false
+  xy: 2, 135
+  size: 159, 105
+  orig: 159, 105
+  offset: 0, 0
+  index: -1
+effect/bao03
+  rotate: false
+  xy: 2, 28
+  size: 159, 105
+  orig: 159, 105
+  offset: 0, 0
+  index: -1
+effect/bao04
+  rotate: false
+  xy: 163, 135
+  size: 159, 105
+  orig: 159, 105
+  offset: 0, 0
+  index: -1
+effect/bao05
+  rotate: false
+  xy: 163, 28
+  size: 159, 105
+  orig: 159, 105
+  offset: 0, 0
+  index: -1
+effect/bao06
+  rotate: false
+  xy: 324, 135
+  size: 159, 105
+  orig: 159, 105
+  offset: 0, 0
+  index: -1
+effect/d1
+  rotate: false
+  xy: 453, 19
+  size: 105, 114
+  orig: 105, 114
+  offset: 0, 0
+  index: -1
+effect/d2
+  rotate: false
+  xy: 684, 22
+  size: 105, 114
+  orig: 105, 114
+  offset: 0, 0
+  index: -1
+effect/d3
+  rotate: true
+  xy: 791, 11
+  size: 105, 114
+  orig: 105, 114
+  offset: 0, 0
+  index: -1
+effect/d4
+  rotate: false
+  xy: 907, 2
+  size: 105, 114
+  orig: 105, 114
+  offset: 0, 0
+  index: -1
+effect/guang
+  rotate: false
+  xy: 872, 118
+  size: 122, 122
+  orig: 122, 122
+  offset: 0, 0
+  index: -1
+effect/xiaosan01
+  rotate: true
+  xy: 324, 31
+  size: 102, 127
+  orig: 102, 127
+  offset: 0, 0
+  index: -1
+effect/xiaosan02
+  rotate: true
+  xy: 485, 138
+  size: 102, 127
+  orig: 102, 127
+  offset: 0, 0
+  index: -1
+effect/xiaosan03
+  rotate: true
+  xy: 614, 138
+  size: 102, 127
+  orig: 102, 127
+  offset: 0, 0
+  index: -1
+effect/xiaosan04
+  rotate: true
+  xy: 743, 138
+  size: 102, 127
+  orig: 102, 127
+  offset: 0, 0
+  index: -1
+effect/yuan
+  rotate: false
+  xy: 560, 14
+  size: 122, 122
+  orig: 122, 122
+  offset: 0, 0
+  index: -1

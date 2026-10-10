@@ -1,0 +1,90 @@
+
+hellchain.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/lianzi
+  rotate: false
+  xy: 2, 2
+  size: 87, 19
+  orig: 90, 35
+  offset: 1, 8
+  index: -1
+effect/zhuan01
+  rotate: false
+  xy: 441, 158
+  size: 144, 63
+  orig: 150, 90
+  offset: 1, 11
+  index: -1
+effect/zhuan02
+  rotate: false
+  xy: 149, 157
+  size: 144, 64
+  orig: 150, 90
+  offset: 1, 11
+  index: -1
+effect/zhuan03
+  rotate: false
+  xy: 294, 25
+  size: 143, 64
+  orig: 150, 90
+  offset: 1, 11
+  index: -1
+effect/zhuan04
+  rotate: false
+  xy: 587, 158
+  size: 144, 63
+  orig: 150, 90
+  offset: 1, 11
+  index: -1
+effect/zhuan05
+  rotate: false
+  xy: 148, 91
+  size: 144, 64
+  orig: 150, 90
+  offset: 1, 11
+  index: -1
+effect/zhuan06
+  rotate: false
+  xy: 295, 157
+  size: 144, 64
+  orig: 150, 90
+  offset: 1, 11
+  index: -1
+effect/zhuan07
+  rotate: false
+  xy: 2, 157
+  size: 145, 64
+  orig: 150, 90
+  offset: 0, 11
+  index: -1
+effect/zhuan08
+  rotate: false
+  xy: 2, 90
+  size: 144, 65
+  orig: 150, 90
+  offset: 1, 10
+  index: -1
+effect/zhuan09
+  rotate: false
+  xy: 2, 23
+  size: 144, 65
+  orig: 150, 90
+  offset: 0, 10
+  index: -1
+effect/zhuan10
+  rotate: false
+  xy: 148, 25
+  size: 144, 64
+  orig: 150, 90
+  offset: 1, 10
+  index: -1
+effect/zhuan11
+  rotate: false
+  xy: 294, 91
+  size: 144, 64
+  orig: 150, 90
+  offset: 0, 11
+  index: -1

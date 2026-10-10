@@ -1,0 +1,27 @@
+
+eff_speed.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/liudong
+  rotate: false
+  xy: 2, 2
+  size: 243, 243
+  orig: 243, 243
+  offset: 0, 0
+  index: -1
+effect/xian
+  rotate: true
+  xy: 439, 123
+  size: 122, 243
+  orig: 122, 243
+  offset: 0, 0
+  index: -1
+effect/yun
+  rotate: false
+  xy: 247, 55
+  size: 190, 190
+  orig: 190, 190
+  offset: 0, 0
+  index: -1

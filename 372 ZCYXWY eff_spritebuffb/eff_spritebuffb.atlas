@@ -1,0 +1,118 @@
+
+eff_spritebuffb.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/di_00
+  rotate: false
+  xy: 379, 139
+  size: 102, 102
+  orig: 102, 102
+  offset: 0, 0
+  index: -1
+effect/di_01
+  rotate: false
+  xy: 483, 139
+  size: 102, 102
+  orig: 102, 102
+  offset: 0, 0
+  index: -1
+effect/di_02
+  rotate: false
+  xy: 587, 139
+  size: 102, 102
+  orig: 102, 102
+  offset: 0, 0
+  index: -1
+effect/di_03
+  rotate: false
+  xy: 691, 139
+  size: 102, 102
+  orig: 102, 102
+  offset: 0, 0
+  index: -1
+effect/di_04
+  rotate: false
+  xy: 795, 139
+  size: 102, 102
+  orig: 102, 102
+  offset: 0, 0
+  index: -1
+effect/di_05
+  rotate: false
+  xy: 899, 139
+  size: 102, 102
+  orig: 102, 102
+  offset: 0, 0
+  index: -1
+effect/di_06
+  rotate: false
+  xy: 203, 2
+  size: 102, 102
+  orig: 102, 102
+  offset: 0, 0
+  index: -1
+effect/di_07
+  rotate: false
+  xy: 307, 2
+  size: 102, 102
+  orig: 102, 102
+  offset: 0, 0
+  index: -1
+effect/di_08
+  rotate: false
+  xy: 411, 35
+  size: 102, 102
+  orig: 102, 102
+  offset: 0, 0
+  index: -1
+effect/di_09
+  rotate: false
+  xy: 515, 35
+  size: 102, 102
+  orig: 102, 102
+  offset: 0, 0
+  index: -1
+effect/di_10
+  rotate: false
+  xy: 619, 35
+  size: 102, 102
+  orig: 102, 102
+  offset: 0, 0
+  index: -1
+effect/di_11
+  rotate: false
+  xy: 723, 35
+  size: 102, 102
+  orig: 102, 102
+  offset: 0, 0
+  index: -1
+effect/diquan
+  rotate: false
+  xy: 827, 35
+  size: 102, 102
+  orig: 102, 102
+  offset: 0, 0
+  index: -1
+effect/guang
+  rotate: false
+  xy: 2, 42
+  size: 199, 199
+  orig: 199, 199
+  offset: 0, 0
+  index: -1
+effect/line
+  rotate: true
+  xy: 2, 23
+  size: 17, 130
+  orig: 17, 130
+  offset: 0, 0
+  index: -1
+m_sylphking/0000
+  rotate: false
+  xy: 203, 106
+  size: 174, 135
+  orig: 174, 135
+  offset: 0, 0
+  index: -1

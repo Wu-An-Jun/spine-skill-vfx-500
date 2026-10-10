@@ -1,0 +1,132 @@
+
+eff_virtue.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/fazhenhuan
+  rotate: false
+  xy: 1262, 386
+  size: 239, 242
+  orig: 239, 242
+  offset: 0, 0
+  index: -1
+effect/guangxiao
+  rotate: false
+  xy: 1577, 917
+  size: 200, 67
+  orig: 200, 67
+  offset: 0, 0
+  index: -1
+effect/liang
+  rotate: false
+  xy: 1577, 698
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+effect/shizijin_00
+  rotate: false
+  xy: 2, 630
+  size: 313, 354
+  orig: 313, 354
+  offset: 0, 0
+  index: -1
+effect/shizijin_01
+  rotate: false
+  xy: 2, 274
+  size: 313, 354
+  orig: 313, 354
+  offset: 0, 0
+  index: -1
+effect/shizijin_02
+  rotate: false
+  xy: 317, 630
+  size: 313, 354
+  orig: 313, 354
+  offset: 0, 0
+  index: -1
+effect/shizijin_03
+  rotate: false
+  xy: 317, 274
+  size: 313, 354
+  orig: 313, 354
+  offset: 0, 0
+  index: -1
+effect/shizijin_04
+  rotate: false
+  xy: 632, 630
+  size: 313, 354
+  orig: 313, 354
+  offset: 0, 0
+  index: -1
+effect/shizijin_05
+  rotate: false
+  xy: 632, 274
+  size: 313, 354
+  orig: 313, 354
+  offset: 0, 0
+  index: -1
+effect/shizijin_06
+  rotate: false
+  xy: 947, 630
+  size: 313, 354
+  orig: 313, 354
+  offset: 0, 0
+  index: -1
+effect/shizijin_07
+  rotate: false
+  xy: 947, 274
+  size: 313, 354
+  orig: 313, 354
+  offset: 0, 0
+  index: -1
+effect/shizijin_08
+  rotate: false
+  xy: 1262, 630
+  size: 313, 354
+  orig: 313, 354
+  offset: 0, 0
+  index: -1
+effect/tianguang
+  rotate: true
+  xy: 2, 2
+  size: 270, 334
+  orig: 270, 334
+  offset: 0, 0
+  index: -1
+effect/xiaosan01
+  rotate: false
+  xy: 338, 157
+  size: 120, 115
+  orig: 120, 115
+  offset: 0, 0
+  index: -1
+effect/xiaosan02
+  rotate: false
+  xy: 1577, 800
+  size: 120, 115
+  orig: 120, 115
+  offset: 0, 0
+  index: -1
+effect/xiaosan03
+  rotate: false
+  xy: 338, 40
+  size: 120, 115
+  orig: 120, 115
+  offset: 0, 0
+  index: -1
+effect/xiaosan04
+  rotate: false
+  xy: 460, 157
+  size: 120, 115
+  orig: 120, 115
+  offset: 0, 0
+  index: -1
+effect/yumao
+  rotate: false
+  xy: 1262, 323
+  size: 163, 61
+  orig: 163, 61
+  offset: 0, 0
+  index: -1

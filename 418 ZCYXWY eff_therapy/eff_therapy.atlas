@@ -1,0 +1,139 @@
+
+eff_therapy.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+candlelight_10100/zhen4
+  rotate: false
+  xy: 498, 376
+  size: 121, 120
+  orig: 121, 120
+  offset: 0, 0
+  index: -1
+candlelight_10100/zhen5
+  rotate: false
+  xy: 250, 4
+  size: 121, 120
+  orig: 121, 120
+  offset: 0, 0
+  index: -1
+candlelight_10100/zhen9
+  rotate: false
+  xy: 374, 128
+  size: 121, 120
+  orig: 121, 120
+  offset: 0, 0
+  index: -1
+effect/dian01
+  rotate: false
+  xy: 621, 439
+  size: 57, 57
+  orig: 57, 57
+  offset: 0, 0
+  index: -1
+effect/shan01
+  rotate: false
+  xy: 498, 252
+  size: 29, 122
+  orig: 29, 122
+  offset: 0, 0
+  index: -1
+effect/shizi
+  rotate: false
+  xy: 529, 317
+  size: 57, 57
+  orig: 57, 57
+  offset: 0, 0
+  index: -1
+effect/xiaosan_01
+  rotate: false
+  xy: 2, 374
+  size: 122, 122
+  orig: 122, 122
+  offset: 0, 0
+  index: -1
+effect/xiaosan_02
+  rotate: false
+  xy: 2, 250
+  size: 122, 122
+  orig: 122, 122
+  offset: 0, 0
+  index: -1
+effect/xiaosan_03
+  rotate: false
+  xy: 126, 374
+  size: 122, 122
+  orig: 122, 122
+  offset: 0, 0
+  index: -1
+effect/xiaosan_04
+  rotate: false
+  xy: 2, 126
+  size: 122, 122
+  orig: 122, 122
+  offset: 0, 0
+  index: -1
+effect/xiaosan_05
+  rotate: false
+  xy: 126, 250
+  size: 122, 122
+  orig: 122, 122
+  offset: 0, 0
+  index: -1
+effect/xiaosan_06
+  rotate: false
+  xy: 250, 374
+  size: 122, 122
+  orig: 122, 122
+  offset: 0, 0
+  index: -1
+effect/xiaosan_07
+  rotate: false
+  xy: 2, 2
+  size: 122, 122
+  orig: 122, 122
+  offset: 0, 0
+  index: -1
+effect/xiaosan_08
+  rotate: false
+  xy: 126, 126
+  size: 122, 122
+  orig: 122, 122
+  offset: 0, 0
+  index: -1
+effect/xiaosan_09
+  rotate: false
+  xy: 250, 250
+  size: 122, 122
+  orig: 122, 122
+  offset: 0, 0
+  index: -1
+effect/xiaosan_10
+  rotate: false
+  xy: 374, 374
+  size: 122, 122
+  orig: 122, 122
+  offset: 0, 0
+  index: -1
+effect/xiaosan_11
+  rotate: false
+  xy: 126, 2
+  size: 122, 122
+  orig: 122, 122
+  offset: 0, 0
+  index: -1
+effect/xiaosan_12
+  rotate: false
+  xy: 250, 126
+  size: 122, 122
+  orig: 122, 122
+  offset: 0, 0
+  index: -1
+effect/yuan
+  rotate: false
+  xy: 374, 250
+  size: 122, 122
+  orig: 122, 122
+  offset: 0, 0
+  index: -1

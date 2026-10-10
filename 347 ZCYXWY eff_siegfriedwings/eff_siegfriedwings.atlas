@@ -1,0 +1,118 @@
+
+eff_siegfriedwings.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/wings_00
+  rotate: false
+  xy: 2, 646
+  size: 300, 320
+  orig: 300, 320
+  offset: 0, 0
+  index: -1
+effect/wings_02
+  rotate: false
+  xy: 2, 324
+  size: 300, 320
+  orig: 300, 320
+  offset: 0, 0
+  index: -1
+effect/wings_04
+  rotate: false
+  xy: 304, 646
+  size: 300, 320
+  orig: 300, 320
+  offset: 0, 0
+  index: -1
+effect/wings_06
+  rotate: false
+  xy: 2, 2
+  size: 300, 320
+  orig: 300, 320
+  offset: 0, 0
+  index: -1
+effect/wings_08
+  rotate: false
+  xy: 304, 324
+  size: 300, 320
+  orig: 300, 320
+  offset: 0, 0
+  index: -1
+effect/wings_10
+  rotate: false
+  xy: 606, 646
+  size: 300, 320
+  orig: 300, 320
+  offset: 0, 0
+  index: -1
+effect/wings_12
+  rotate: false
+  xy: 304, 2
+  size: 300, 320
+  orig: 300, 320
+  offset: 0, 0
+  index: -1
+effect/wings_14
+  rotate: false
+  xy: 606, 324
+  size: 300, 320
+  orig: 300, 320
+  offset: 0, 0
+  index: -1
+effect/wings_16
+  rotate: false
+  xy: 908, 646
+  size: 300, 320
+  orig: 300, 320
+  offset: 0, 0
+  index: -1
+effect/wings_18
+  rotate: false
+  xy: 606, 2
+  size: 300, 320
+  orig: 300, 320
+  offset: 0, 0
+  index: -1
+effect/wings_20
+  rotate: false
+  xy: 908, 324
+  size: 300, 320
+  orig: 300, 320
+  offset: 0, 0
+  index: -1
+effect/wings_22
+  rotate: false
+  xy: 1210, 646
+  size: 300, 320
+  orig: 300, 320
+  offset: 0, 0
+  index: -1
+effect/wings_24
+  rotate: false
+  xy: 908, 2
+  size: 300, 320
+  orig: 300, 320
+  offset: 0, 0
+  index: -1
+effect/wings_26
+  rotate: false
+  xy: 1210, 324
+  size: 300, 320
+  orig: 300, 320
+  offset: 0, 0
+  index: -1
+effect/wings_28
+  rotate: false
+  xy: 1512, 646
+  size: 300, 320
+  orig: 300, 320
+  offset: 0, 0
+  index: -1
+effect/wings_30
+  rotate: false
+  xy: 1210, 2
+  size: 300, 320
+  orig: 300, 320
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,118 @@
+
+skeleton.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+01
+  rotate: false
+  xy: 2, 1197
+  size: 794, 794
+  orig: 794, 794
+  offset: 0, 0
+  index: -1
+02
+  rotate: false
+  xy: 2, 401
+  size: 794, 794
+  orig: 794, 794
+  offset: 0, 0
+  index: -1
+03
+  rotate: false
+  xy: 798, 1197
+  size: 794, 794
+  orig: 794, 794
+  offset: 0, 0
+  index: -1
+04
+  rotate: false
+  xy: 798, 401
+  size: 794, 794
+  orig: 794, 794
+  offset: 0, 0
+  index: -1
+05
+  rotate: false
+  xy: 2, 2
+  size: 397, 397
+  orig: 397, 397
+  offset: 0, 0
+  index: -1
+06
+  rotate: false
+  xy: 1594, 1594
+  size: 397, 397
+  orig: 397, 397
+  offset: 0, 0
+  index: -1
+07
+  rotate: false
+  xy: 401, 2
+  size: 397, 397
+  orig: 397, 397
+  offset: 0, 0
+  index: -1
+08
+  rotate: false
+  xy: 1594, 1195
+  size: 397, 397
+  orig: 397, 397
+  offset: 0, 0
+  index: -1
+09
+  rotate: false
+  xy: 800, 2
+  size: 397, 397
+  orig: 397, 397
+  offset: 0, 0
+  index: -1
+10
+  rotate: false
+  xy: 1594, 796
+  size: 397, 397
+  orig: 397, 397
+  offset: 0, 0
+  index: -1
+11
+  rotate: false
+  xy: 1844, 596
+  size: 198, 198
+  orig: 198, 198
+  offset: 0, 0
+  index: -1
+A5
+  rotate: false
+  xy: 1199, 149
+  size: 248, 250
+  orig: 248, 250
+  offset: 0, 0
+  index: -1
+A6
+  rotate: false
+  xy: 1594, 544
+  size: 248, 250
+  orig: 248, 250
+  offset: 0, 0
+  index: -1
+A7
+  rotate: false
+  xy: 1449, 149
+  size: 248, 250
+  orig: 248, 250
+  offset: 0, 0
+  index: -1
+A8B
+  rotate: true
+  xy: 1199, 68
+  size: 79, 222
+  orig: 79, 222
+  offset: 0, 0
+  index: -1
+A9B
+  rotate: true
+  xy: 1594, 468
+  size: 74, 219
+  orig: 74, 219
+  offset: 0, 0
+  index: -1

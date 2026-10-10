@@ -1,0 +1,174 @@
+
+eff_sueburst8.png
+size: 2048,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/bao01
+  rotate: false
+  xy: 132, 140
+  size: 137, 107
+  orig: 137, 107
+  offset: 0, 0
+  index: -1
+effect/bao02
+  rotate: false
+  xy: 271, 140
+  size: 137, 107
+  orig: 137, 107
+  offset: 0, 0
+  index: -1
+effect/bao03
+  rotate: false
+  xy: 410, 140
+  size: 137, 107
+  orig: 137, 107
+  offset: 0, 0
+  index: -1
+effect/bao04
+  rotate: false
+  xy: 549, 140
+  size: 137, 107
+  orig: 137, 107
+  offset: 0, 0
+  index: -1
+effect/bao05
+  rotate: false
+  xy: 688, 140
+  size: 137, 107
+  orig: 137, 107
+  offset: 0, 0
+  index: -1
+effect/bowen_01
+  rotate: false
+  xy: 1375, 167
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+effect/bowen_02
+  rotate: false
+  xy: 1457, 167
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+effect/bowen_03
+  rotate: false
+  xy: 1539, 167
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+effect/bowen_04
+  rotate: false
+  xy: 1621, 167
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+effect/bowen_05
+  rotate: false
+  xy: 1703, 167
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+effect/bowen_06
+  rotate: false
+  xy: 1785, 167
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+effect/bowen_07
+  rotate: false
+  xy: 1867, 167
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+effect/bowen_08
+  rotate: false
+  xy: 1949, 167
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+effect/bowen_09
+  rotate: false
+  xy: 827, 105
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+effect/bowen_10
+  rotate: false
+  xy: 909, 105
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+effect/dian
+  rotate: false
+  xy: 1491, 125
+  size: 40, 40
+  orig: 40, 40
+  offset: 0, 0
+  index: -1
+effect/guang
+  rotate: true
+  xy: 827, 187
+  size: 60, 180
+  orig: 60, 180
+  offset: 0, 0
+  index: -1
+effect/xiaosan01
+  rotate: false
+  xy: 1009, 132
+  size: 120, 115
+  orig: 120, 115
+  offset: 0, 0
+  index: -1
+effect/xiaosan02
+  rotate: false
+  xy: 1131, 132
+  size: 120, 115
+  orig: 120, 115
+  offset: 0, 0
+  index: -1
+effect/xiaosan03
+  rotate: false
+  xy: 1253, 132
+  size: 120, 115
+  orig: 120, 115
+  offset: 0, 0
+  index: -1
+effect/xiaosan04
+  rotate: false
+  xy: 2, 2
+  size: 120, 115
+  orig: 120, 115
+  offset: 0, 0
+  index: -1
+effect/yuan
+  rotate: false
+  xy: 2, 119
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+hero_sue/zhangyujiao
+  rotate: true
+  xy: 1375, 110
+  size: 55, 64
+  orig: 55, 64
+  offset: 0, 0
+  index: -1
+hero_sue/zhangyujiaoer
+  rotate: false
+  xy: 1441, 131
+  size: 48, 34
+  orig: 48, 34
+  offset: 0, 0
+  index: -1

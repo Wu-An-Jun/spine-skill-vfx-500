@@ -1,0 +1,97 @@
+
+eff_qigeharsh.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/dun
+  rotate: false
+  xy: 2, 6
+  size: 190, 190
+  orig: 190, 190
+  offset: 0, 0
+  index: -1
+effect/guang
+  rotate: false
+  xy: 194, 74
+  size: 122, 122
+  orig: 122, 122
+  offset: 0, 0
+  index: -1
+effect/guang01
+  rotate: false
+  xy: 442, 101
+  size: 95, 95
+  orig: 95, 95
+  offset: 0, 0
+  index: -1
+effect/tiao
+  rotate: true
+  xy: 539, 82
+  size: 19, 49
+  orig: 19, 49
+  offset: 0, 0
+  index: -1
+effect/tiao02
+  rotate: true
+  xy: 442, 77
+  size: 22, 95
+  orig: 22, 95
+  offset: 0, 0
+  index: -1
+effect/xiaosan01
+  rotate: false
+  xy: 539, 103
+  size: 70, 93
+  orig: 70, 93
+  offset: 0, 0
+  index: -1
+effect/xiaosan02
+  rotate: false
+  xy: 611, 103
+  size: 70, 93
+  orig: 70, 93
+  offset: 0, 0
+  index: -1
+effect/xiaosan03
+  rotate: false
+  xy: 683, 103
+  size: 70, 93
+  orig: 70, 93
+  offset: 0, 0
+  index: -1
+effect/xiaosan04
+  rotate: false
+  xy: 755, 103
+  size: 70, 93
+  orig: 70, 93
+  offset: 0, 0
+  index: -1
+effect/xiaosan05
+  rotate: false
+  xy: 827, 103
+  size: 70, 93
+  orig: 70, 93
+  offset: 0, 0
+  index: -1
+effect/xiaosan06
+  rotate: false
+  xy: 899, 103
+  size: 70, 93
+  orig: 70, 93
+  offset: 0, 0
+  index: -1
+effect/xiaosan07
+  rotate: true
+  xy: 194, 2
+  size: 70, 93
+  orig: 70, 93
+  offset: 0, 0
+  index: -1
+effect/yuan
+  rotate: false
+  xy: 318, 74
+  size: 122, 122
+  orig: 122, 122
+  offset: 0, 0
+  index: -1

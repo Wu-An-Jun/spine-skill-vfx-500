@@ -1,0 +1,90 @@
+
+eff_tenshoblessing.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/dian
+  rotate: false
+  xy: 276, 184
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+effect/guangzou01
+  rotate: false
+  xy: 107, 26
+  size: 30, 70
+  orig: 30, 70
+  offset: 0, 0
+  index: -1
+effect/guangzou02
+  rotate: true
+  xy: 342, 218
+  size: 30, 70
+  orig: 30, 70
+  offset: 0, 0
+  index: -1
+effect/guangzou03
+  rotate: true
+  xy: 342, 186
+  size: 30, 70
+  orig: 30, 70
+  offset: 0, 0
+  index: -1
+effect/guangzou04
+  rotate: true
+  xy: 414, 218
+  size: 30, 70
+  orig: 30, 70
+  offset: 0, 0
+  index: -1
+effect/guangzou05
+  rotate: true
+  xy: 414, 186
+  size: 30, 70
+  orig: 30, 70
+  offset: 0, 0
+  index: -1
+effect/guangzou06
+  rotate: true
+  xy: 154, 96
+  size: 30, 70
+  orig: 30, 70
+  offset: 0, 0
+  index: -1
+effect/guangzou07
+  rotate: true
+  xy: 276, 152
+  size: 30, 70
+  orig: 30, 70
+  offset: 0, 0
+  index: -1
+effect/guangzou08
+  rotate: true
+  xy: 348, 154
+  size: 30, 70
+  orig: 30, 70
+  offset: 0, 0
+  index: -1
+effect/zhuan
+  rotate: false
+  xy: 2, 98
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+effect/zhuan01
+  rotate: false
+  xy: 154, 128
+  size: 120, 120
+  orig: 120, 120
+  offset: 0, 0
+  index: -1
+effect/zhuan02
+  rotate: true
+  xy: 2, 2
+  size: 94, 103
+  orig: 94, 103
+  offset: 0, 0
+  index: -1

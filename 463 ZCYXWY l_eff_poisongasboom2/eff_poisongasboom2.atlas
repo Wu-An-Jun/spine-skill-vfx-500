@@ -1,0 +1,97 @@
+
+eff_poisongasboom2.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/bao
+  rotate: false
+  xy: 868, 153
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+effect/baozha_11
+  rotate: false
+  xy: 2, 53
+  size: 128, 200
+  orig: 128, 200
+  offset: 0, 0
+  index: -1
+effect/baozha_12
+  rotate: false
+  xy: 132, 53
+  size: 128, 200
+  orig: 128, 200
+  offset: 0, 0
+  index: -1
+effect/dian
+  rotate: false
+  xy: 262, 73
+  size: 60, 60
+  orig: 60, 60
+  offset: 0, 0
+  index: -1
+effect/duqidan
+  rotate: false
+  xy: 2, 2
+  size: 49, 49
+  orig: 49, 49
+  offset: 0, 0
+  index: -1
+effect/guang
+  rotate: false
+  xy: 324, 73
+  size: 60, 60
+  orig: 60, 60
+  offset: 0, 0
+  index: -1
+effect/shang01
+  rotate: false
+  xy: 262, 135
+  size: 99, 118
+  orig: 99, 118
+  offset: 0, 0
+  index: -1
+effect/shang02
+  rotate: false
+  xy: 363, 135
+  size: 99, 118
+  orig: 99, 118
+  offset: 0, 0
+  index: -1
+effect/shang03
+  rotate: false
+  xy: 464, 135
+  size: 99, 118
+  orig: 99, 118
+  offset: 0, 0
+  index: -1
+effect/shang04
+  rotate: false
+  xy: 565, 135
+  size: 99, 118
+  orig: 99, 118
+  offset: 0, 0
+  index: -1
+effect/shang05
+  rotate: false
+  xy: 666, 135
+  size: 99, 118
+  orig: 99, 118
+  offset: 0, 0
+  index: -1
+effect/shang06
+  rotate: false
+  xy: 767, 135
+  size: 99, 118
+  orig: 99, 118
+  offset: 0, 0
+  index: -1
+effect/yan
+  rotate: false
+  xy: 386, 73
+  size: 60, 60
+  orig: 60, 60
+  offset: 0, 0
+  index: -1

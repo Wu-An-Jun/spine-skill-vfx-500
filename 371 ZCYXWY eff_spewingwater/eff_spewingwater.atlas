@@ -1,0 +1,202 @@
+
+eff_spewingwater.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/bowen01
+  rotate: false
+  xy: 2, 377
+  size: 133, 133
+  orig: 133, 133
+  offset: 0, 0
+  index: -1
+effect/bowen02
+  rotate: false
+  xy: 2, 242
+  size: 133, 133
+  orig: 133, 133
+  offset: 0, 0
+  index: -1
+effect/bowen03
+  rotate: false
+  xy: 137, 377
+  size: 133, 133
+  orig: 133, 133
+  offset: 0, 0
+  index: -1
+effect/bowen04
+  rotate: false
+  xy: 2, 107
+  size: 133, 133
+  orig: 133, 133
+  offset: 0, 0
+  index: -1
+effect/bowen05
+  rotate: false
+  xy: 137, 242
+  size: 133, 133
+  orig: 133, 133
+  offset: 0, 0
+  index: -1
+effect/bowen06
+  rotate: false
+  xy: 272, 377
+  size: 133, 133
+  orig: 133, 133
+  offset: 0, 0
+  index: -1
+effect/pen01
+  rotate: true
+  xy: 407, 403
+  size: 107, 143
+  orig: 107, 143
+  offset: 0, 0
+  index: -1
+effect/pen02
+  rotate: true
+  xy: 552, 403
+  size: 107, 143
+  orig: 107, 143
+  offset: 0, 0
+  index: -1
+effect/pen03
+  rotate: true
+  xy: 697, 403
+  size: 107, 143
+  orig: 107, 143
+  offset: 0, 0
+  index: -1
+effect/pen04
+  rotate: true
+  xy: 842, 403
+  size: 107, 143
+  orig: 107, 143
+  offset: 0, 0
+  index: -1
+effect/pen05
+  rotate: false
+  xy: 137, 97
+  size: 107, 143
+  orig: 107, 143
+  offset: 0, 0
+  index: -1
+effect/pen06
+  rotate: false
+  xy: 272, 232
+  size: 107, 143
+  orig: 107, 143
+  offset: 0, 0
+  index: -1
+effect/pen07
+  rotate: false
+  xy: 246, 87
+  size: 107, 143
+  orig: 107, 143
+  offset: 0, 0
+  index: -1
+effect/pen08
+  rotate: true
+  xy: 381, 235
+  size: 107, 143
+  orig: 107, 143
+  offset: 0, 0
+  index: -1
+effect/pen09
+  rotate: true
+  xy: 599, 294
+  size: 107, 143
+  orig: 107, 143
+  offset: 0, 0
+  index: -1
+effect/pen10
+  rotate: true
+  xy: 744, 294
+  size: 107, 143
+  orig: 107, 143
+  offset: 0, 0
+  index: -1
+effect/shui01
+  rotate: false
+  xy: 526, 220
+  size: 48, 122
+  orig: 48, 122
+  offset: 0, 0
+  index: -1
+effect/shui02
+  rotate: true
+  xy: 118, 47
+  size: 48, 122
+  orig: 48, 122
+  offset: 0, 0
+  index: -1
+effect/shui03
+  rotate: false
+  xy: 808, 170
+  size: 48, 122
+  orig: 48, 122
+  offset: 0, 0
+  index: -1
+effect/shui04
+  rotate: false
+  xy: 974, 163
+  size: 48, 122
+  orig: 48, 122
+  offset: 0, 0
+  index: -1
+effect/shuipen01
+  rotate: false
+  xy: 2, 2
+  size: 114, 103
+  orig: 114, 103
+  offset: 0, 0
+  index: -1
+effect/shuipen02
+  rotate: true
+  xy: 889, 287
+  size: 114, 103
+  orig: 114, 103
+  offset: 0, 0
+  index: -1
+effect/shuipen03
+  rotate: false
+  xy: 576, 189
+  size: 114, 103
+  orig: 114, 103
+  offset: 0, 0
+  index: -1
+effect/shuipen04
+  rotate: false
+  xy: 692, 189
+  size: 114, 103
+  orig: 114, 103
+  offset: 0, 0
+  index: -1
+effect/shuipen05
+  rotate: false
+  xy: 858, 182
+  size: 114, 103
+  orig: 114, 103
+  offset: 0, 0
+  index: -1
+effect/shuipen06
+  rotate: false
+  xy: 858, 77
+  size: 114, 103
+  orig: 114, 103
+  offset: 0, 0
+  index: -1
+effect/shuipen07
+  rotate: true
+  xy: 355, 116
+  size: 114, 103
+  orig: 114, 103
+  offset: 0, 0
+  index: -1
+effect/si
+  rotate: true
+  xy: 407, 344
+  size: 57, 190
+  orig: 57, 190
+  offset: 0, 0
+  index: -1

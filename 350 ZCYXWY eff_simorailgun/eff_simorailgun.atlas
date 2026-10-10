@@ -1,0 +1,76 @@
+
+eff_simorailgun.png
+size: 1024,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/kuosan01
+  rotate: false
+  xy: 2, 33
+  size: 80, 89
+  orig: 80, 89
+  offset: 0, 0
+  index: -1
+effect/kuosan02
+  rotate: false
+  xy: 84, 33
+  size: 80, 89
+  orig: 80, 89
+  offset: 0, 0
+  index: -1
+effect/kuosan03
+  rotate: false
+  xy: 166, 33
+  size: 80, 89
+  orig: 80, 89
+  offset: 0, 0
+  index: -1
+effect/kuosan04
+  rotate: false
+  xy: 248, 33
+  size: 80, 89
+  orig: 80, 89
+  offset: 0, 0
+  index: -1
+effect/kuosan05
+  rotate: false
+  xy: 330, 33
+  size: 80, 89
+  orig: 80, 89
+  offset: 0, 0
+  index: -1
+effect/shandian01
+  rotate: false
+  xy: 412, 65
+  size: 52, 57
+  orig: 52, 57
+  offset: 0, 0
+  index: -1
+effect/shandian02
+  rotate: false
+  xy: 466, 65
+  size: 52, 57
+  orig: 52, 57
+  offset: 0, 0
+  index: -1
+effect/shandian03
+  rotate: false
+  xy: 520, 65
+  size: 52, 57
+  orig: 52, 57
+  offset: 0, 0
+  index: -1
+effect/shandian04
+  rotate: false
+  xy: 574, 65
+  size: 52, 57
+  orig: 52, 57
+  offset: 0, 0
+  index: -1
+effect/tiao
+  rotate: false
+  xy: 2, 2
+  size: 122, 29
+  orig: 122, 29
+  offset: 0, 0
+  index: -1

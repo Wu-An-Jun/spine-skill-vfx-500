@@ -1,0 +1,27 @@
+
+eff_muramasaeye.png
+size: 512,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/hongguang
+  rotate: false
+  xy: 247, 5
+  size: 48, 33
+  orig: 48, 33
+  offset: 0, 0
+  index: -1
+effect/tiao
+  rotate: true
+  xy: 2, 2
+  size: 95, 243
+  orig: 95, 243
+  offset: 0, 0
+  index: -1
+effect/xingguang
+  rotate: false
+  xy: 247, 40
+  size: 57, 57
+  orig: 57, 57
+  offset: 0, 0
+  index: -1

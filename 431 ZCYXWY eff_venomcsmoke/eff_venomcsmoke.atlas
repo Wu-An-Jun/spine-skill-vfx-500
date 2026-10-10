@@ -1,0 +1,62 @@
+
+eff_venomcsmoke.png
+size: 1024,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/yan01
+  rotate: false
+  xy: 2, 2
+  size: 122, 122
+  orig: 122, 122
+  offset: 0, 0
+  index: -1
+effect/yan02
+  rotate: false
+  xy: 126, 2
+  size: 122, 122
+  orig: 122, 122
+  offset: 0, 0
+  index: -1
+effect/yan03
+  rotate: false
+  xy: 250, 2
+  size: 122, 122
+  orig: 122, 122
+  offset: 0, 0
+  index: -1
+effect/yan04
+  rotate: false
+  xy: 374, 2
+  size: 122, 122
+  orig: 122, 122
+  offset: 0, 0
+  index: -1
+effect/yan05
+  rotate: false
+  xy: 498, 2
+  size: 122, 122
+  orig: 122, 122
+  offset: 0, 0
+  index: -1
+effect/yan06
+  rotate: false
+  xy: 622, 2
+  size: 122, 122
+  orig: 122, 122
+  offset: 0, 0
+  index: -1
+effect/yan07
+  rotate: false
+  xy: 746, 2
+  size: 122, 122
+  orig: 122, 122
+  offset: 0, 0
+  index: -1
+effect/yan08
+  rotate: false
+  xy: 870, 2
+  size: 122, 122
+  orig: 122, 122
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,139 @@
+
+ayin_attack13_1_1.png
+size: 406,391
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+tx_bomb1_00
+  rotate: false
+  xy: 371, 362
+  size: 27, 27
+  orig: 27, 27
+  offset: 0, 0
+  index: -1
+tx_cao1_00
+  rotate: false
+  xy: 295, 132
+  size: 42, 44
+  orig: 72, 137
+  offset: 14, 0
+  index: -1
+tx_cao1_01
+  rotate: false
+  xy: 301, 64
+  size: 57, 66
+  orig: 72, 137
+  offset: 14, 0
+  index: -1
+tx_cao1_02
+  rotate: true
+  xy: 231, 178
+  size: 63, 93
+  orig: 72, 137
+  offset: 9, 0
+  index: -1
+tx_cao1_03
+  rotate: true
+  xy: 233, 243
+  size: 72, 117
+  orig: 72, 137
+  offset: 0, 0
+  index: -1
+tx_cao1_04
+  rotate: true
+  xy: 233, 317
+  size: 72, 136
+  orig: 72, 137
+  offset: 0, 0
+  index: -1
+tx_cao2_00
+  rotate: true
+  xy: 352, 258
+  size: 57, 52
+  orig: 128, 95
+  offset: 1, 0
+  index: -1
+tx_cao2_01
+  rotate: true
+  xy: 236, 36
+  size: 84, 63
+  orig: 128, 95
+  offset: 4, 0
+  index: -1
+tx_cao2_02
+  rotate: false
+  xy: 107, 115
+  size: 113, 80
+  orig: 128, 95
+  offset: 4, 0
+  index: -1
+tx_cao2_03
+  rotate: false
+  xy: 107, 294
+  size: 124, 95
+  orig: 128, 95
+  offset: 4, 0
+  index: -1
+tx_cao2_04
+  rotate: false
+  xy: 107, 197
+  size: 122, 95
+  orig: 128, 95
+  offset: 4, 0
+  index: -1
+tx_cao_00
+  rotate: false
+  xy: 352, 202
+  size: 52, 54
+  orig: 104, 143
+  offset: 3, 0
+  index: -1
+tx_cao_01
+  rotate: true
+  xy: 222, 122
+  size: 54, 71
+  orig: 104, 143
+  offset: 0, 3
+  index: -1
+tx_cao_02
+  rotate: false
+  xy: 144, 7
+  size: 90, 106
+  orig: 104, 143
+  offset: 1, 3
+  index: -1
+tx_cao_03
+  rotate: false
+  xy: 2, 249
+  size: 103, 140
+  orig: 104, 143
+  offset: 1, 3
+  index: -1
+tx_cao_04
+  rotate: false
+  xy: 2, 107
+  size: 103, 140
+  orig: 104, 143
+  offset: 1, 3
+  index: -1
+tx_cao_05
+  rotate: true
+  xy: 2, 2
+  size: 103, 140
+  orig: 104, 143
+  offset: 1, 3
+  index: -1
+tx_glow_00
+  rotate: true
+  xy: 339, 133
+  size: 67, 65
+  orig: 77, 75
+  offset: 5, 6
+  index: -1
+tx_yezi_00
+  rotate: true
+  xy: 301, 5
+  size: 57, 64
+  orig: 57, 64
+  offset: 0, 0
+  index: -1

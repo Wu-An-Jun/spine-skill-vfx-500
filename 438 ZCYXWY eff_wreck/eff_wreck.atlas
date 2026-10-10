@@ -1,0 +1,27 @@
+
+eff_wreck.png
+size: 256,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/tiao
+  rotate: false
+  xy: 99, 15
+  size: 122, 19
+  orig: 122, 19
+  offset: 0, 0
+  index: -1
+effect/tiao01
+  rotate: true
+  xy: 99, 36
+  size: 61, 122
+  orig: 61, 122
+  offset: 0, 0
+  index: -1
+effect/yuan
+  rotate: false
+  xy: 2, 2
+  size: 95, 95
+  orig: 95, 95
+  offset: 0, 0
+  index: -1

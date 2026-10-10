@@ -1,0 +1,174 @@
+
+eff_shijiebei1.png
+size: 2048,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/baodian_0004
+  rotate: false
+  xy: 1438, 189
+  size: 74, 64
+  orig: 74, 64
+  offset: 0, 0
+  index: -1
+effect/baodian_0006
+  rotate: false
+  xy: 1514, 189
+  size: 74, 64
+  orig: 74, 64
+  offset: 0, 0
+  index: -1
+effect/baodian_0008
+  rotate: false
+  xy: 1590, 189
+  size: 74, 64
+  orig: 74, 64
+  offset: 0, 0
+  index: -1
+effect/baodian_0010
+  rotate: false
+  xy: 1666, 189
+  size: 74, 64
+  orig: 74, 64
+  offset: 0, 0
+  index: -1
+effect/baodian_0012
+  rotate: false
+  xy: 1742, 189
+  size: 74, 64
+  orig: 74, 64
+  offset: 0, 0
+  index: -1
+effect/chongji_0004
+  rotate: true
+  xy: 193, 76
+  size: 26, 53
+  orig: 26, 53
+  offset: 0, 0
+  index: -1
+effect/chongji_0006
+  rotate: true
+  xy: 1123, 141
+  size: 26, 53
+  orig: 26, 53
+  offset: 0, 0
+  index: -1
+effect/chongji_0008
+  rotate: true
+  xy: 1904, 227
+  size: 26, 53
+  orig: 26, 53
+  offset: 0, 0
+  index: -1
+effect/chongji_0010
+  rotate: true
+  xy: 248, 76
+  size: 26, 53
+  orig: 26, 53
+  offset: 0, 0
+  index: -1
+effect/chongji_0012
+  rotate: true
+  xy: 1959, 227
+  size: 26, 53
+  orig: 26, 53
+  offset: 0, 0
+  index: -1
+effect/chongji_0014
+  rotate: true
+  xy: 303, 76
+  size: 26, 53
+  orig: 26, 53
+  offset: 0, 0
+  index: -1
+effect/guangbolan_0003
+  rotate: false
+  xy: 2, 2
+  size: 166, 64
+  orig: 166, 64
+  offset: 0, 0
+  index: -1
+effect/guangbolv_0003
+  rotate: false
+  xy: 1334, 152
+  size: 88, 39
+  orig: 88, 39
+  offset: 0, 0
+  index: -1
+effect/guangquan_0004
+  rotate: false
+  xy: 1818, 212
+  size: 84, 41
+  orig: 84, 41
+  offset: 0, 0
+  index: -1
+effect/juqi_0000
+  rotate: false
+  xy: 193, 104
+  size: 159, 149
+  orig: 159, 149
+  offset: 0, 0
+  index: -1
+effect/juqi_0002
+  rotate: false
+  xy: 354, 104
+  size: 159, 149
+  orig: 159, 149
+  offset: 0, 0
+  index: -1
+effect/juqi_0004
+  rotate: false
+  xy: 515, 104
+  size: 159, 149
+  orig: 159, 149
+  offset: 0, 0
+  index: -1
+effect/juqi_0006
+  rotate: false
+  xy: 676, 104
+  size: 159, 149
+  orig: 159, 149
+  offset: 0, 0
+  index: -1
+effect/juqi_0008
+  rotate: false
+  xy: 837, 104
+  size: 159, 149
+  orig: 159, 149
+  offset: 0, 0
+  index: -1
+effect/juqiquan
+  rotate: false
+  xy: 2, 68
+  size: 189, 185
+  orig: 189, 185
+  offset: 0, 0
+  index: -1
+effect/keji_0017
+  rotate: false
+  xy: 998, 169
+  size: 198, 84
+  orig: 198, 84
+  offset: 0, 0
+  index: -1
+effect/kuosanguangmang_0000
+  rotate: false
+  xy: 1334, 193
+  size: 102, 60
+  orig: 102, 60
+  offset: 0, 0
+  index: -1
+effect/lizi_0004
+  rotate: false
+  xy: 1198, 146
+  size: 134, 107
+  orig: 134, 107
+  offset: 0, 0
+  index: -1
+effect/lvquan_0006
+  rotate: false
+  xy: 998, 120
+  size: 123, 47
+  orig: 123, 47
+  offset: 0, 0
+  index: -1

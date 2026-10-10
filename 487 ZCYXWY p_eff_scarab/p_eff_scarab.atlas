@@ -1,0 +1,258 @@
+
+p_eff_scarab.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+boss_selketRAW/daodan11
+  rotate: false
+  xy: 190, 27
+  size: 67, 62
+  orig: 67, 62
+  offset: 0, 0
+  index: -1
+boss_selketRAW/daodan12
+  rotate: true
+  xy: 411, 246
+  size: 67, 62
+  orig: 67, 62
+  offset: 0, 0
+  index: -1
+boss_selketRAW/daodan15
+  rotate: false
+  xy: 390, 315
+  size: 86, 65
+  orig: 86, 65
+  offset: 0, 0
+  index: -1
+effect/baozha_02
+  rotate: true
+  xy: 2, 2
+  size: 57, 89
+  orig: 57, 89
+  offset: 0, 0
+  index: -1
+effect/baozha_03
+  rotate: true
+  xy: 478, 323
+  size: 57, 89
+  orig: 57, 89
+  offset: 0, 0
+  index: -1
+effect/baozha_04
+  rotate: true
+  xy: 569, 323
+  size: 57, 89
+  orig: 57, 89
+  offset: 0, 0
+  index: -1
+effect/baozha_05
+  rotate: true
+  xy: 660, 323
+  size: 57, 89
+  orig: 57, 89
+  offset: 0, 0
+  index: -1
+effect/baozha_06
+  rotate: true
+  xy: 751, 323
+  size: 57, 89
+  orig: 57, 89
+  offset: 0, 0
+  index: -1
+effect/baozha_07
+  rotate: true
+  xy: 842, 323
+  size: 57, 89
+  orig: 57, 89
+  offset: 0, 0
+  index: -1
+effect/baozha_08
+  rotate: true
+  xy: 933, 323
+  size: 57, 89
+  orig: 57, 89
+  offset: 0, 0
+  index: -1
+effect/baozha_09
+  rotate: false
+  xy: 293, 70
+  size: 57, 89
+  orig: 57, 89
+  offset: 0, 0
+  index: -1
+effect/baozha_10
+  rotate: false
+  xy: 352, 194
+  size: 57, 89
+  orig: 57, 89
+  offset: 0, 0
+  index: -1
+effect/baozha_11
+  rotate: false
+  xy: 352, 103
+  size: 57, 89
+  orig: 57, 89
+  offset: 0, 0
+  index: -1
+effect/baozha_12
+  rotate: true
+  xy: 99, 32
+  size: 57, 89
+  orig: 57, 89
+  offset: 0, 0
+  index: -1
+effect/dian01
+  rotate: false
+  xy: 259, 60
+  size: 29, 29
+  orig: 29, 29
+  offset: 0, 0
+  index: -1
+effect/guang
+  rotate: false
+  xy: 2, 352
+  size: 95, 152
+  orig: 95, 152
+  offset: 0, 0
+  index: -1
+effect/guang01
+  rotate: false
+  xy: 293, 161
+  size: 57, 122
+  orig: 57, 122
+  offset: 0, 0
+  index: -1
+effect/guangsi_01
+  rotate: false
+  xy: 2, 255
+  size: 95, 95
+  orig: 95, 95
+  offset: 0, 0
+  index: -1
+effect/guangsi_02
+  rotate: false
+  xy: 99, 285
+  size: 95, 95
+  orig: 95, 95
+  offset: 0, 0
+  index: -1
+effect/guangsi_03
+  rotate: false
+  xy: 2, 158
+  size: 95, 95
+  orig: 95, 95
+  offset: 0, 0
+  index: -1
+effect/guangsi_04
+  rotate: false
+  xy: 99, 188
+  size: 95, 95
+  orig: 95, 95
+  offset: 0, 0
+  index: -1
+effect/guangsi_05
+  rotate: false
+  xy: 196, 285
+  size: 95, 95
+  orig: 95, 95
+  offset: 0, 0
+  index: -1
+effect/guangsi_06
+  rotate: false
+  xy: 2, 61
+  size: 95, 95
+  orig: 95, 95
+  offset: 0, 0
+  index: -1
+effect/guangsi_07
+  rotate: false
+  xy: 99, 91
+  size: 95, 95
+  orig: 95, 95
+  offset: 0, 0
+  index: -1
+effect/guangsi_08
+  rotate: false
+  xy: 196, 188
+  size: 95, 95
+  orig: 95, 95
+  offset: 0, 0
+  index: -1
+effect/guangsi_09
+  rotate: false
+  xy: 293, 285
+  size: 95, 95
+  orig: 95, 95
+  offset: 0, 0
+  index: -1
+effect/guangsi_10
+  rotate: false
+  xy: 196, 91
+  size: 95, 95
+  orig: 95, 95
+  offset: 0, 0
+  index: -1
+effect/huo_01
+  rotate: false
+  xy: 99, 382
+  size: 122, 122
+  orig: 122, 122
+  offset: 0, 0
+  index: -1
+effect/huo_02
+  rotate: false
+  xy: 223, 382
+  size: 122, 122
+  orig: 122, 122
+  offset: 0, 0
+  index: -1
+effect/huo_03
+  rotate: false
+  xy: 347, 382
+  size: 122, 122
+  orig: 122, 122
+  offset: 0, 0
+  index: -1
+effect/huo_04
+  rotate: false
+  xy: 471, 382
+  size: 122, 122
+  orig: 122, 122
+  offset: 0, 0
+  index: -1
+effect/huo_05
+  rotate: false
+  xy: 595, 382
+  size: 122, 122
+  orig: 122, 122
+  offset: 0, 0
+  index: -1
+effect/huo_06
+  rotate: false
+  xy: 719, 382
+  size: 122, 122
+  orig: 122, 122
+  offset: 0, 0
+  index: -1
+effect/shan
+  rotate: false
+  xy: 352, 71
+  size: 38, 30
+  orig: 38, 30
+  offset: 0, 0
+  index: -1
+effect/tiao
+  rotate: true
+  xy: 967, 387
+  size: 117, 52
+  orig: 117, 52
+  offset: 0, 0
+  index: -1
+effect/yuan
+  rotate: false
+  xy: 843, 382
+  size: 122, 122
+  orig: 122, 122
+  offset: 0, 0
+  index: -1

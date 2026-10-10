@@ -1,0 +1,160 @@
+
+Awakening_effect.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+01
+  rotate: false
+  xy: 2, 674
+  size: 333, 333
+  orig: 333, 333
+  offset: 0, 0
+  index: -1
+02
+  rotate: false
+  xy: 2, 339
+  size: 333, 333
+  orig: 333, 333
+  offset: 0, 0
+  index: -1
+03
+  rotate: false
+  xy: 337, 674
+  size: 333, 333
+  orig: 333, 333
+  offset: 0, 0
+  index: -1
+04
+  rotate: false
+  xy: 337, 506
+  size: 166, 166
+  orig: 166, 166
+  offset: 0, 0
+  index: -1
+08
+  rotate: false
+  xy: 672, 841
+  size: 166, 166
+  orig: 166, 166
+  offset: 0, 0
+  index: -1
+09
+  rotate: false
+  xy: 2, 86
+  size: 166, 166
+  orig: 166, 166
+  offset: 0, 0
+  index: -1
+10
+  rotate: false
+  xy: 2, 254
+  size: 333, 83
+  orig: 333, 83
+  offset: 0, 0
+  index: -1
+11
+  rotate: false
+  xy: 337, 338
+  size: 166, 166
+  orig: 166, 166
+  offset: 0, 0
+  index: -1
+12
+  rotate: false
+  xy: 840, 841
+  size: 166, 166
+  orig: 166, 166
+  offset: 0, 0
+  index: -1
+13
+  rotate: false
+  xy: 505, 506
+  size: 166, 166
+  orig: 166, 166
+  offset: 0, 0
+  index: -1
+14
+  rotate: false
+  xy: 505, 338
+  size: 166, 166
+  orig: 166, 166
+  offset: 0, 0
+  index: -1
+15
+  rotate: false
+  xy: 170, 86
+  size: 166, 166
+  orig: 166, 166
+  offset: 0, 0
+  index: -1
+16
+  rotate: false
+  xy: 338, 170
+  size: 166, 166
+  orig: 166, 166
+  offset: 0, 0
+  index: -1
+17
+  rotate: false
+  xy: 506, 170
+  size: 166, 166
+  orig: 166, 166
+  offset: 0, 0
+  index: -1
+18
+  rotate: false
+  xy: 338, 2
+  size: 166, 166
+  orig: 166, 166
+  offset: 0, 0
+  index: -1
+19
+  rotate: false
+  xy: 506, 2
+  size: 166, 166
+  orig: 166, 166
+  offset: 0, 0
+  index: -1
+22
+  rotate: false
+  xy: 673, 673
+  size: 166, 166
+  orig: 166, 166
+  offset: 0, 0
+  index: -1
+23
+  rotate: false
+  xy: 673, 505
+  size: 166, 166
+  orig: 166, 166
+  offset: 0, 0
+  index: -1
+24
+  rotate: false
+  xy: 841, 673
+  size: 166, 166
+  orig: 166, 166
+  offset: 0, 0
+  index: -1
+25
+  rotate: false
+  xy: 841, 505
+  size: 166, 166
+  orig: 166, 166
+  offset: 0, 0
+  index: -1
+26
+  rotate: false
+  xy: 674, 337
+  size: 166, 166
+  orig: 166, 166
+  offset: 0, 0
+  index: -1
+27
+  rotate: false
+  xy: 674, 169
+  size: 166, 166
+  orig: 166, 166
+  offset: 0, 0
+  index: -1

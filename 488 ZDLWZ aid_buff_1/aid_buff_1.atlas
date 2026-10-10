@@ -1,0 +1,41 @@
+
+aid_buff_1.png
+size: 651,178
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+aid_buff_001
+  rotate: false
+  xy: 352, 22
+  size: 164, 154
+  orig: 164, 154
+  offset: 0, 0
+  index: -1
+aid_buff_002
+  rotate: false
+  xy: 2, 2
+  size: 214, 59
+  orig: 214, 61
+  offset: 0, 0
+  index: -1
+aid_buff_003
+  rotate: true
+  xy: 518, 28
+  size: 148, 131
+  orig: 148, 142
+  offset: 0, 3
+  index: -1
+aid_buff_004
+  rotate: false
+  xy: 218, 43
+  size: 19, 18
+  orig: 19, 18
+  offset: 0, 0
+  index: -1
+aid_buff_005
+  rotate: true
+  xy: 2, 63
+  size: 113, 348
+  orig: 141, 348
+  offset: 14, 0
+  index: -1

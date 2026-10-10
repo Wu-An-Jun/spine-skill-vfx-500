@@ -1,0 +1,362 @@
+
+eff_searcyskill4.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/bai
+  rotate: false
+  xy: 429, 1639
+  size: 5, 5
+  orig: 5, 5
+  offset: 0, 0
+  index: -1
+effect/fazhen/biaopan
+  rotate: false
+  xy: 1635, 1681
+  size: 365, 365
+  orig: 365, 365
+  offset: 0, 0
+  index: -1
+effect/fazhen/biaopan2
+  rotate: false
+  xy: 1610, 1260
+  size: 384, 384
+  orig: 384, 384
+  offset: 0, 0
+  index: -1
+effect/starbook/biaopan2
+  rotate: false
+  xy: 1610, 1260
+  size: 384, 384
+  orig: 384, 384
+  offset: 0, 0
+  index: -1
+effect/fazhen/chilun3
+  rotate: false
+  xy: 1868, 736
+  size: 170, 170
+  orig: 170, 170
+  offset: 0, 0
+  index: -1
+effect/fazhen/di
+  rotate: false
+  xy: 1610, 908
+  size: 350, 350
+  orig: 350, 350
+  offset: 0, 0
+  index: -1
+effect/fazhen/fenzhen
+  rotate: false
+  xy: 1934, 117
+  size: 85, 293
+  orig: 85, 293
+  offset: 0, 0
+  index: -1
+effect/fazhen/shuzi
+  rotate: false
+  xy: 2, 1621
+  size: 425, 425
+  orig: 425, 425
+  offset: 0, 0
+  index: -1
+effect/starbook/guangxiao
+  rotate: true
+  xy: 1962, 1058
+  size: 200, 67
+  orig: 200, 67
+  offset: 0, 0
+  index: -1
+effect/starbook/huan
+  rotate: false
+  xy: 1610, 650
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+effect/starbook/huan2
+  rotate: false
+  xy: 1610, 392
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+effect/starbook/line
+  rotate: true
+  xy: 806, 3
+  size: 33, 100
+  orig: 33, 100
+  offset: 0, 0
+  index: -1
+effect/starbook/lizi_00
+  rotate: false
+  xy: 2, 1219
+  size: 400, 400
+  orig: 400, 400
+  offset: 0, 0
+  index: -1
+effect/starbook/lizi_01
+  rotate: false
+  xy: 404, 1219
+  size: 400, 400
+  orig: 400, 400
+  offset: 0, 0
+  index: -1
+effect/starbook/lizi_02
+  rotate: false
+  xy: 429, 1646
+  size: 400, 400
+  orig: 400, 400
+  offset: 0, 0
+  index: -1
+effect/starbook/lizi_03
+  rotate: false
+  xy: 806, 1244
+  size: 400, 400
+  orig: 400, 400
+  offset: 0, 0
+  index: -1
+effect/starbook/lizi_04
+  rotate: false
+  xy: 831, 1646
+  size: 400, 400
+  orig: 400, 400
+  offset: 0, 0
+  index: -1
+effect/starbook/lizi_05
+  rotate: false
+  xy: 806, 842
+  size: 400, 400
+  orig: 400, 400
+  offset: 0, 0
+  index: -1
+effect/starbook/lizi_06
+  rotate: false
+  xy: 2, 817
+  size: 400, 400
+  orig: 400, 400
+  offset: 0, 0
+  index: -1
+effect/starbook/lizi_07
+  rotate: false
+  xy: 404, 817
+  size: 400, 400
+  orig: 400, 400
+  offset: 0, 0
+  index: -1
+effect/starbook/lizi_08
+  rotate: false
+  xy: 806, 440
+  size: 400, 400
+  orig: 400, 400
+  offset: 0, 0
+  index: -1
+effect/starbook/lizi_09
+  rotate: false
+  xy: 2, 415
+  size: 400, 400
+  orig: 400, 400
+  offset: 0, 0
+  index: -1
+effect/starbook/lizi_10
+  rotate: false
+  xy: 404, 415
+  size: 400, 400
+  orig: 400, 400
+  offset: 0, 0
+  index: -1
+effect/starbook/lizi_11
+  rotate: false
+  xy: 806, 38
+  size: 400, 400
+  orig: 400, 400
+  offset: 0, 0
+  index: -1
+effect/starbook/lizi_12
+  rotate: false
+  xy: 2, 13
+  size: 400, 400
+  orig: 400, 400
+  offset: 0, 0
+  index: -1
+effect/starbook/lizi_13
+  rotate: false
+  xy: 404, 13
+  size: 400, 400
+  orig: 400, 400
+  offset: 0, 0
+  index: -1
+effect/starbook/lizi_14
+  rotate: false
+  xy: 1208, 1244
+  size: 400, 400
+  orig: 400, 400
+  offset: 0, 0
+  index: -1
+effect/starbook/lizi_15
+  rotate: false
+  xy: 1233, 1646
+  size: 400, 400
+  orig: 400, 400
+  offset: 0, 0
+  index: -1
+effect/starbook/lizi_16
+  rotate: false
+  xy: 1208, 842
+  size: 400, 400
+  orig: 400, 400
+  offset: 0, 0
+  index: -1
+effect/starbook/lizi_17
+  rotate: false
+  xy: 1208, 440
+  size: 400, 400
+  orig: 400, 400
+  offset: 0, 0
+  index: -1
+effect/starbook/lizi_18
+  rotate: false
+  xy: 1208, 38
+  size: 400, 400
+  orig: 400, 400
+  offset: 0, 0
+  index: -1
+effect/starbook/shou
+  rotate: false
+  xy: 1610, 134
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+effect/starbook/zhuan_00
+  rotate: false
+  xy: 1610, 2
+  size: 160, 130
+  orig: 160, 130
+  offset: 0, 0
+  index: -1
+effect/starbook/zhuan_01
+  rotate: false
+  xy: 1772, 2
+  size: 160, 130
+  orig: 160, 130
+  offset: 0, 0
+  index: -1
+effect/starbook/zhuan_02
+  rotate: true
+  xy: 1868, 574
+  size: 160, 130
+  orig: 160, 130
+  offset: 0, 0
+  index: -1
+effect/starbook/zhuan_03
+  rotate: true
+  xy: 1868, 412
+  size: 160, 130
+  orig: 160, 130
+  offset: 0, 0
+  index: -1
+
+eff_searcyskill42.png
+size: 2048,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/fazhen/shizhen
+  rotate: false
+  xy: 2, 2
+  size: 85, 217
+  orig: 85, 217
+  offset: 0, 0
+  index: -1
+effect/starbook/di_00
+  rotate: false
+  xy: 89, 91
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+effect/starbook/di_01
+  rotate: false
+  xy: 219, 91
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+effect/starbook/di_02
+  rotate: false
+  xy: 349, 91
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+effect/starbook/di_03
+  rotate: false
+  xy: 479, 91
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+effect/starbook/di_04
+  rotate: false
+  xy: 609, 91
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+effect/starbook/di_05
+  rotate: false
+  xy: 739, 91
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+effect/starbook/di_06
+  rotate: false
+  xy: 869, 91
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+effect/starbook/di_07
+  rotate: false
+  xy: 999, 91
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+effect/starbook/di_08
+  rotate: false
+  xy: 1129, 91
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+effect/starbook/di_09
+  rotate: false
+  xy: 1259, 91
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+effect/starbook/di_10
+  rotate: false
+  xy: 1389, 91
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+effect/starbook/di_11
+  rotate: false
+  xy: 1519, 91
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+effect/starbook/guang
+  rotate: false
+  xy: 1649, 91
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,34 @@
+
+eff_ximoCritical.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/changtiao
+  rotate: true
+  xy: 2, 2
+  size: 29, 95
+  orig: 29, 95
+  offset: 0, 0
+  index: -1
+effect/quan
+  rotate: true
+  xy: 156, 101
+  size: 122, 57
+  orig: 122, 57
+  offset: 0, 0
+  index: -1
+effect/xian
+  rotate: true
+  xy: 2, 33
+  size: 36, 152
+  orig: 36, 152
+  offset: 0, 0
+  index: -1
+effect/yuan
+  rotate: false
+  xy: 2, 71
+  size: 152, 152
+  orig: 152, 152
+  offset: 0, 0
+  index: -1

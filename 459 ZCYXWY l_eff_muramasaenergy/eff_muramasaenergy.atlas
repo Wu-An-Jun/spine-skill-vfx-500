@@ -1,0 +1,69 @@
+
+eff_muramasaenergy.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/hongguang
+  rotate: false
+  xy: 2, 2
+  size: 48, 33
+  orig: 48, 33
+  offset: 0, 0
+  index: -1
+effect/yan_01
+  rotate: false
+  xy: 2, 37
+  size: 95, 171
+  orig: 95, 171
+  offset: 0, 0
+  index: -1
+effect/yan_02
+  rotate: false
+  xy: 99, 37
+  size: 95, 171
+  orig: 95, 171
+  offset: 0, 0
+  index: -1
+effect/yan_03
+  rotate: false
+  xy: 196, 37
+  size: 95, 171
+  orig: 95, 171
+  offset: 0, 0
+  index: -1
+effect/yan_04
+  rotate: false
+  xy: 293, 37
+  size: 95, 171
+  orig: 95, 171
+  offset: 0, 0
+  index: -1
+effect/yan_05
+  rotate: false
+  xy: 390, 37
+  size: 95, 171
+  orig: 95, 171
+  offset: 0, 0
+  index: -1
+effect/yan_06
+  rotate: false
+  xy: 487, 37
+  size: 95, 171
+  orig: 95, 171
+  offset: 0, 0
+  index: -1
+effect/yan_07
+  rotate: false
+  xy: 584, 37
+  size: 95, 171
+  orig: 95, 171
+  offset: 0, 0
+  index: -1
+effect/yan_08
+  rotate: false
+  xy: 681, 37
+  size: 95, 171
+  orig: 95, 171
+  offset: 0, 0
+  index: -1

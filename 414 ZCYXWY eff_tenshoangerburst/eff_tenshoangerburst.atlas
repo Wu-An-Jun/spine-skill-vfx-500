@@ -1,0 +1,146 @@
+
+eff_tenshoangerburst.png
+size: 1024,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/baodian01
+  rotate: true
+  xy: 433, 13
+  size: 51, 63
+  orig: 51, 63
+  offset: 0, 0
+  index: -1
+effect/baodian02
+  rotate: false
+  xy: 719, 63
+  size: 51, 63
+  orig: 51, 63
+  offset: 0, 0
+  index: -1
+effect/baodian03
+  rotate: true
+  xy: 498, 13
+  size: 51, 63
+  orig: 51, 63
+  offset: 0, 0
+  index: -1
+effect/baodian04
+  rotate: false
+  xy: 772, 63
+  size: 51, 63
+  orig: 51, 63
+  offset: 0, 0
+  index: -1
+effect/ci
+  rotate: true
+  xy: 2, 7
+  size: 26, 55
+  orig: 26, 55
+  offset: 0, 0
+  index: -1
+effect/guang
+  rotate: false
+  xy: 587, 62
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+effect/liang
+  rotate: false
+  xy: 825, 76
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+effect/lizi01
+  rotate: false
+  xy: 95, 66
+  size: 80, 60
+  orig: 80, 60
+  offset: 0, 0
+  index: -1
+effect/lizi02
+  rotate: false
+  xy: 177, 66
+  size: 80, 60
+  orig: 80, 60
+  offset: 0, 0
+  index: -1
+effect/lizi03
+  rotate: false
+  xy: 259, 66
+  size: 80, 60
+  orig: 80, 60
+  offset: 0, 0
+  index: -1
+effect/lizi04
+  rotate: false
+  xy: 341, 66
+  size: 80, 60
+  orig: 80, 60
+  offset: 0, 0
+  index: -1
+effect/lizi05
+  rotate: false
+  xy: 423, 66
+  size: 80, 60
+  orig: 80, 60
+  offset: 0, 0
+  index: -1
+effect/lizi06
+  rotate: false
+  xy: 351, 4
+  size: 80, 60
+  orig: 80, 60
+  offset: 0, 0
+  index: -1
+effect/lizi07
+  rotate: false
+  xy: 505, 66
+  size: 80, 60
+  orig: 80, 60
+  offset: 0, 0
+  index: -1
+effect/shan01
+  rotate: false
+  xy: 95, 2
+  size: 62, 62
+  orig: 62, 62
+  offset: 0, 0
+  index: -1
+effect/shan02
+  rotate: false
+  xy: 159, 2
+  size: 62, 62
+  orig: 62, 62
+  offset: 0, 0
+  index: -1
+effect/shan03
+  rotate: false
+  xy: 223, 2
+  size: 62, 62
+  orig: 62, 62
+  offset: 0, 0
+  index: -1
+effect/shan04
+  rotate: false
+  xy: 287, 2
+  size: 62, 62
+  orig: 62, 62
+  offset: 0, 0
+  index: -1
+effect/sui
+  rotate: false
+  xy: 2, 35
+  size: 91, 91
+  orig: 91, 91
+  offset: 0, 0
+  index: -1
+effect/yuan01
+  rotate: false
+  xy: 653, 62
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1

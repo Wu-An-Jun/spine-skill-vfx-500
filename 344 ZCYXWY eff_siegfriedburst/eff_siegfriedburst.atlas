@@ -1,0 +1,90 @@
+
+eff_siegfriedburst.png
+size: 1024,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/baodian01
+  rotate: false
+  xy: 126, 4
+  size: 96, 120
+  orig: 96, 120
+  offset: 0, 0
+  index: -1
+effect/baodian02
+  rotate: false
+  xy: 224, 4
+  size: 96, 120
+  orig: 96, 120
+  offset: 0, 0
+  index: -1
+effect/baodian03
+  rotate: false
+  xy: 322, 4
+  size: 96, 120
+  orig: 96, 120
+  offset: 0, 0
+  index: -1
+effect/baodian04
+  rotate: false
+  xy: 420, 4
+  size: 96, 120
+  orig: 96, 120
+  offset: 0, 0
+  index: -1
+effect/dian
+  rotate: false
+  xy: 915, 67
+  size: 57, 57
+  orig: 57, 57
+  offset: 0, 0
+  index: -1
+effect/guang
+  rotate: false
+  xy: 2, 2
+  size: 122, 122
+  orig: 122, 122
+  offset: 0, 0
+  index: -1
+effect/penjian01
+  rotate: false
+  xy: 615, 58
+  size: 58, 66
+  orig: 58, 66
+  offset: 0, 0
+  index: -1
+effect/penjian02
+  rotate: false
+  xy: 675, 58
+  size: 58, 66
+  orig: 58, 66
+  offset: 0, 0
+  index: -1
+effect/penjian03
+  rotate: false
+  xy: 735, 58
+  size: 58, 66
+  orig: 58, 66
+  offset: 0, 0
+  index: -1
+effect/penjian04
+  rotate: false
+  xy: 795, 58
+  size: 58, 66
+  orig: 58, 66
+  offset: 0, 0
+  index: -1
+effect/penjian05
+  rotate: false
+  xy: 855, 58
+  size: 58, 66
+  orig: 58, 66
+  offset: 0, 0
+  index: -1
+effect/yuan
+  rotate: false
+  xy: 518, 29
+  size: 95, 95
+  orig: 95, 95
+  offset: 0, 0
+  index: -1

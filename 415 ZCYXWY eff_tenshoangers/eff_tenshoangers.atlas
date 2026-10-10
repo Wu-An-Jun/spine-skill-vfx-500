@@ -1,0 +1,209 @@
+
+eff_tenshoangers.png
+size: 2048,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/fireshang_00
+  rotate: false
+  xy: 2, 11
+  size: 140, 97
+  orig: 140, 97
+  offset: 0, 0
+  index: -1
+effect/fireshang_01
+  rotate: false
+  xy: 1538, 150
+  size: 140, 97
+  orig: 140, 97
+  offset: 0, 0
+  index: -1
+effect/fireshang_02
+  rotate: false
+  xy: 144, 11
+  size: 140, 97
+  orig: 140, 97
+  offset: 0, 0
+  index: -1
+effect/fireshang_03
+  rotate: false
+  xy: 1680, 150
+  size: 140, 97
+  orig: 140, 97
+  offset: 0, 0
+  index: -1
+effect/fireshang_04
+  rotate: false
+  xy: 286, 11
+  size: 140, 97
+  orig: 140, 97
+  offset: 0, 0
+  index: -1
+effect/fireshang_05
+  rotate: false
+  xy: 1822, 150
+  size: 140, 97
+  orig: 140, 97
+  offset: 0, 0
+  index: -1
+effect/fireshang_06
+  rotate: false
+  xy: 428, 11
+  size: 140, 97
+  orig: 140, 97
+  offset: 0, 0
+  index: -1
+effect/fireshang_07
+  rotate: false
+  xy: 570, 11
+  size: 140, 97
+  orig: 140, 97
+  offset: 0, 0
+  index: -1
+effect/firexia_00
+  rotate: false
+  xy: 2, 110
+  size: 171, 137
+  orig: 171, 137
+  offset: 0, 0
+  index: -1
+effect/firexia_01
+  rotate: false
+  xy: 175, 110
+  size: 171, 137
+  orig: 171, 137
+  offset: 0, 0
+  index: -1
+effect/firexia_02
+  rotate: false
+  xy: 348, 110
+  size: 171, 137
+  orig: 171, 137
+  offset: 0, 0
+  index: -1
+effect/firexia_03
+  rotate: false
+  xy: 521, 110
+  size: 171, 137
+  orig: 171, 137
+  offset: 0, 0
+  index: -1
+effect/firexia_04
+  rotate: false
+  xy: 694, 110
+  size: 171, 137
+  orig: 171, 137
+  offset: 0, 0
+  index: -1
+effect/firexia_05
+  rotate: false
+  xy: 867, 110
+  size: 171, 137
+  orig: 171, 137
+  offset: 0, 0
+  index: -1
+effect/firexia_06
+  rotate: false
+  xy: 1040, 110
+  size: 171, 137
+  orig: 171, 137
+  offset: 0, 0
+  index: -1
+effect/firexia_07
+  rotate: false
+  xy: 1213, 110
+  size: 171, 137
+  orig: 171, 137
+  offset: 0, 0
+  index: -1
+effect/guang
+  rotate: false
+  xy: 712, 2
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+effect/guangxiao
+  rotate: false
+  xy: 810, 74
+  size: 100, 34
+  orig: 100, 34
+  offset: 0, 0
+  index: -1
+effect/penjian01
+  rotate: false
+  xy: 1538, 108
+  size: 96, 40
+  orig: 96, 40
+  offset: 0, 0
+  index: -1
+effect/penjian02
+  rotate: true
+  xy: 1964, 151
+  size: 96, 40
+  orig: 96, 40
+  offset: 0, 0
+  index: -1
+effect/penjian03
+  rotate: true
+  xy: 2006, 151
+  size: 96, 40
+  orig: 96, 40
+  offset: 0, 0
+  index: -1
+effect/penjian04
+  rotate: false
+  xy: 712, 68
+  size: 96, 40
+  orig: 96, 40
+  offset: 0, 0
+  index: -1
+effect/penjian05
+  rotate: false
+  xy: 1636, 108
+  size: 96, 40
+  orig: 96, 40
+  offset: 0, 0
+  index: -1
+effect/shan01
+  rotate: false
+  xy: 1734, 86
+  size: 62, 62
+  orig: 62, 62
+  offset: 0, 0
+  index: -1
+effect/shan02
+  rotate: false
+  xy: 1798, 86
+  size: 62, 62
+  orig: 62, 62
+  offset: 0, 0
+  index: -1
+effect/shan03
+  rotate: false
+  xy: 1862, 86
+  size: 62, 62
+  orig: 62, 62
+  offset: 0, 0
+  index: -1
+effect/shan04
+  rotate: false
+  xy: 1926, 86
+  size: 62, 62
+  orig: 62, 62
+  offset: 0, 0
+  index: -1
+effect/tiao
+  rotate: true
+  xy: 912, 92
+  size: 16, 64
+  orig: 16, 64
+  offset: 0, 0
+  index: -1
+effect/zhuan
+  rotate: false
+  xy: 1386, 97
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1

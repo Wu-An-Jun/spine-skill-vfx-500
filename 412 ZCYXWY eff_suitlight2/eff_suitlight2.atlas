@@ -1,0 +1,125 @@
+
+eff_suitlight2.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/xingguang
+  rotate: false
+  xy: 498, 128
+  size: 61, 61
+  orig: 61, 61
+  offset: 0, 0
+  index: -1
+effect/zhuan_01
+  rotate: false
+  xy: 2, 191
+  size: 122, 61
+  orig: 122, 61
+  offset: 0, 0
+  index: -1
+effect/zhuan_02
+  rotate: false
+  xy: 2, 128
+  size: 122, 61
+  orig: 122, 61
+  offset: 0, 0
+  index: -1
+effect/zhuan_03
+  rotate: false
+  xy: 126, 191
+  size: 122, 61
+  orig: 122, 61
+  offset: 0, 0
+  index: -1
+effect/zhuan_04
+  rotate: false
+  xy: 2, 65
+  size: 122, 61
+  orig: 122, 61
+  offset: 0, 0
+  index: -1
+effect/zhuan_05
+  rotate: false
+  xy: 126, 128
+  size: 122, 61
+  orig: 122, 61
+  offset: 0, 0
+  index: -1
+effect/zhuan_06
+  rotate: false
+  xy: 250, 191
+  size: 122, 61
+  orig: 122, 61
+  offset: 0, 0
+  index: -1
+effect/zhuan_07
+  rotate: false
+  xy: 2, 2
+  size: 122, 61
+  orig: 122, 61
+  offset: 0, 0
+  index: -1
+effect/zhuan_08
+  rotate: false
+  xy: 126, 65
+  size: 122, 61
+  orig: 122, 61
+  offset: 0, 0
+  index: -1
+effect/zhuan_09
+  rotate: false
+  xy: 250, 128
+  size: 122, 61
+  orig: 122, 61
+  offset: 0, 0
+  index: -1
+effect/zhuan_10
+  rotate: false
+  xy: 374, 191
+  size: 122, 61
+  orig: 122, 61
+  offset: 0, 0
+  index: -1
+effect/zhuan_11
+  rotate: false
+  xy: 126, 2
+  size: 122, 61
+  orig: 122, 61
+  offset: 0, 0
+  index: -1
+effect/zhuan_12
+  rotate: false
+  xy: 250, 65
+  size: 122, 61
+  orig: 122, 61
+  offset: 0, 0
+  index: -1
+effect/zhuan_13
+  rotate: false
+  xy: 374, 128
+  size: 122, 61
+  orig: 122, 61
+  offset: 0, 0
+  index: -1
+effect/zhuan_14
+  rotate: false
+  xy: 498, 191
+  size: 122, 61
+  orig: 122, 61
+  offset: 0, 0
+  index: -1
+effect/zhuan_15
+  rotate: false
+  xy: 250, 2
+  size: 122, 61
+  orig: 122, 61
+  offset: 0, 0
+  index: -1
+effect/zhuan_16
+  rotate: false
+  xy: 374, 65
+  size: 122, 61
+  orig: 122, 61
+  offset: 0, 0
+  index: -1

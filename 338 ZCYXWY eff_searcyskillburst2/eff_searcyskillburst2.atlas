@@ -1,0 +1,328 @@
+
+eff_searcyskillburst2.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/biaopan
+  rotate: false
+  xy: 429, 1679
+  size: 365, 365
+  orig: 365, 365
+  offset: 0, 0
+  index: -1
+effect/biaopan2
+  rotate: false
+  xy: 2, 1233
+  size: 384, 384
+  orig: 384, 384
+  offset: 0, 0
+  index: -1
+effect/di_00
+  rotate: false
+  xy: 430, 68
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+effect/di_01
+  rotate: false
+  xy: 679, 252
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+effect/di_02
+  rotate: false
+  xy: 1164, 1274
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+effect/di_03
+  rotate: false
+  xy: 915, 1038
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+effect/di_04
+  rotate: false
+  xy: 1294, 1274
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+effect/di_05
+  rotate: false
+  xy: 915, 908
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+effect/di_06
+  rotate: false
+  xy: 1424, 1274
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+effect/di_07
+  rotate: false
+  xy: 915, 778
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+effect/di_08
+  rotate: false
+  xy: 915, 648
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+effect/di_09
+  rotate: false
+  xy: 915, 518
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+effect/di_10
+  rotate: false
+  xy: 915, 388
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+effect/di_11
+  rotate: false
+  xy: 560, 68
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+effect/fenzhen
+  rotate: true
+  xy: 429, 1592
+  size: 85, 293
+  orig: 85, 293
+  offset: 0, 0
+  index: -1
+effect/guang/baiquan
+  rotate: false
+  xy: 2, 2
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+effect/guang/guang
+  rotate: false
+  xy: 1567, 1367
+  size: 249, 249
+  orig: 249, 249
+  offset: 0, 0
+  index: -1
+effect/guang/guangdilizi12
+  rotate: false
+  xy: 430, 1142
+  size: 247, 234
+  orig: 247, 234
+  offset: 0, 0
+  index: -1
+effect/guang/guangdilizi13
+  rotate: false
+  xy: 430, 906
+  size: 247, 234
+  orig: 247, 234
+  offset: 0, 0
+  index: -1
+effect/guang/guangdilizi14
+  rotate: false
+  xy: 430, 670
+  size: 247, 234
+  orig: 247, 234
+  offset: 0, 0
+  index: -1
+effect/guang/guangdilizi15
+  rotate: false
+  xy: 430, 434
+  size: 247, 234
+  orig: 247, 234
+  offset: 0, 0
+  index: -1
+effect/guang/guangdilizi16
+  rotate: false
+  xy: 430, 198
+  size: 247, 234
+  orig: 247, 234
+  offset: 0, 0
+  index: -1
+effect/guang/guangdilizi17
+  rotate: true
+  xy: 679, 1129
+  size: 247, 234
+  orig: 247, 234
+  offset: 0, 0
+  index: -1
+effect/guang/guangdilizi18
+  rotate: true
+  xy: 679, 880
+  size: 247, 234
+  orig: 247, 234
+  offset: 0, 0
+  index: -1
+effect/guang/guangdilizi19
+  rotate: true
+  xy: 679, 631
+  size: 247, 234
+  orig: 247, 234
+  offset: 0, 0
+  index: -1
+effect/guang/guangdilizi20
+  rotate: true
+  xy: 679, 382
+  size: 247, 234
+  orig: 247, 234
+  offset: 0, 0
+  index: -1
+effect/guang/guangdilizi21
+  rotate: false
+  xy: 915, 1168
+  size: 247, 234
+  orig: 247, 234
+  offset: 0, 0
+  index: -1
+effect/guang/liang
+  rotate: false
+  xy: 809, 280
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+effect/guangxiao
+  rotate: true
+  xy: 1975, 1844
+  size: 200, 67
+  orig: 200, 67
+  offset: 0, 0
+  index: -1
+effect/shizhen
+  rotate: false
+  xy: 1818, 1399
+  size: 85, 217
+  orig: 85, 217
+  offset: 0, 0
+  index: -1
+effect/shuhuanrao_00
+  rotate: true
+  xy: 2, 840
+  size: 391, 212
+  orig: 391, 212
+  offset: 0, 0
+  index: -1
+effect/shuhuanrao_01
+  rotate: false
+  xy: 796, 1832
+  size: 391, 212
+  orig: 391, 212
+  offset: 0, 0
+  index: -1
+effect/shuhuanrao_02
+  rotate: true
+  xy: 2, 447
+  size: 391, 212
+  orig: 391, 212
+  offset: 0, 0
+  index: -1
+effect/shuhuanrao_03
+  rotate: false
+  xy: 1189, 1832
+  size: 391, 212
+  orig: 391, 212
+  offset: 0, 0
+  index: -1
+effect/shuhuanrao_04
+  rotate: true
+  xy: 2, 54
+  size: 391, 212
+  orig: 391, 212
+  offset: 0, 0
+  index: -1
+effect/shuhuanrao_05
+  rotate: false
+  xy: 1582, 1832
+  size: 391, 212
+  orig: 391, 212
+  offset: 0, 0
+  index: -1
+effect/shuhuanrao_06
+  rotate: true
+  xy: 216, 840
+  size: 391, 212
+  orig: 391, 212
+  offset: 0, 0
+  index: -1
+effect/shuhuanrao_07
+  rotate: true
+  xy: 216, 447
+  size: 391, 212
+  orig: 391, 212
+  offset: 0, 0
+  index: -1
+effect/shuhuanrao_09
+  rotate: true
+  xy: 216, 54
+  size: 391, 212
+  orig: 391, 212
+  offset: 0, 0
+  index: -1
+effect/shuhuanrao_10
+  rotate: false
+  xy: 796, 1618
+  size: 391, 212
+  orig: 391, 212
+  offset: 0, 0
+  index: -1
+effect/shuhuanrao_11
+  rotate: false
+  xy: 1189, 1618
+  size: 391, 212
+  orig: 391, 212
+  offset: 0, 0
+  index: -1
+effect/shuhuanrao_12
+  rotate: false
+  xy: 1582, 1618
+  size: 391, 212
+  orig: 391, 212
+  offset: 0, 0
+  index: -1
+effect/shuhuanrao_13
+  rotate: false
+  xy: 388, 1378
+  size: 391, 212
+  orig: 391, 212
+  offset: 0, 0
+  index: -1
+effect/shuhuanrao_14
+  rotate: false
+  xy: 781, 1404
+  size: 391, 212
+  orig: 391, 212
+  offset: 0, 0
+  index: -1
+effect/shuhuanrao_15
+  rotate: false
+  xy: 1174, 1404
+  size: 391, 212
+  orig: 391, 212
+  offset: 0, 0
+  index: -1
+effect/shuzi
+  rotate: false
+  xy: 2, 1619
+  size: 425, 425
+  orig: 425, 425
+  offset: 0, 0
+  index: -1

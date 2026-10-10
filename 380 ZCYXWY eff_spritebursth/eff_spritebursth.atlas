@@ -1,0 +1,209 @@
+
+eff_spritebursth.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/an/anchen_00
+  rotate: false
+  xy: 1482, 582
+  size: 102, 160
+  orig: 102, 160
+  offset: 0, 0
+  index: -1
+effect/an/anchen_01
+  rotate: false
+  xy: 1778, 844
+  size: 102, 160
+  orig: 102, 160
+  offset: 0, 0
+  index: -1
+effect/an/anchen_02
+  rotate: false
+  xy: 164, 58
+  size: 102, 160
+  orig: 102, 160
+  offset: 0, 0
+  index: -1
+effect/an/anchen_03
+  rotate: false
+  xy: 1482, 420
+  size: 102, 160
+  orig: 102, 160
+  offset: 0, 0
+  index: -1
+effect/an/anchen_04
+  rotate: false
+  xy: 1586, 582
+  size: 102, 160
+  orig: 102, 160
+  offset: 0, 0
+  index: -1
+effect/an/anchen_05
+  rotate: false
+  xy: 1882, 844
+  size: 102, 160
+  orig: 102, 160
+  offset: 0, 0
+  index: -1
+effect/an/anchen_06
+  rotate: false
+  xy: 268, 58
+  size: 102, 160
+  orig: 102, 160
+  offset: 0, 0
+  index: -1
+effect/an/anchen_07
+  rotate: false
+  xy: 1482, 258
+  size: 102, 160
+  orig: 102, 160
+  offset: 0, 0
+  index: -1
+effect/an/anchen_08
+  rotate: false
+  xy: 1586, 420
+  size: 102, 160
+  orig: 102, 160
+  offset: 0, 0
+  index: -1
+effect/an/dilie
+  rotate: false
+  xy: 2, 58
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: -1
+effect/an/diliex
+  rotate: false
+  xy: 372, 116
+  size: 102, 102
+  orig: 102, 102
+  offset: 0, 0
+  index: -1
+effect/an/guangxiao
+  rotate: false
+  xy: 2, 2
+  size: 160, 54
+  orig: 160, 54
+  offset: 0, 0
+  index: -1
+effect/huo/huobao_00
+  rotate: false
+  xy: 2, 744
+  size: 294, 260
+  orig: 294, 260
+  offset: 0, 0
+  index: -1
+effect/huo/huobao_01
+  rotate: false
+  xy: 2, 482
+  size: 294, 260
+  orig: 294, 260
+  offset: 0, 0
+  index: -1
+effect/huo/huobao_02
+  rotate: false
+  xy: 298, 744
+  size: 294, 260
+  orig: 294, 260
+  offset: 0, 0
+  index: -1
+effect/huo/huobao_03
+  rotate: false
+  xy: 2, 220
+  size: 294, 260
+  orig: 294, 260
+  offset: 0, 0
+  index: -1
+effect/huo/huobao_04
+  rotate: false
+  xy: 298, 482
+  size: 294, 260
+  orig: 294, 260
+  offset: 0, 0
+  index: -1
+effect/huo/huobao_05
+  rotate: false
+  xy: 594, 744
+  size: 294, 260
+  orig: 294, 260
+  offset: 0, 0
+  index: -1
+effect/huo/huobao_06
+  rotate: false
+  xy: 298, 220
+  size: 294, 260
+  orig: 294, 260
+  offset: 0, 0
+  index: -1
+effect/huo/huobao_07
+  rotate: false
+  xy: 594, 482
+  size: 294, 260
+  orig: 294, 260
+  offset: 0, 0
+  index: -1
+effect/huo/huobao_08
+  rotate: false
+  xy: 890, 744
+  size: 294, 260
+  orig: 294, 260
+  offset: 0, 0
+  index: -1
+effect/huo/huobao_09
+  rotate: false
+  xy: 594, 220
+  size: 294, 260
+  orig: 294, 260
+  offset: 0, 0
+  index: -1
+effect/huo/huobao_10
+  rotate: false
+  xy: 890, 482
+  size: 294, 260
+  orig: 294, 260
+  offset: 0, 0
+  index: -1
+effect/huo/huobao_11
+  rotate: false
+  xy: 1186, 744
+  size: 294, 260
+  orig: 294, 260
+  offset: 0, 0
+  index: -1
+effect/huo/huobao_12
+  rotate: false
+  xy: 890, 220
+  size: 294, 260
+  orig: 294, 260
+  offset: 0, 0
+  index: -1
+effect/huo/huobao_13
+  rotate: false
+  xy: 1186, 482
+  size: 294, 260
+  orig: 294, 260
+  offset: 0, 0
+  index: -1
+effect/huo/huobao_14
+  rotate: false
+  xy: 1482, 744
+  size: 294, 260
+  orig: 294, 260
+  offset: 0, 0
+  index: -1
+effect/huo/huobao_15
+  rotate: false
+  xy: 1186, 220
+  size: 294, 260
+  orig: 294, 260
+  offset: 0, 0
+  index: -1
+effect/liang
+  rotate: false
+  xy: 1778, 762
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1

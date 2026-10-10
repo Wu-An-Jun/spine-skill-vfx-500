@@ -1,0 +1,104 @@
+
+anblk_chuanci_1.png
+size: 993,690
+format: RGBA4444
+filter: Linear,Linear
+repeat: none
+anblk_chuanci_0001
+  rotate: false
+  xy: 2, 518
+  size: 271, 170
+  orig: 271, 170
+  offset: 0, 0
+  index: -1
+anblk_chuanci_0002
+  rotate: false
+  xy: 2, 346
+  size: 271, 170
+  orig: 271, 170
+  offset: 0, 0
+  index: -1
+anblk_chuanci_0003
+  rotate: false
+  xy: 275, 518
+  size: 271, 170
+  orig: 271, 170
+  offset: 0, 0
+  index: -1
+anblk_chuanci_0004
+  rotate: false
+  xy: 2, 174
+  size: 271, 170
+  orig: 271, 170
+  offset: 0, 0
+  index: -1
+anblk_chuanci_0005
+  rotate: false
+  xy: 275, 346
+  size: 271, 170
+  orig: 271, 170
+  offset: 0, 0
+  index: -1
+anblk_chuanci_0006
+  rotate: false
+  xy: 548, 518
+  size: 271, 170
+  orig: 271, 170
+  offset: 0, 0
+  index: -1
+anblk_chuanci_0007
+  rotate: false
+  xy: 2, 2
+  size: 271, 170
+  orig: 271, 170
+  offset: 0, 0
+  index: -1
+anblk_chuanci_0008
+  rotate: false
+  xy: 275, 174
+  size: 271, 170
+  orig: 271, 170
+  offset: 0, 0
+  index: -1
+anblk_chuanci_0009
+  rotate: false
+  xy: 548, 346
+  size: 271, 170
+  orig: 271, 170
+  offset: 0, 0
+  index: -1
+anblk_chuanci_0010
+  rotate: true
+  xy: 821, 417
+  size: 271, 170
+  orig: 271, 170
+  offset: 0, 0
+  index: -1
+anblk_chuanci_0011
+  rotate: false
+  xy: 275, 2
+  size: 271, 170
+  orig: 271, 170
+  offset: 0, 0
+  index: -1
+anblk_chuanci_0012
+  rotate: false
+  xy: 548, 174
+  size: 271, 170
+  orig: 271, 170
+  offset: 0, 0
+  index: -1
+anblk_chuanci_0013
+  rotate: false
+  xy: 548, 2
+  size: 271, 170
+  orig: 271, 170
+  offset: 0, 0
+  index: -1
+anblk_chuanci_0014
+  rotate: true
+  xy: 821, 144
+  size: 271, 170
+  orig: 271, 170
+  offset: 0, 0
+  index: -1

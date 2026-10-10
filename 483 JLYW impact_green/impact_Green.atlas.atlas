@@ -1,0 +1,118 @@
+
+impact_Green.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/flash-003
+  rotate: false
+  xy: 2, 348
+  size: 154, 154
+  orig: 154, 154
+  offset: 0, 0
+  index: -1
+effect/glow_001
+  rotate: false
+  xy: 426, 166
+  size: 78, 78
+  orig: 90, 90
+  offset: 6, 6
+  index: -1
+effect/hit_001
+  rotate: false
+  xy: 2, 43
+  size: 98, 80
+  orig: 110, 98
+  offset: 5, 9
+  index: -1
+effect/hit_006
+  rotate: false
+  xy: 158, 349
+  size: 150, 153
+  orig: 154, 154
+  offset: 4, 0
+  index: -1
+effect/trail_001
+  rotate: true
+  xy: 135, 237
+  size: 109, 14
+  orig: 120, 14
+  offset: 10, 0
+  index: -1
+effect/water-4/water_4_01
+  rotate: false
+  xy: 218, 46
+  size: 87, 86
+  orig: 150, 150
+  offset: 34, 29
+  index: -1
+effect/water-4/water_4_02
+  rotate: true
+  xy: 124, 149
+  size: 79, 108
+  orig: 150, 150
+  offset: 37, 7
+  index: -1
+effect/water-4/water_4_03
+  rotate: false
+  xy: 395, 46
+  size: 80, 86
+  orig: 150, 150
+  offset: 37, 30
+  index: -1
+effect/water-4/water_4_04
+  rotate: false
+  xy: 307, 46
+  size: 86, 86
+  orig: 150, 150
+  offset: 33, 30
+  index: -1
+effect/water-4/water_4_05
+  rotate: false
+  xy: 124, 58
+  size: 92, 89
+  orig: 150, 150
+  offset: 30, 29
+  index: -1
+effect/water-4/water_4_06
+  rotate: false
+  xy: 2, 125
+  size: 120, 103
+  orig: 150, 150
+  offset: 13, 21
+  index: -1
+effect/water-4/water_4_07
+  rotate: false
+  xy: 294, 134
+  size: 130, 110
+  orig: 150, 150
+  offset: 7, 18
+  index: -1
+effect/water-4/water_4_08
+  rotate: false
+  xy: 158, 230
+  size: 134, 117
+  orig: 150, 150
+  offset: 4, 15
+  index: -1
+effect/water-4/water_4_09
+  rotate: false
+  xy: 310, 246
+  size: 134, 121
+  orig: 150, 150
+  offset: 6, 13
+  index: -1
+effect/water-4/water_4_10
+  rotate: true
+  xy: 310, 369
+  size: 133, 122
+  orig: 150, 150
+  offset: 7, 13
+  index: -1
+effect/water-4/water_4_11
+  rotate: false
+  xy: 2, 230
+  size: 131, 116
+  orig: 150, 150
+  offset: 7, 15
+  index: -1

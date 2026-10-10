@@ -1,0 +1,55 @@
+
+eff_wolfbusrt2.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/baodian_01
+  rotate: true
+  xy: 2, 2
+  size: 156, 132
+  orig: 156, 132
+  offset: 0, 0
+  index: -1
+effect/baodian_02
+  rotate: true
+  xy: 136, 2
+  size: 156, 132
+  orig: 156, 132
+  offset: 0, 0
+  index: -1
+effect/baodian_03
+  rotate: true
+  xy: 270, 2
+  size: 156, 132
+  orig: 156, 132
+  offset: 0, 0
+  index: -1
+effect/baodian_04
+  rotate: true
+  xy: 404, 2
+  size: 156, 132
+  orig: 156, 132
+  offset: 0, 0
+  index: -1
+effect/baodian_05
+  rotate: true
+  xy: 538, 2
+  size: 156, 132
+  orig: 156, 132
+  offset: 0, 0
+  index: -1
+effect/baodian_06
+  rotate: true
+  xy: 672, 2
+  size: 156, 132
+  orig: 156, 132
+  offset: 0, 0
+  index: -1
+effect/baodian_07
+  rotate: false
+  xy: 806, 26
+  size: 156, 132
+  orig: 156, 132
+  offset: 0, 0
+  index: -1

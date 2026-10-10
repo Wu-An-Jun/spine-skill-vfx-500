@@ -1,0 +1,62 @@
+
+eff_skill5buff.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/daoguangp_00
+  rotate: false
+  xy: 2, 2
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+effect/daoguangp_01
+  rotate: false
+  xy: 260, 260
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+effect/daoguangp_02
+  rotate: false
+  xy: 462, 260
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+effect/dici2
+  rotate: true
+  xy: 260, 205
+  size: 53, 128
+  orig: 53, 128
+  offset: 0, 0
+  index: -1
+effect/guangxiaohong
+  rotate: true
+  xy: 204, 2
+  size: 200, 67
+  orig: 200, 67
+  offset: 0, 0
+  index: -1
+effect/xiabanl
+  rotate: true
+  xy: 866, 267
+  size: 193, 140
+  orig: 193, 140
+  offset: 0, 0
+  index: -1
+effect/xing
+  rotate: false
+  xy: 664, 260
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+effect/yuan (2)
+  rotate: false
+  xy: 2, 204
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1

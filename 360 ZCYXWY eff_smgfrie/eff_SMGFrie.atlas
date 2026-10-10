@@ -1,0 +1,55 @@
+
+eff_SMGFrie.png
+size: 512,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/baodian
+  rotate: false
+  xy: 2, 31
+  size: 91, 95
+  orig: 100, 100
+  offset: 2, 2
+  index: -1
+effect/danjia
+  rotate: false
+  xy: 234, 61
+  size: 38, 13
+  orig: 40, 25
+  offset: 1, 6
+  index: -1
+effect/shan01
+  rotate: true
+  xy: 328, 59
+  size: 67, 71
+  orig: 84, 94
+  offset: 17, 6
+  index: -1
+effect/shan02
+  rotate: false
+  xy: 95, 35
+  size: 71, 91
+  orig: 84, 94
+  offset: 0, 0
+  index: -1
+effect/shan03
+  rotate: false
+  xy: 168, 36
+  size: 64, 90
+  orig: 84, 94
+  offset: 2, 1
+  index: -1
+effect/shan05
+  rotate: true
+  xy: 234, 76
+  size: 50, 92
+  orig: 84, 94
+  offset: 1, 1
+  index: -1
+effect/tiao
+  rotate: true
+  xy: 2, 2
+  size: 27, 117
+  orig: 32, 128
+  offset: 3, 6
+  index: -1

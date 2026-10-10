@@ -1,0 +1,230 @@
+
+eff_squama1.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/beiguang_00
+  rotate: false
+  xy: 2, 704
+  size: 268, 281
+  orig: 268, 281
+  offset: 0, 0
+  index: -1
+effect/beiguang_01
+  rotate: false
+  xy: 2, 421
+  size: 268, 281
+  orig: 268, 281
+  offset: 0, 0
+  index: -1
+effect/beiguang_02
+  rotate: false
+  xy: 272, 704
+  size: 268, 281
+  orig: 268, 281
+  offset: 0, 0
+  index: -1
+effect/beiguang_03
+  rotate: false
+  xy: 2, 138
+  size: 268, 281
+  orig: 268, 281
+  offset: 0, 0
+  index: -1
+effect/beiguang_04
+  rotate: false
+  xy: 272, 421
+  size: 268, 281
+  orig: 268, 281
+  offset: 0, 0
+  index: -1
+effect/beiguang_05
+  rotate: false
+  xy: 542, 704
+  size: 268, 281
+  orig: 268, 281
+  offset: 0, 0
+  index: -1
+effect/beiguang_06
+  rotate: false
+  xy: 272, 138
+  size: 268, 281
+  orig: 268, 281
+  offset: 0, 0
+  index: -1
+effect/beiguang_07
+  rotate: false
+  xy: 542, 421
+  size: 268, 281
+  orig: 268, 281
+  offset: 0, 0
+  index: -1
+effect/beiguang_08
+  rotate: false
+  xy: 812, 704
+  size: 268, 281
+  orig: 268, 281
+  offset: 0, 0
+  index: -1
+effect/beiguang_09
+  rotate: false
+  xy: 542, 138
+  size: 268, 281
+  orig: 268, 281
+  offset: 0, 0
+  index: -1
+effect/beiguang_10
+  rotate: false
+  xy: 812, 421
+  size: 268, 281
+  orig: 268, 281
+  offset: 0, 0
+  index: -1
+effect/beiguang_11
+  rotate: false
+  xy: 1082, 704
+  size: 268, 281
+  orig: 268, 281
+  offset: 0, 0
+  index: -1
+effect/beiguang_12
+  rotate: false
+  xy: 812, 138
+  size: 268, 281
+  orig: 268, 281
+  offset: 0, 0
+  index: -1
+effect/beiguang_13
+  rotate: false
+  xy: 1082, 421
+  size: 268, 281
+  orig: 268, 281
+  offset: 0, 0
+  index: -1
+effect/beiguang_14
+  rotate: false
+  xy: 1352, 704
+  size: 268, 281
+  orig: 268, 281
+  offset: 0, 0
+  index: -1
+effect/beiguang_15
+  rotate: false
+  xy: 1082, 138
+  size: 268, 281
+  orig: 268, 281
+  offset: 0, 0
+  index: -1
+effect/beiguang_16
+  rotate: false
+  xy: 1352, 421
+  size: 268, 281
+  orig: 268, 281
+  offset: 0, 0
+  index: -1
+effect/beiguang_17
+  rotate: false
+  xy: 1622, 704
+  size: 268, 281
+  orig: 268, 281
+  offset: 0, 0
+  index: -1
+effect/beiguang_18
+  rotate: false
+  xy: 1352, 138
+  size: 268, 281
+  orig: 268, 281
+  offset: 0, 0
+  index: -1
+effect/dianhuan1
+  rotate: false
+  xy: 2, 2
+  size: 134, 134
+  orig: 134, 134
+  offset: 0, 0
+  index: -1
+effect/dianhuan2
+  rotate: false
+  xy: 1892, 851
+  size: 134, 134
+  orig: 134, 134
+  offset: 0, 0
+  index: -1
+effect/guangxiaozi
+  rotate: false
+  xy: 1622, 231
+  size: 200, 67
+  orig: 200, 67
+  offset: 0, 0
+  index: -1
+effect/guangzhuzi01
+  rotate: false
+  xy: 138, 6
+  size: 130, 130
+  orig: 130, 130
+  offset: 0, 0
+  index: -1
+effect/guangzhuzi02
+  rotate: false
+  xy: 1892, 719
+  size: 130, 130
+  orig: 130, 130
+  offset: 0, 0
+  index: -1
+effect/guangzhuzi03
+  rotate: false
+  xy: 270, 6
+  size: 130, 130
+  orig: 130, 130
+  offset: 0, 0
+  index: -1
+effect/guangzhuzi04
+  rotate: false
+  xy: 402, 6
+  size: 130, 130
+  orig: 130, 130
+  offset: 0, 0
+  index: -1
+effect/guangzhuzi05
+  rotate: false
+  xy: 534, 6
+  size: 130, 130
+  orig: 130, 130
+  offset: 0, 0
+  index: -1
+effect/guangzhuzi06
+  rotate: false
+  xy: 666, 6
+  size: 130, 130
+  orig: 130, 130
+  offset: 0, 0
+  index: -1
+effect/guangzhuzi07
+  rotate: false
+  xy: 798, 6
+  size: 130, 130
+  orig: 130, 130
+  offset: 0, 0
+  index: -1
+effect/liang
+  rotate: false
+  xy: 930, 36
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+effect/liubianxingzi
+  rotate: false
+  xy: 1622, 502
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+effect/liubianxingzixia
+  rotate: false
+  xy: 1622, 300
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1

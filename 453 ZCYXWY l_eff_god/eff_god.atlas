@@ -1,0 +1,202 @@
+
+eff_god.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/bao01
+  rotate: false
+  xy: 578, 288
+  size: 132, 141
+  orig: 132, 141
+  offset: 0, 0
+  index: -1
+effect/bao02
+  rotate: false
+  xy: 770, 480
+  size: 132, 141
+  orig: 132, 141
+  offset: 0, 0
+  index: -1
+effect/bao03
+  rotate: false
+  xy: 578, 145
+  size: 132, 141
+  orig: 132, 141
+  offset: 0, 0
+  index: -1
+effect/bao04
+  rotate: false
+  xy: 578, 2
+  size: 132, 141
+  orig: 132, 141
+  offset: 0, 0
+  index: -1
+effect/bao05
+  rotate: false
+  xy: 712, 288
+  size: 132, 141
+  orig: 132, 141
+  offset: 0, 0
+  index: -1
+effect/bao06
+  rotate: false
+  xy: 712, 145
+  size: 132, 141
+  orig: 132, 141
+  offset: 0, 0
+  index: -1
+effect/dun_01
+  rotate: false
+  xy: 2, 815
+  size: 190, 190
+  orig: 190, 190
+  offset: 0, 0
+  index: -1
+effect/dun_02
+  rotate: false
+  xy: 2, 623
+  size: 190, 190
+  orig: 190, 190
+  offset: 0, 0
+  index: -1
+effect/dun_03
+  rotate: false
+  xy: 194, 815
+  size: 190, 190
+  orig: 190, 190
+  offset: 0, 0
+  index: -1
+effect/dun_04
+  rotate: false
+  xy: 2, 431
+  size: 190, 190
+  orig: 190, 190
+  offset: 0, 0
+  index: -1
+effect/dun_05
+  rotate: false
+  xy: 194, 623
+  size: 190, 190
+  orig: 190, 190
+  offset: 0, 0
+  index: -1
+effect/dun_06
+  rotate: false
+  xy: 386, 815
+  size: 190, 190
+  orig: 190, 190
+  offset: 0, 0
+  index: -1
+effect/dun_07
+  rotate: false
+  xy: 2, 239
+  size: 190, 190
+  orig: 190, 190
+  offset: 0, 0
+  index: -1
+effect/dun_08
+  rotate: false
+  xy: 194, 431
+  size: 190, 190
+  orig: 190, 190
+  offset: 0, 0
+  index: -1
+effect/dun_09
+  rotate: false
+  xy: 386, 623
+  size: 190, 190
+  orig: 190, 190
+  offset: 0, 0
+  index: -1
+effect/dun_10
+  rotate: false
+  xy: 578, 815
+  size: 190, 190
+  orig: 190, 190
+  offset: 0, 0
+  index: -1
+effect/dun_11
+  rotate: false
+  xy: 2, 47
+  size: 190, 190
+  orig: 190, 190
+  offset: 0, 0
+  index: -1
+effect/dun_12
+  rotate: false
+  xy: 194, 239
+  size: 190, 190
+  orig: 190, 190
+  offset: 0, 0
+  index: -1
+effect/dun_13
+  rotate: false
+  xy: 386, 431
+  size: 190, 190
+  orig: 190, 190
+  offset: 0, 0
+  index: -1
+effect/dun_14
+  rotate: false
+  xy: 578, 623
+  size: 190, 190
+  orig: 190, 190
+  offset: 0, 0
+  index: -1
+effect/dun_15
+  rotate: false
+  xy: 770, 815
+  size: 190, 190
+  orig: 190, 190
+  offset: 0, 0
+  index: -1
+effect/dun_16
+  rotate: false
+  xy: 194, 47
+  size: 190, 190
+  orig: 190, 190
+  offset: 0, 0
+  index: -1
+effect/dun_17
+  rotate: false
+  xy: 386, 239
+  size: 190, 190
+  orig: 190, 190
+  offset: 0, 0
+  index: -1
+effect/dun_18
+  rotate: false
+  xy: 578, 431
+  size: 190, 190
+  orig: 190, 190
+  offset: 0, 0
+  index: -1
+effect/dun_19
+  rotate: false
+  xy: 770, 623
+  size: 190, 190
+  orig: 190, 190
+  offset: 0, 0
+  index: -1
+effect/dun_20
+  rotate: false
+  xy: 386, 47
+  size: 190, 190
+  orig: 190, 190
+  offset: 0, 0
+  index: -1
+effect/guang
+  rotate: false
+  xy: 712, 21
+  size: 122, 122
+  orig: 122, 122
+  offset: 0, 0
+  index: -1
+effect/guang01
+  rotate: false
+  xy: 836, 21
+  size: 122, 122
+  orig: 122, 122
+  offset: 0, 0
+  index: -1

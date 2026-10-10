@@ -1,0 +1,83 @@
+
+eff_snowballburst.png
+size: 2048,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/baodiandi00
+  rotate: false
+  xy: 2, 37
+  size: 192, 192
+  orig: 192, 192
+  offset: 0, 0
+  index: -1
+effect/baodiandi01
+  rotate: false
+  xy: 196, 37
+  size: 192, 192
+  orig: 192, 192
+  offset: 0, 0
+  index: -1
+effect/baodiandi02
+  rotate: false
+  xy: 390, 37
+  size: 192, 192
+  orig: 192, 192
+  offset: 0, 0
+  index: -1
+effect/baodiandi03
+  rotate: false
+  xy: 584, 37
+  size: 192, 192
+  orig: 192, 192
+  offset: 0, 0
+  index: -1
+effect/baodiandi04
+  rotate: false
+  xy: 778, 37
+  size: 192, 192
+  orig: 192, 192
+  offset: 0, 0
+  index: -1
+effect/baodiandi05
+  rotate: false
+  xy: 972, 37
+  size: 192, 192
+  orig: 192, 192
+  offset: 0, 0
+  index: -1
+effect/baodiandi06
+  rotate: false
+  xy: 1166, 37
+  size: 192, 192
+  orig: 192, 192
+  offset: 0, 0
+  index: -1
+effect/flash
+  rotate: false
+  xy: 2, 2
+  size: 30, 33
+  orig: 30, 33
+  offset: 0, 0
+  index: -1
+effect/qi
+  rotate: false
+  xy: 1360, 111
+  size: 99, 118
+  orig: 99, 118
+  offset: 0, 0
+  index: -1
+effect/star
+  rotate: false
+  xy: 1360, 44
+  size: 60, 65
+  orig: 60, 65
+  offset: 0, 0
+  index: -1
+effect/suipian
+  rotate: false
+  xy: 1461, 145
+  size: 98, 84
+  orig: 98, 84
+  offset: 0, 0
+  index: -1

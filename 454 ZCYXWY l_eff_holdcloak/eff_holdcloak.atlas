@@ -1,0 +1,62 @@
+
+eff_holdcloak.png
+size: 1024,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/dian
+  rotate: false
+  xy: 578, 2
+  size: 122, 122
+  orig: 122, 122
+  offset: 0, 0
+  index: -1
+effect/guang
+  rotate: false
+  xy: 702, 17
+  size: 48, 48
+  orig: 48, 48
+  offset: 0, 0
+  index: -1
+effect/suipain
+  rotate: false
+  xy: 826, 76
+  size: 48, 48
+  orig: 48, 48
+  offset: 0, 0
+  index: -1
+effect/suipain01
+  rotate: false
+  xy: 752, 27
+  size: 48, 38
+  orig: 48, 38
+  offset: 0, 0
+  index: -1
+effect/yuan
+  rotate: false
+  xy: 702, 67
+  size: 122, 57
+  orig: 122, 57
+  offset: 0, 0
+  index: -1
+effect/zhuan01
+  rotate: false
+  xy: 2, 29
+  size: 190, 95
+  orig: 190, 95
+  offset: 0, 0
+  index: -1
+effect/zhuan2
+  rotate: false
+  xy: 194, 29
+  size: 190, 95
+  orig: 190, 95
+  offset: 0, 0
+  index: -1
+effect/zhuan3
+  rotate: false
+  xy: 386, 29
+  size: 190, 95
+  orig: 190, 95
+  offset: 0, 0
+  index: -1

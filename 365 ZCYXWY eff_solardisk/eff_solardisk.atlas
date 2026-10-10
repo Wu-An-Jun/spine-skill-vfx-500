@@ -1,0 +1,13 @@
+
+eff_solardisk.png
+size: 128,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/rilun
+  rotate: false
+  xy: 2, 2
+  size: 124, 134
+  orig: 124, 134
+  offset: 0, 0
+  index: -1

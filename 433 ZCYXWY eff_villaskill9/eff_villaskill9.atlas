@@ -1,0 +1,160 @@
+
+eff_villaskill9.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/dian01
+  rotate: false
+  xy: 2, 2
+  size: 51, 51
+  orig: 51, 51
+  offset: 0, 0
+  index: -1
+effect/line
+  rotate: true
+  xy: 2, 55
+  size: 19, 85
+  orig: 19, 85
+  offset: 0, 0
+  index: -1
+effect/zouxian_00
+  rotate: false
+  xy: 2, 708
+  size: 228, 314
+  orig: 228, 314
+  offset: 0, 0
+  index: -1
+effect/zouxian_01
+  rotate: false
+  xy: 2, 392
+  size: 228, 314
+  orig: 228, 314
+  offset: 0, 0
+  index: -1
+effect/zouxian_02
+  rotate: false
+  xy: 232, 708
+  size: 228, 314
+  orig: 228, 314
+  offset: 0, 0
+  index: -1
+effect/zouxian_03
+  rotate: false
+  xy: 2, 76
+  size: 228, 314
+  orig: 228, 314
+  offset: 0, 0
+  index: -1
+effect/zouxian_04
+  rotate: false
+  xy: 232, 392
+  size: 228, 314
+  orig: 228, 314
+  offset: 0, 0
+  index: -1
+effect/zouxian_05
+  rotate: false
+  xy: 462, 708
+  size: 228, 314
+  orig: 228, 314
+  offset: 0, 0
+  index: -1
+effect/zouxian_06
+  rotate: false
+  xy: 232, 76
+  size: 228, 314
+  orig: 228, 314
+  offset: 0, 0
+  index: -1
+effect/zouxian_07
+  rotate: false
+  xy: 462, 392
+  size: 228, 314
+  orig: 228, 314
+  offset: 0, 0
+  index: -1
+effect/zouxian_08
+  rotate: false
+  xy: 692, 708
+  size: 228, 314
+  orig: 228, 314
+  offset: 0, 0
+  index: -1
+effect/zouxian_09
+  rotate: false
+  xy: 462, 76
+  size: 228, 314
+  orig: 228, 314
+  offset: 0, 0
+  index: -1
+effect/zouxian_10
+  rotate: false
+  xy: 692, 392
+  size: 228, 314
+  orig: 228, 314
+  offset: 0, 0
+  index: -1
+effect/zouxian_11
+  rotate: false
+  xy: 922, 708
+  size: 228, 314
+  orig: 228, 314
+  offset: 0, 0
+  index: -1
+effect/zouxian_12
+  rotate: false
+  xy: 692, 76
+  size: 228, 314
+  orig: 228, 314
+  offset: 0, 0
+  index: -1
+effect/zouxian_13
+  rotate: false
+  xy: 922, 392
+  size: 228, 314
+  orig: 228, 314
+  offset: 0, 0
+  index: -1
+effect/zouxian_14
+  rotate: false
+  xy: 1152, 708
+  size: 228, 314
+  orig: 228, 314
+  offset: 0, 0
+  index: -1
+effect/zouxian_15
+  rotate: false
+  xy: 922, 76
+  size: 228, 314
+  orig: 228, 314
+  offset: 0, 0
+  index: -1
+effect/zouxian_16
+  rotate: false
+  xy: 1152, 392
+  size: 228, 314
+  orig: 228, 314
+  offset: 0, 0
+  index: -1
+effect/zouxian_17
+  rotate: false
+  xy: 1382, 708
+  size: 228, 314
+  orig: 228, 314
+  offset: 0, 0
+  index: -1
+effect/zouxian_18
+  rotate: false
+  xy: 1152, 76
+  size: 228, 314
+  orig: 228, 314
+  offset: 0, 0
+  index: -1
+effect/zouxian_19
+  rotate: false
+  xy: 1382, 392
+  size: 228, 314
+  orig: 228, 314
+  offset: 0, 0
+  index: -1

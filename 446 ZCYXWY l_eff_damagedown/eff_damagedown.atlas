@@ -1,0 +1,90 @@
+
+eff_damagedown.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/bao_01
+  rotate: false
+  xy: 2, 310
+  size: 190, 152
+  orig: 190, 152
+  offset: 0, 0
+  index: -1
+effect/bao_02
+  rotate: false
+  xy: 2, 156
+  size: 190, 152
+  orig: 190, 152
+  offset: 0, 0
+  index: -1
+effect/bao_03
+  rotate: false
+  xy: 194, 310
+  size: 190, 152
+  orig: 190, 152
+  offset: 0, 0
+  index: -1
+effect/bao_04
+  rotate: false
+  xy: 2, 2
+  size: 190, 152
+  orig: 190, 152
+  offset: 0, 0
+  index: -1
+effect/bao_05
+  rotate: false
+  xy: 194, 156
+  size: 190, 152
+  orig: 190, 152
+  offset: 0, 0
+  index: -1
+effect/bao_06
+  rotate: false
+  xy: 386, 310
+  size: 190, 152
+  orig: 190, 152
+  offset: 0, 0
+  index: -1
+effect/bao_07
+  rotate: false
+  xy: 194, 2
+  size: 190, 152
+  orig: 190, 152
+  offset: 0, 0
+  index: -1
+effect/bao_08
+  rotate: false
+  xy: 386, 156
+  size: 190, 152
+  orig: 190, 152
+  offset: 0, 0
+  index: -1
+effect/bao_09
+  rotate: false
+  xy: 578, 310
+  size: 190, 152
+  orig: 190, 152
+  offset: 0, 0
+  index: -1
+effect/guang
+  rotate: false
+  xy: 386, 32
+  size: 122, 122
+  orig: 122, 122
+  offset: 0, 0
+  index: -1
+effect/yuan
+  rotate: false
+  xy: 578, 186
+  size: 122, 122
+  orig: 122, 122
+  offset: 0, 0
+  index: -1
+effect/zhun
+  rotate: false
+  xy: 770, 367
+  size: 95, 95
+  orig: 95, 95
+  offset: 0, 0
+  index: -1

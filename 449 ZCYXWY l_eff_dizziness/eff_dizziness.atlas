@@ -1,0 +1,62 @@
+
+eff_dizziness.png
+size: 1024,64
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/zhuan_01
+  rotate: false
+  xy: 2, 2
+  size: 76, 48
+  orig: 76, 48
+  offset: 0, 0
+  index: -1
+effect/zhuan_02
+  rotate: false
+  xy: 80, 2
+  size: 76, 48
+  orig: 76, 48
+  offset: 0, 0
+  index: -1
+effect/zhuan_03
+  rotate: false
+  xy: 158, 2
+  size: 76, 48
+  orig: 76, 48
+  offset: 0, 0
+  index: -1
+effect/zhuan_04
+  rotate: false
+  xy: 236, 2
+  size: 76, 48
+  orig: 76, 48
+  offset: 0, 0
+  index: -1
+effect/zhuan_05
+  rotate: false
+  xy: 314, 2
+  size: 76, 48
+  orig: 76, 48
+  offset: 0, 0
+  index: -1
+effect/zhuan_06
+  rotate: false
+  xy: 392, 2
+  size: 76, 48
+  orig: 76, 48
+  offset: 0, 0
+  index: -1
+effect/zhuan_07
+  rotate: false
+  xy: 470, 2
+  size: 76, 48
+  orig: 76, 48
+  offset: 0, 0
+  index: -1
+effect/zhuan_08
+  rotate: false
+  xy: 548, 2
+  size: 76, 48
+  orig: 76, 48
+  offset: 0, 0
+  index: -1

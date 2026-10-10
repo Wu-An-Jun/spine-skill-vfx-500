@@ -1,0 +1,104 @@
+
+eff_wfericburst.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/bao01
+  rotate: false
+  xy: 2, 346
+  size: 164, 139
+  orig: 164, 139
+  offset: 0, 0
+  index: -1
+effect/bao02
+  rotate: false
+  xy: 2, 205
+  size: 164, 139
+  orig: 164, 139
+  offset: 0, 0
+  index: -1
+effect/bao03
+  rotate: false
+  xy: 168, 346
+  size: 164, 139
+  orig: 164, 139
+  offset: 0, 0
+  index: -1
+effect/bao04
+  rotate: false
+  xy: 2, 64
+  size: 164, 139
+  orig: 164, 139
+  offset: 0, 0
+  index: -1
+effect/bao05
+  rotate: false
+  xy: 168, 205
+  size: 164, 139
+  orig: 164, 139
+  offset: 0, 0
+  index: -1
+effect/bao06
+  rotate: false
+  xy: 334, 346
+  size: 164, 139
+  orig: 164, 139
+  offset: 0, 0
+  index: -1
+effect/bao07
+  rotate: false
+  xy: 168, 64
+  size: 164, 139
+  orig: 164, 139
+  offset: 0, 0
+  index: -1
+effect/dian
+  rotate: false
+  xy: 2, 2
+  size: 60, 60
+  orig: 60, 60
+  offset: 0, 0
+  index: -1
+effect/kuosan01
+  rotate: false
+  xy: 334, 196
+  size: 139, 148
+  orig: 139, 148
+  offset: 0, 0
+  index: -1
+effect/kuosan02
+  rotate: true
+  xy: 500, 346
+  size: 139, 148
+  orig: 139, 148
+  offset: 0, 0
+  index: -1
+effect/kuosan03
+  rotate: false
+  xy: 475, 196
+  size: 139, 148
+  orig: 139, 148
+  offset: 0, 0
+  index: -1
+effect/kuosan04
+  rotate: true
+  xy: 650, 346
+  size: 139, 148
+  orig: 139, 148
+  offset: 0, 0
+  index: -1
+effect/kuosan05
+  rotate: false
+  xy: 616, 196
+  size: 139, 148
+  orig: 139, 148
+  offset: 0, 0
+  index: -1
+effect/kuosan06
+  rotate: true
+  xy: 800, 346
+  size: 139, 148
+  orig: 139, 148
+  offset: 0, 0
+  index: -1

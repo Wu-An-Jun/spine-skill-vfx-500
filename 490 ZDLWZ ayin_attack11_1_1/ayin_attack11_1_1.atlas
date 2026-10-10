@@ -1,0 +1,90 @@
+
+ayin_attack11_1_1.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ayin_diguang_1
+  rotate: true
+  xy: 187, 179
+  size: 75, 19
+  orig: 75, 19
+  offset: 0, 0
+  index: -1
+ayin_diguang_2
+  rotate: true
+  xy: 2, 7
+  size: 29, 68
+  orig: 30, 75
+  offset: 0, 3
+  index: -1
+ayin_liuguang_1_0001
+  rotate: false
+  xy: 2, 155
+  size: 168, 54
+  orig: 201, 76
+  offset: 7, 6
+  index: -1
+ayin_liuguang_1_0002
+  rotate: false
+  xy: 2, 211
+  size: 183, 43
+  orig: 201, 76
+  offset: 11, 6
+  index: -1
+ayin_liuguang_1_0003
+  rotate: false
+  xy: 2, 105
+  size: 173, 48
+  orig: 201, 76
+  offset: 27, 5
+  index: -1
+ayin_liuguang_1_0004
+  rotate: false
+  xy: 2, 38
+  size: 134, 65
+  orig: 201, 76
+  offset: 59, 6
+  index: -1
+ayin_liuguang_1_0005
+  rotate: true
+  xy: 138, 14
+  size: 89, 43
+  orig: 201, 76
+  offset: 98, 10
+  index: -1
+ayin_xx_1_0001
+  rotate: false
+  xy: 208, 233
+  size: 24, 21
+  orig: 30, 30
+  offset: 3, 5
+  index: -1
+ayin_xx_1_0002
+  rotate: true
+  xy: 234, 229
+  size: 25, 20
+  orig: 30, 30
+  offset: 2, 5
+  index: -1
+ayin_xx_1_0003
+  rotate: false
+  xy: 72, 13
+  size: 28, 23
+  orig: 30, 30
+  offset: 1, 3
+  index: -1
+ayin_xx_1_0004
+  rotate: false
+  xy: 102, 20
+  size: 20, 16
+  orig: 30, 30
+  offset: 5, 7
+  index: -1
+ayin_xx_1_0005
+  rotate: false
+  xy: 172, 196
+  size: 13, 13
+  orig: 30, 30
+  offset: 8, 9
+  index: -1

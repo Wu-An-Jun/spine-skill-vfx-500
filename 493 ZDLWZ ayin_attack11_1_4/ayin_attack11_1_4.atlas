@@ -1,0 +1,20 @@
+
+ayin_attack11_1_4.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ayin_hudie_2
+  rotate: false
+  xy: 2, 42
+  size: 159, 205
+  orig: 164, 208
+  offset: 5, 3
+  index: -1
+guangci_1
+  rotate: false
+  xy: 163, 162
+  size: 84, 85
+  orig: 84, 85
+  offset: 0, 0
+  index: -1

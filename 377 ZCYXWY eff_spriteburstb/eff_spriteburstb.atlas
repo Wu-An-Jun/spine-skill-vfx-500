@@ -1,0 +1,132 @@
+
+eff_spriteburstb.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/bingbao_00
+  rotate: false
+  xy: 2, 582
+  size: 294, 260
+  orig: 294, 260
+  offset: 0, 0
+  index: -1
+effect/bingbao_01
+  rotate: false
+  xy: 2, 320
+  size: 294, 260
+  orig: 294, 260
+  offset: 0, 0
+  index: -1
+effect/bingbao_02
+  rotate: false
+  xy: 298, 582
+  size: 294, 260
+  orig: 294, 260
+  offset: 0, 0
+  index: -1
+effect/bingbao_03
+  rotate: false
+  xy: 2, 58
+  size: 294, 260
+  orig: 294, 260
+  offset: 0, 0
+  index: -1
+effect/bingbao_04
+  rotate: false
+  xy: 298, 320
+  size: 294, 260
+  orig: 294, 260
+  offset: 0, 0
+  index: -1
+effect/bingbao_05
+  rotate: false
+  xy: 594, 582
+  size: 294, 260
+  orig: 294, 260
+  offset: 0, 0
+  index: -1
+effect/bingbao_06
+  rotate: false
+  xy: 298, 58
+  size: 294, 260
+  orig: 294, 260
+  offset: 0, 0
+  index: -1
+effect/bingbao_07
+  rotate: false
+  xy: 594, 320
+  size: 294, 260
+  orig: 294, 260
+  offset: 0, 0
+  index: -1
+effect/bingbao_08
+  rotate: false
+  xy: 890, 582
+  size: 294, 260
+  orig: 294, 260
+  offset: 0, 0
+  index: -1
+effect/bingbao_09
+  rotate: false
+  xy: 594, 58
+  size: 294, 260
+  orig: 294, 260
+  offset: 0, 0
+  index: -1
+effect/bingbao_10
+  rotate: false
+  xy: 890, 320
+  size: 294, 260
+  orig: 294, 260
+  offset: 0, 0
+  index: -1
+effect/bingbao_11
+  rotate: false
+  xy: 1186, 582
+  size: 294, 260
+  orig: 294, 260
+  offset: 0, 0
+  index: -1
+effect/bingbao_12
+  rotate: false
+  xy: 890, 58
+  size: 294, 260
+  orig: 294, 260
+  offset: 0, 0
+  index: -1
+effect/bingbao_13
+  rotate: false
+  xy: 1186, 320
+  size: 294, 260
+  orig: 294, 260
+  offset: 0, 0
+  index: -1
+effect/bingbao_14
+  rotate: false
+  xy: 1482, 582
+  size: 294, 260
+  orig: 294, 260
+  offset: 0, 0
+  index: -1
+effect/bingbao_15
+  rotate: false
+  xy: 1186, 58
+  size: 294, 260
+  orig: 294, 260
+  offset: 0, 0
+  index: -1
+effect/guangxiao
+  rotate: false
+  xy: 2, 2
+  size: 160, 54
+  orig: 160, 54
+  offset: 0, 0
+  index: -1
+effect/suipian
+  rotate: false
+  xy: 1482, 513
+  size: 78, 67
+  orig: 78, 67
+  offset: 0, 0
+  index: -1

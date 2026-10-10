@@ -1,0 +1,27 @@
+
+eff_lixiaoerfly1.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/zhuanjian
+  rotate: false
+  xy: 2, 2
+  size: 143, 140
+  orig: 143, 140
+  offset: 0, 0
+  index: -1
+effect/zhuanyuan
+  rotate: false
+  xy: 147, 20
+  size: 122, 122
+  orig: 122, 122
+  offset: 0, 0
+  index: -1
+effect/zhuanyuan01
+  rotate: false
+  xy: 271, 20
+  size: 122, 122
+  orig: 122, 122
+  offset: 0, 0
+  index: -1

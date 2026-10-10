@@ -1,0 +1,20 @@
+
+eff_gbh.png
+size: 256,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/henji
+  rotate: false
+  xy: 2, 2
+  size: 95, 86
+  orig: 95, 86
+  offset: 0, 0
+  index: -1
+effect/zhuahen
+  rotate: false
+  xy: 99, 2
+  size: 95, 86
+  orig: 95, 86
+  offset: 0, 0
+  index: -1

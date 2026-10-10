@@ -1,0 +1,160 @@
+
+eff_speedclock.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/fazhen/xiaozhen1
+  rotate: false
+  xy: 1932, 1949
+  size: 25, 69
+  orig: 25, 69
+  offset: 0, 0
+  index: -1
+effect/fazhen/xiaozhen2
+  rotate: false
+  xy: 2, 2
+  size: 18, 86
+  orig: 18, 86
+  offset: 0, 0
+  index: -1
+effect/suduxian/shikongbiaopan_00
+  rotate: false
+  xy: 2, 1634
+  size: 384, 384
+  orig: 384, 384
+  offset: 0, 0
+  index: -1
+effect/suduxian/shikongbiaopan_01
+  rotate: false
+  xy: 2, 1248
+  size: 384, 384
+  orig: 384, 384
+  offset: 0, 0
+  index: -1
+effect/suduxian/shikongbiaopan_02
+  rotate: false
+  xy: 388, 1634
+  size: 384, 384
+  orig: 384, 384
+  offset: 0, 0
+  index: -1
+effect/suduxian/shikongbiaopan_03
+  rotate: false
+  xy: 2, 862
+  size: 384, 384
+  orig: 384, 384
+  offset: 0, 0
+  index: -1
+effect/suduxian/shikongbiaopan_04
+  rotate: false
+  xy: 388, 1248
+  size: 384, 384
+  orig: 384, 384
+  offset: 0, 0
+  index: -1
+effect/suduxian/shikongbiaopan_05
+  rotate: false
+  xy: 774, 1634
+  size: 384, 384
+  orig: 384, 384
+  offset: 0, 0
+  index: -1
+effect/suduxian/shikongbiaopan_06
+  rotate: false
+  xy: 2, 476
+  size: 384, 384
+  orig: 384, 384
+  offset: 0, 0
+  index: -1
+effect/suduxian/shikongbiaopan_07
+  rotate: false
+  xy: 388, 862
+  size: 384, 384
+  orig: 384, 384
+  offset: 0, 0
+  index: -1
+effect/suduxian/shikongbiaopan_08
+  rotate: false
+  xy: 774, 1248
+  size: 384, 384
+  orig: 384, 384
+  offset: 0, 0
+  index: -1
+effect/suduxian/shikongbiaopan_09
+  rotate: false
+  xy: 1160, 1634
+  size: 384, 384
+  orig: 384, 384
+  offset: 0, 0
+  index: -1
+effect/suduxian/shikongbiaopan_10
+  rotate: false
+  xy: 2, 90
+  size: 384, 384
+  orig: 384, 384
+  offset: 0, 0
+  index: -1
+effect/suduxian/shikongbiaopan_11
+  rotate: false
+  xy: 388, 476
+  size: 384, 384
+  orig: 384, 384
+  offset: 0, 0
+  index: -1
+effect/suduxian/shikongbiaopan_12
+  rotate: false
+  xy: 774, 862
+  size: 384, 384
+  orig: 384, 384
+  offset: 0, 0
+  index: -1
+effect/suduxian/shikongbiaopan_13
+  rotate: false
+  xy: 1160, 1248
+  size: 384, 384
+  orig: 384, 384
+  offset: 0, 0
+  index: -1
+effect/suduxian/shikongbiaopan_14
+  rotate: false
+  xy: 1546, 1634
+  size: 384, 384
+  orig: 384, 384
+  offset: 0, 0
+  index: -1
+effect/suduxian/shikongbiaopan_15
+  rotate: false
+  xy: 388, 90
+  size: 384, 384
+  orig: 384, 384
+  offset: 0, 0
+  index: -1
+effect/suduxian/shikongbiaopan_16
+  rotate: false
+  xy: 774, 476
+  size: 384, 384
+  orig: 384, 384
+  offset: 0, 0
+  index: -1
+effect/suduxian/shikongbiaopan_17
+  rotate: false
+  xy: 1160, 862
+  size: 384, 384
+  orig: 384, 384
+  offset: 0, 0
+  index: -1
+effect/suduxian/shikongbiaopan_18
+  rotate: false
+  xy: 1546, 1248
+  size: 384, 384
+  orig: 384, 384
+  offset: 0, 0
+  index: -1
+effect/suduxian/shikongbiaopan_19
+  rotate: false
+  xy: 774, 90
+  size: 384, 384
+  orig: 384, 384
+  offset: 0, 0
+  index: -1

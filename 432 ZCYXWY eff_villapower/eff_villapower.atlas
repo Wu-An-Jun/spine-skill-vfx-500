@@ -1,0 +1,97 @@
+
+eff_villapower.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/dian
+  rotate: false
+  xy: 2, 126
+  size: 122, 122
+  orig: 122, 122
+  offset: 0, 0
+  index: -1
+effect/qiu_01
+  rotate: false
+  xy: 126, 38
+  size: 95, 86
+  orig: 95, 86
+  offset: 0, 0
+  index: -1
+effect/qiu_02
+  rotate: false
+  xy: 250, 162
+  size: 95, 86
+  orig: 95, 86
+  offset: 0, 0
+  index: -1
+effect/qiu_03
+  rotate: false
+  xy: 347, 162
+  size: 95, 86
+  orig: 95, 86
+  offset: 0, 0
+  index: -1
+effect/qiu_04
+  rotate: false
+  xy: 444, 162
+  size: 95, 86
+  orig: 95, 86
+  offset: 0, 0
+  index: -1
+effect/qiu_05
+  rotate: false
+  xy: 541, 162
+  size: 95, 86
+  orig: 95, 86
+  offset: 0, 0
+  index: -1
+effect/qiu_06
+  rotate: false
+  xy: 638, 162
+  size: 95, 86
+  orig: 95, 86
+  offset: 0, 0
+  index: -1
+effect/qiu_07
+  rotate: false
+  xy: 735, 162
+  size: 95, 86
+  orig: 95, 86
+  offset: 0, 0
+  index: -1
+effect/qiu_08
+  rotate: false
+  xy: 832, 162
+  size: 95, 86
+  orig: 95, 86
+  offset: 0, 0
+  index: -1
+effect/qiu_09
+  rotate: true
+  xy: 929, 153
+  size: 95, 86
+  orig: 95, 86
+  offset: 0, 0
+  index: -1
+effect/qiu_10
+  rotate: false
+  xy: 250, 74
+  size: 95, 86
+  orig: 95, 86
+  offset: 0, 0
+  index: -1
+effect/xuanzhuan
+  rotate: false
+  xy: 2, 2
+  size: 122, 122
+  orig: 122, 122
+  offset: 0, 0
+  index: -1
+effect/yuan
+  rotate: false
+  xy: 126, 126
+  size: 122, 122
+  orig: 122, 122
+  offset: 0, 0
+  index: -1

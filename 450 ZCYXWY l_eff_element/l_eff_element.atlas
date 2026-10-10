@@ -1,0 +1,48 @@
+
+l_eff_element.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/changtiao
+  rotate: false
+  xy: 344, 26
+  size: 29, 95
+  orig: 29, 95
+  offset: 0, 0
+  index: -1
+effect/dian
+  rotate: false
+  xy: 449, 216
+  size: 29, 29
+  orig: 29, 29
+  offset: 0, 0
+  index: -1
+effect/guang
+  rotate: false
+  xy: 247, 10
+  size: 95, 111
+  orig: 95, 111
+  offset: 0, 0
+  index: -1
+effect/kuai
+  rotate: false
+  xy: 371, 169
+  size: 76, 76
+  orig: 76, 76
+  offset: 0, 0
+  index: -1
+effect/yuan01
+  rotate: false
+  xy: 2, 2
+  size: 243, 243
+  orig: 243, 243
+  offset: 0, 0
+  index: -1
+effect/yuanquan
+  rotate: false
+  xy: 247, 123
+  size: 122, 122
+  orig: 122, 122
+  offset: 0, 0
+  index: -1

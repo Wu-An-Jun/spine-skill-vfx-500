@@ -1,0 +1,181 @@
+
+eff_siegfriedskill4.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/0000
+  rotate: true
+  xy: 1794, 542
+  size: 218, 169
+  orig: 218, 169
+  offset: 0, 0
+  index: -1
+effect/0001
+  rotate: false
+  xy: 1138, 103
+  size: 282, 169
+  orig: 282, 169
+  offset: 0, 0
+  index: -1
+effect/guangxiaozi
+  rotate: false
+  xy: 2, 11
+  size: 200, 67
+  orig: 200, 67
+  offset: 0, 0
+  index: -1
+effect/hongshandian_00
+  rotate: false
+  xy: 1534, 127
+  size: 123, 123
+  orig: 123, 123
+  offset: 0, 0
+  index: -1
+effect/hongshandian_01
+  rotate: false
+  xy: 1659, 127
+  size: 123, 123
+  orig: 123, 123
+  offset: 0, 0
+  index: -1
+effect/hongshandian_02
+  rotate: false
+  xy: 1534, 2
+  size: 123, 123
+  orig: 123, 123
+  offset: 0, 0
+  index: -1
+effect/hongshandian_03
+  rotate: false
+  xy: 1659, 2
+  size: 123, 123
+  orig: 123, 123
+  offset: 0, 0
+  index: -1
+effect/hongzhuanjiao_00
+  rotate: false
+  xy: 1422, 152
+  size: 110, 120
+  orig: 110, 120
+  offset: 0, 0
+  index: -1
+effect/hongzhuanjiao_01
+  rotate: false
+  xy: 1934, 884
+  size: 110, 120
+  orig: 110, 120
+  offset: 0, 0
+  index: -1
+effect/hongzhuanjiao_02
+  rotate: false
+  xy: 1934, 762
+  size: 110, 120
+  orig: 110, 120
+  offset: 0, 0
+  index: -1
+effect/hongzhuanjiao_03
+  rotate: false
+  xy: 1422, 30
+  size: 110, 120
+  orig: 110, 120
+  offset: 0, 0
+  index: -1
+effect/lshadow1
+  rotate: false
+  xy: 1138, 762
+  size: 396, 242
+  orig: 396, 242
+  offset: 0, 0
+  index: -1
+effect/lshadow2
+  rotate: false
+  xy: 1138, 518
+  size: 396, 242
+  orig: 396, 242
+  offset: 0, 0
+  index: -1
+effect/shadow1
+  rotate: false
+  xy: 1536, 762
+  size: 396, 242
+  orig: 396, 242
+  offset: 0, 0
+  index: -1
+effect/shadow2
+  rotate: false
+  xy: 1138, 274
+  size: 396, 242
+  orig: 396, 242
+  offset: 0, 0
+  index: -1
+effect/shalo2
+  rotate: false
+  xy: 1536, 252
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: -1
+effect/shou
+  rotate: false
+  xy: 1536, 504
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+effect/yinzhang_00
+  rotate: false
+  xy: 2, 543
+  size: 282, 461
+  orig: 282, 461
+  offset: 0, 0
+  index: -1
+effect/yinzhang_01
+  rotate: false
+  xy: 2, 80
+  size: 282, 461
+  orig: 282, 461
+  offset: 0, 0
+  index: -1
+effect/yinzhang_02
+  rotate: false
+  xy: 286, 543
+  size: 282, 461
+  orig: 282, 461
+  offset: 0, 0
+  index: -1
+effect/yinzhang_03
+  rotate: false
+  xy: 286, 80
+  size: 282, 461
+  orig: 282, 461
+  offset: 0, 0
+  index: -1
+effect/yinzhang_04
+  rotate: false
+  xy: 570, 543
+  size: 282, 461
+  orig: 282, 461
+  offset: 0, 0
+  index: -1
+effect/yinzhang_05
+  rotate: false
+  xy: 570, 80
+  size: 282, 461
+  orig: 282, 461
+  offset: 0, 0
+  index: -1
+effect/yinzhang_06
+  rotate: false
+  xy: 854, 543
+  size: 282, 461
+  orig: 282, 461
+  offset: 0, 0
+  index: -1
+effect/yinzhang_07
+  rotate: false
+  xy: 854, 80
+  size: 282, 461
+  orig: 282, 461
+  offset: 0, 0
+  index: -1

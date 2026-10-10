@@ -1,0 +1,214 @@
+
+action.png
+size: 1022,1015
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+d3_0009
+  rotate: false
+  xy: 648, 97
+  size: 354, 231
+  orig: 900, 1152
+  offset: 254, 426
+  index: -1
+d_1
+  rotate: false
+  xy: 0, 40
+  size: 544, 102
+  orig: 900, 1152
+  offset: 316, 416
+  index: -1
+d_2_0010
+  rotate: false
+  xy: 0, 581
+  size: 656, 434
+  orig: 900, 1152
+  offset: 107, 363
+  index: -1
+d_2_0011
+  rotate: false
+  xy: 0, 144
+  size: 646, 435
+  orig: 900, 1152
+  offset: 142, 354
+  index: -1
+d_2_0013
+  rotate: true
+  xy: 658, 530
+  size: 485, 361
+  orig: 900, 1152
+  offset: 321, 369
+  index: -1
+d_2_0017
+  rotate: false
+  xy: 648, 330
+  size: 374, 198
+  orig: 900, 1152
+  offset: 402, 443
+  index: -1
+heng_0011
+  rotate: false
+  xy: 0, 0
+  size: 72, 38
+  orig: 900, 1152
+  offset: 397, 423
+  index: -1
+shouji
+  rotate: false
+  xy: 546, 87
+  size: 58, 55
+  orig: 900, 1152
+  offset: 421, 547
+  index: -1
+
+action2.png
+size: 1004,1008
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+d3_0010
+  rotate: true
+  xy: 749, 239
+  size: 293, 255
+  orig: 900, 1152
+  offset: 328, 409
+  index: -1
+d_2_0012
+  rotate: false
+  xy: 0, 575
+  size: 477, 433
+  orig: 900, 1152
+  offset: 327, 355
+  index: -1
+d_2_0014
+  rotate: true
+  xy: 0, 73
+  size: 500, 252
+  orig: 900, 1152
+  offset: 318, 428
+  index: -1
+d_2_0018
+  rotate: true
+  xy: 254, 236
+  size: 337, 180
+  orig: 900, 1152
+  offset: 452, 454
+  index: -1
+d_2_0019
+  rotate: false
+  xy: 436, 241
+  size: 311, 174
+  orig: 900, 1152
+  offset: 454, 454
+  index: -1
+d_4
+  rotate: false
+  xy: 764, 5
+  size: 232, 232
+  orig: 900, 1152
+  offset: 334, 460
+  index: -1
+heng_0005
+  rotate: true
+  xy: 479, 417
+  size: 591, 240
+  orig: 900, 1152
+  offset: 145, 414
+  index: -1
+heng_0006
+  rotate: false
+  xy: 254, 0
+  size: 508, 234
+  orig: 900, 1152
+  offset: 229, 411
+  index: -1
+heng_0008
+  rotate: true
+  xy: 721, 534
+  size: 474, 251
+  orig: 900, 1152
+  offset: 262, 405
+  index: -1
+
+action3.png
+size: 950,907
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+d3_0011
+  rotate: false
+  xy: 476, 401
+  size: 258, 255
+  orig: 900, 1152
+  offset: 325, 401
+  index: -1
+d3_0012
+  rotate: false
+  xy: 476, 175
+  size: 224, 224
+  orig: 900, 1152
+  offset: 363, 423
+  index: -1
+d_2_0015
+  rotate: true
+  xy: 241, 480
+  size: 427, 233
+  orig: 900, 1152
+  offset: 361, 428
+  index: -1
+d_2_0016
+  rotate: true
+  xy: 0, 7
+  size: 441, 243
+  orig: 900, 1152
+  offset: 351, 430
+  index: -1
+d_2_0020
+  rotate: true
+  xy: 736, 348
+  size: 308, 169
+  orig: 900, 1152
+  offset: 454, 455
+  index: -1
+d_2_0021
+  rotate: false
+  xy: 476, 0
+  size: 283, 173
+  orig: 900, 1152
+  offset: 456, 455
+  index: -1
+d_2_0022
+  rotate: true
+  xy: 761, 71
+  size: 275, 179
+  orig: 900, 1152
+  offset: 460, 456
+  index: -1
+heng_0004
+  rotate: true
+  xy: 245, 57
+  size: 421, 229
+  orig: 900, 1152
+  offset: 213, 428
+  index: -1
+heng_0007
+  rotate: true
+  xy: 0, 450
+  size: 457, 239
+  orig: 900, 1152
+  offset: 280, 406
+  index: -1
+heng_0009
+  rotate: false
+  xy: 476, 658
+  size: 354, 249
+  orig: 900, 1152
+  offset: 287, 416
+  index: -1
+heng_0010
+  rotate: true
+  xy: 832, 681
+  size: 226, 118
+  orig: 900, 1152
+  offset: 411, 424
+  index: -1

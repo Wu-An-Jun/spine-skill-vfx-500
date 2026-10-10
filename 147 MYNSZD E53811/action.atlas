@@ -1,0 +1,69 @@
+
+action.png
+size: 1015,1022
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+zhuahen_0000
+  rotate: true
+  xy: 2, 71
+  size: 97, 266
+  orig: 492, 492
+  offset: 291, 180
+  index: -1
+zhuahen_0001
+  rotate: false
+  xy: 2, 596
+  size: 314, 424
+  orig: 492, 492
+  offset: 94, 37
+  index: -1
+zhuahen_0002
+  rotate: false
+  xy: 2, 170
+  size: 314, 424
+  orig: 492, 492
+  offset: 94, 37
+  index: -1
+zhuahen_0003
+  rotate: true
+  xy: 318, 10
+  size: 287, 376
+  orig: 492, 492
+  offset: 103, 47
+  index: -1
+zhuahen_0004
+  rotate: true
+  xy: 649, 367
+  size: 291, 364
+  orig: 492, 492
+  offset: 105, 49
+  index: -1
+zhuahen_0006
+  rotate: false
+  xy: 696, 2
+  size: 300, 363
+  orig: 492, 492
+  offset: 105, 50
+  index: -1
+zhuahen_0008
+  rotate: false
+  xy: 649, 660
+  size: 315, 360
+  orig: 492, 492
+  offset: 106, 52
+  index: -1
+zhuahen_0010
+  rotate: false
+  xy: 318, 299
+  size: 327, 356
+  orig: 492, 492
+  offset: 106, 56
+  index: -1
+zhuahen_0012
+  rotate: false
+  xy: 318, 657
+  size: 329, 363
+  orig: 492, 492
+  offset: 106, 56
+  index: -1

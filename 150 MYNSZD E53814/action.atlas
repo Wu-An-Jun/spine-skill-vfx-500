@@ -1,0 +1,138 @@
+
+action.png
+size: 1006,999
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+a1
+  rotate: false
+  xy: 0, 637
+  size: 658, 362
+  orig: 1200, 1280
+  offset: 271, 463
+  index: -1
+a2
+  rotate: false
+  xy: 788, 191
+  size: 218, 222
+  orig: 1200, 1200
+  offset: 491, 489
+  index: -1
+a3
+  rotate: false
+  xy: 0, 159
+  size: 475, 476
+  orig: 1280, 1280
+  offset: 402, 402
+  index: -1
+a5_xx
+  rotate: false
+  xy: 914, 117
+  size: 72, 72
+  orig: 1280, 1280
+  offset: 604, 604
+  index: -1
+a6_yumao
+  rotate: false
+  xy: 341, 76
+  size: 95, 81
+  orig: 1280, 1280
+  offset: 586, 595
+  index: -1
+a7_shanguang
+  rotate: false
+  xy: 788, 73
+  size: 124, 116
+  orig: 1200, 1200
+  offset: 540, 539
+  index: -1
+b_xian_0002
+  rotate: true
+  xy: 0, 0
+  size: 157, 185
+  orig: 1300, 1300
+  offset: 638, 505
+  index: -1
+b_xian_0003
+  rotate: false
+  xy: 187, 13
+  size: 152, 144
+  orig: 1300, 1300
+  offset: 639, 546
+  index: -1
+b_xian_0004
+  rotate: false
+  xy: 776, 415
+  size: 205, 231
+  orig: 1300, 1300
+  offset: 636, 459
+  index: -1
+b_xian_0005
+  rotate: true
+  xy: 477, 20
+  size: 285, 309
+  orig: 1300, 1300
+  offset: 639, 381
+  index: -1
+b_xian_0006
+  rotate: false
+  xy: 477, 307
+  size: 297, 328
+  orig: 1300, 1300
+  offset: 639, 362
+  index: -1
+b_xian_0010
+  rotate: false
+  xy: 660, 648
+  size: 293, 351
+  orig: 1300, 1300
+  offset: 655, 338
+  index: -1
+d1
+  rotate: false
+  xy: 955, 969
+  size: 33, 30
+  orig: 720, 720
+  offset: 342, 345
+  index: -1
+
+action2.png
+size: 839,637
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+a8_yuan
+  rotate: false
+  xy: 583, 59
+  size: 256, 256
+  orig: 1280, 1280
+  offset: 512, 512
+  index: -1
+b_xian_0007
+  rotate: false
+  xy: 295, 39
+  size: 286, 276
+  orig: 1300, 1300
+  offset: 638, 414
+  index: -1
+b_xian_0008
+  rotate: false
+  xy: 321, 317
+  size: 300, 320
+  orig: 1300, 1300
+  offset: 638, 370
+  index: -1
+b_xian_0009
+  rotate: false
+  xy: 0, 0
+  size: 293, 315
+  orig: 1300, 1300
+  offset: 639, 374
+  index: -1
+b_xian_0011
+  rotate: false
+  xy: 0, 317
+  size: 319, 320
+  orig: 1300, 1300
+  offset: 643, 370
+  index: -1

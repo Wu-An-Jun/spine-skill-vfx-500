@@ -1,0 +1,264 @@
+
+action.png
+size: 1021,1017
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1a_0009
+  rotate: false
+  xy: 0, 727
+  size: 449, 171
+  orig: 900, 648
+  offset: 435, 441
+  index: -1
+1a_0010
+  rotate: false
+  xy: 473, 775
+  size: 456, 129
+  orig: 900, 648
+  offset: 432, 462
+  index: -1
+1a_0011
+  rotate: false
+  xy: 473, 906
+  size: 463, 111
+  orig: 900, 648
+  offset: 428, 479
+  index: -1
+1a_0012
+  rotate: false
+  xy: 0, 900
+  size: 471, 117
+  orig: 900, 648
+  offset: 424, 476
+  index: -1
+1a_0013
+  rotate: false
+  xy: 0, 348
+  size: 422, 123
+  orig: 900, 648
+  offset: 441, 473
+  index: -1
+1a_0014
+  rotate: false
+  xy: 451, 647
+  size: 434, 126
+  orig: 900, 648
+  offset: 434, 472
+  index: -1
+1a_0015
+  rotate: true
+  xy: 887, 263
+  size: 431, 127
+  orig: 900, 648
+  offset: 437, 471
+  index: -1
+1a_0016
+  rotate: false
+  xy: 0, 599
+  size: 428, 126
+  orig: 900, 648
+  offset: 441, 471
+  index: -1
+1a_0017
+  rotate: false
+  xy: 0, 473
+  size: 425, 124
+  orig: 900, 648
+  offset: 443, 472
+  index: -1
+1a_0019
+  rotate: false
+  xy: 0, 278
+  size: 310, 68
+  orig: 900, 648
+  offset: 497, 499
+  index: -1
+banli_1
+  rotate: true
+  xy: 451, 874
+  size: 24, 20
+  orig: 900, 648
+  offset: 442, 315
+  index: -1
+leaf_1
+  rotate: false
+  xy: 451, 852
+  size: 20, 20
+  orig: 648, 648
+  offset: 314, 314
+  index: -1
+leaf_2
+  rotate: false
+  xy: 451, 830
+  size: 20, 20
+  orig: 648, 648
+  offset: 314, 314
+  index: -1
+q1_0000
+  rotate: true
+  xy: 938, 949
+  size: 68, 83
+  orig: 900, 648
+  offset: 435, 228
+  index: -1
+q1_0001
+  rotate: false
+  xy: 873, 4
+  size: 101, 109
+  orig: 900, 648
+  offset: 400, 211
+  index: -1
+q1_0002
+  rotate: false
+  xy: 424, 282
+  size: 162, 117
+  orig: 900, 648
+  offset: 336, 212
+  index: -1
+q1_0003
+  rotate: false
+  xy: 695, 1
+  size: 176, 112
+  orig: 900, 648
+  offset: 319, 211
+  index: -1
+q1_0006
+  rotate: true
+  xy: 695, 115
+  size: 163, 180
+  orig: 900, 648
+  offset: 321, 128
+  index: -1
+q1_0007
+  rotate: true
+  xy: 430, 401
+  size: 244, 157
+  orig: 900, 648
+  offset: 326, 130
+  index: -1
+q1_0008
+  rotate: false
+  xy: 0, 17
+  size: 298, 244
+  orig: 900, 648
+  offset: 346, 138
+  index: -1
+q1_0009
+  rotate: true
+  xy: 877, 120
+  size: 141, 142
+  orig: 900, 648
+  offset: 346, 145
+  index: -1
+q2_0008
+  rotate: false
+  xy: 300, 17
+  size: 289, 244
+  orig: 900, 648
+  offset: 355, 138
+  index: -1
+q2_0009
+  rotate: false
+  xy: 591, 280
+  size: 294, 365
+  orig: 900, 648
+  offset: 381, 147
+  index: -1
+q2_0012
+  rotate: false
+  xy: 591, 0
+  size: 102, 278
+  orig: 900, 648
+  offset: 607, 283
+  index: -1
+q2_0013
+  rotate: false
+  xy: 938, 759
+  size: 81, 188
+  orig: 900, 648
+  offset: 632, 356
+  index: -1
+q2_0014
+  rotate: true
+  xy: 887, 696
+  size: 61, 128
+  orig: 900, 648
+  offset: 655, 429
+  index: -1
+
+action2.png
+size: 882,413
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1a_0018
+  rotate: false
+  xy: 398, 308
+  size: 341, 105
+  orig: 900, 648
+  offset: 496, 484
+  index: -1
+1a_0020
+  rotate: false
+  xy: 0, 1
+  size: 310, 67
+  orig: 900, 648
+  offset: 497, 499
+  index: -1
+1a_0021
+  rotate: false
+  xy: 457, 31
+  size: 310, 67
+  orig: 900, 648
+  offset: 497, 499
+  index: -1
+q1_0004
+  rotate: false
+  xy: 0, 70
+  size: 172, 146
+  orig: 900, 648
+  offset: 319, 173
+  index: -1
+q1_0005
+  rotate: false
+  xy: 701, 100
+  size: 168, 170
+  orig: 900, 648
+  offset: 320, 147
+  index: -1
+q1_0010
+  rotate: false
+  xy: 741, 272
+  size: 141, 141
+  orig: 900, 648
+  offset: 346, 146
+  index: -1
+q1_0011
+  rotate: false
+  xy: 174, 76
+  size: 139, 140
+  orig: 900, 648
+  offset: 347, 146
+  index: -1
+q1_0012
+  rotate: true
+  xy: 315, 0
+  size: 139, 140
+  orig: 900, 648
+  offset: 347, 146
+  index: -1
+q2_0010
+  rotate: true
+  xy: 0, 218
+  size: 195, 396
+  orig: 900, 648
+  offset: 507, 168
+  index: -1
+q2_0011
+  rotate: true
+  xy: 398, 141
+  size: 165, 301
+  orig: 900, 648
+  offset: 541, 217
+  index: -1

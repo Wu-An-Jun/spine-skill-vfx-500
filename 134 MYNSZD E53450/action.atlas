@@ -1,0 +1,55 @@
+
+action.png
+size: 901,494
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+zhuahen_0014
+  rotate: true
+  xy: 723, 313
+  size: 181, 178
+  orig: 720, 720
+  offset: 312, 358
+  index: -1
+zhuahen_0015
+  rotate: false
+  xy: 0, 165
+  size: 183, 329
+  orig: 720, 720
+  offset: 318, 200
+  index: -1
+zhuahen_0016
+  rotate: false
+  xy: 185, 168
+  size: 180, 326
+  orig: 720, 720
+  offset: 322, 199
+  index: -1
+zhuahen_0017
+  rotate: false
+  xy: 367, 172
+  size: 177, 322
+  orig: 720, 720
+  offset: 326, 198
+  index: -1
+zhuahen_0018
+  rotate: false
+  xy: 546, 174
+  size: 175, 320
+  orig: 720, 720
+  offset: 327, 199
+  index: -1
+zhuahen_0019
+  rotate: true
+  xy: 546, 1
+  size: 171, 315
+  orig: 720, 720
+  offset: 329, 202
+  index: -1
+zhuahen_0020
+  rotate: true
+  xy: 185, 0
+  size: 166, 305
+  orig: 720, 720
+  offset: 333, 207
+  index: -1

@@ -1,0 +1,83 @@
+
+action.png
+size: 794,232
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+langbuff_0000
+  rotate: true
+  xy: 676, 1
+  size: 125, 118
+  orig: 720, 1280
+  offset: 293, 594
+  index: -1
+langbuff_0001
+  rotate: false
+  xy: 546, 5
+  size: 128, 119
+  orig: 720, 1280
+  offset: 290, 594
+  index: -1
+langbuff_0002
+  rotate: false
+  xy: 414, 2
+  size: 130, 120
+  orig: 720, 1280
+  offset: 288, 594
+  index: -1
+langbuff_0003
+  rotate: false
+  xy: 147, 0
+  size: 132, 120
+  orig: 720, 1280
+  offset: 286, 594
+  index: -1
+langbuff_0004
+  rotate: false
+  xy: 281, 0
+  size: 131, 120
+  orig: 720, 1280
+  offset: 287, 594
+  index: -1
+langbuff_0005
+  rotate: false
+  xy: 572, 128
+  size: 134, 104
+  orig: 720, 1280
+  offset: 284, 594
+  index: -1
+langbuff_0006
+  rotate: false
+  xy: 432, 126
+  size: 138, 106
+  orig: 720, 1280
+  offset: 280, 594
+  index: -1
+langbuff_0007
+  rotate: false
+  xy: 290, 124
+  size: 140, 108
+  orig: 720, 1280
+  offset: 278, 594
+  index: -1
+langbuff_0008
+  rotate: false
+  xy: 147, 122
+  size: 141, 110
+  orig: 720, 1280
+  offset: 277, 594
+  index: -1
+langbuff_0009
+  rotate: false
+  xy: 0, 1
+  size: 143, 112
+  orig: 720, 1280
+  offset: 275, 594
+  index: -1
+langbuff_0010
+  rotate: false
+  xy: 0, 115
+  size: 145, 117
+  orig: 720, 1280
+  offset: 273, 594
+  index: -1

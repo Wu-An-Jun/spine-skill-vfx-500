@@ -1,0 +1,69 @@
+
+action.png
+size: 1006,535
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+baojiad_0000
+  rotate: false
+  xy: 796, 286
+  size: 210, 249
+  orig: 360, 360
+  offset: 72, 65
+  index: -1
+baojiad_0001
+  rotate: false
+  xy: 0, 180
+  size: 285, 272
+  orig: 360, 360
+  offset: 37, 47
+  index: -1
+baojiad_0002
+  rotate: false
+  xy: 542, 282
+  size: 252, 253
+  orig: 360, 360
+  offset: 54, 53
+  index: -1
+baojiad_0003
+  rotate: false
+  xy: 287, 193
+  size: 253, 259
+  orig: 360, 360
+  offset: 53, 47
+  index: -1
+baojiad_0004
+  rotate: true
+  xy: 542, 30
+  size: 250, 252
+  orig: 360, 360
+  offset: 49, 47
+  index: -1
+baojiad_0005
+  rotate: false
+  xy: 796, 79
+  size: 194, 205
+  orig: 360, 360
+  offset: 93, 92
+  index: -1
+baojiad_0006
+  rotate: true
+  xy: 209, 7
+  size: 171, 203
+  orig: 360, 360
+  offset: 102, 94
+  index: -1
+baojiad_0007
+  rotate: true
+  xy: 0, 0
+  size: 178, 207
+  orig: 360, 360
+  offset: 100, 98
+  index: -1
+shuguanga_0000
+  rotate: false
+  xy: 0, 454
+  size: 521, 81
+  orig: 720, 720
+  offset: 99, 319
+  index: -1

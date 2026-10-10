@@ -1,0 +1,41 @@
+
+eff_muramasaburst.png
+size: 1024,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/baodian01
+  rotate: false
+  xy: 247, 2
+  size: 157, 104
+  orig: 157, 104
+  offset: 0, 0
+  index: -1
+effect/baodian02
+  rotate: false
+  xy: 406, 2
+  size: 157, 104
+  orig: 157, 104
+  offset: 0, 0
+  index: -1
+effect/baodian03
+  rotate: false
+  xy: 565, 2
+  size: 157, 104
+  orig: 157, 104
+  offset: 0, 0
+  index: -1
+effect/baodian04
+  rotate: false
+  xy: 724, 2
+  size: 157, 104
+  orig: 157, 104
+  offset: 0, 0
+  index: -1
+effect/ci
+  rotate: false
+  xy: 2, 58
+  size: 243, 48
+  orig: 243, 48
+  offset: 0, 0
+  index: -1

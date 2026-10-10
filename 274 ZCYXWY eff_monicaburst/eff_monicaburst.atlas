@@ -1,0 +1,48 @@
+
+eff_monicaburst.png
+size: 512,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/baodian_0000
+  rotate: false
+  xy: 260, 24
+  size: 67, 95
+  orig: 67, 117
+  offset: 0, 12
+  index: -1
+effect/baodian_0002
+  rotate: false
+  xy: 2, 2
+  size: 67, 117
+  orig: 67, 117
+  offset: 0, 0
+  index: -1
+effect/baodian_0004
+  rotate: false
+  xy: 71, 2
+  size: 64, 117
+  orig: 67, 117
+  offset: 0, 0
+  index: -1
+effect/baodian_0006
+  rotate: false
+  xy: 199, 2
+  size: 59, 117
+  orig: 67, 117
+  offset: 4, 0
+  index: -1
+effect/baodian_0008
+  rotate: false
+  xy: 137, 2
+  size: 60, 117
+  orig: 67, 117
+  offset: 5, 0
+  index: -1
+effect/baodian_0010
+  rotate: false
+  xy: 329, 35
+  size: 59, 84
+  orig: 67, 117
+  offset: 3, 10
+  index: -1

@@ -1,0 +1,69 @@
+
+eff_RPG_boom.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/baoza01
+  rotate: true
+  xy: 2, 52
+  size: 190, 152
+  orig: 190, 152
+  offset: 0, 0
+  index: -1
+effect/baoza02
+  rotate: true
+  xy: 156, 52
+  size: 190, 152
+  orig: 190, 152
+  offset: 0, 0
+  index: -1
+effect/baoza03
+  rotate: true
+  xy: 310, 52
+  size: 190, 152
+  orig: 190, 152
+  offset: 0, 0
+  index: -1
+effect/baoza04
+  rotate: true
+  xy: 464, 52
+  size: 190, 152
+  orig: 190, 152
+  offset: 0, 0
+  index: -1
+effect/baoza05
+  rotate: true
+  xy: 618, 52
+  size: 190, 152
+  orig: 190, 152
+  offset: 0, 0
+  index: -1
+effect/dian
+  rotate: false
+  xy: 194, 12
+  size: 38, 38
+  orig: 38, 38
+  offset: 0, 0
+  index: -1
+effect/huo
+  rotate: false
+  xy: 772, 120
+  size: 122, 122
+  orig: 122, 122
+  offset: 0, 0
+  index: -1
+effect/shan
+  rotate: false
+  xy: 896, 147
+  size: 95, 95
+  orig: 95, 95
+  offset: 0, 0
+  index: -1
+effect/tiao
+  rotate: true
+  xy: 2, 2
+  size: 48, 190
+  orig: 48, 190
+  offset: 0, 0
+  index: -1

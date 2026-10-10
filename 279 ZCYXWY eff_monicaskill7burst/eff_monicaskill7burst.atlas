@@ -1,0 +1,48 @@
+
+eff_monicaskill7burst.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+guang
+  rotate: false
+  xy: 699, 347
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+guangxiao
+  rotate: false
+  xy: 2, 65
+  size: 200, 67
+  orig: 200, 67
+  offset: 0, 0
+  index: -1
+guangyun
+  rotate: false
+  xy: 347, 189
+  size: 278, 286
+  orig: 278, 286
+  offset: 0, 0
+  index: -1
+guangzhu
+  rotate: false
+  xy: 627, 280
+  size: 70, 195
+  orig: 70, 195
+  offset: 0, 0
+  index: -1
+halo1
+  rotate: false
+  xy: 2, 134
+  size: 343, 341
+  orig: 343, 341
+  offset: 0, 0
+  index: -1
+yumaoh
+  rotate: false
+  xy: 2, 2
+  size: 163, 61
+  orig: 163, 61
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,83 @@
+
+eff_needleBurst.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+candlelight_10100/zhen12
+  rotate: false
+  xy: 495, 132
+  size: 121, 120
+  orig: 121, 120
+  offset: 0, 0
+  index: -1
+candlelight_10100/zhen3
+  rotate: false
+  xy: 249, 132
+  size: 121, 120
+  orig: 121, 120
+  offset: 0, 0
+  index: -1
+candlelight_10100/zhen7
+  rotate: false
+  xy: 2, 100
+  size: 121, 152
+  orig: 121, 152
+  offset: 0, 0
+  index: -1
+candlelight_10100/zhen8
+  rotate: false
+  xy: 372, 132
+  size: 121, 120
+  orig: 121, 120
+  offset: 0, 0
+  index: -1
+effect/baodian
+  rotate: false
+  xy: 125, 130
+  size: 122, 122
+  orig: 122, 122
+  offset: 0, 0
+  index: -1
+effect/dian
+  rotate: false
+  xy: 912, 195
+  size: 57, 57
+  orig: 57, 57
+  offset: 0, 0
+  index: -1
+effect/shan
+  rotate: true
+  xy: 125, 99
+  size: 29, 122
+  orig: 29, 122
+  offset: 0, 0
+  index: -1
+effect/xiaosan01
+  rotate: true
+  xy: 2, 2
+  size: 96, 120
+  orig: 96, 120
+  offset: 0, 0
+  index: -1
+effect/xiaosan02
+  rotate: false
+  xy: 618, 132
+  size: 96, 120
+  orig: 96, 120
+  offset: 0, 0
+  index: -1
+effect/xiaosan03
+  rotate: false
+  xy: 716, 132
+  size: 96, 120
+  orig: 96, 120
+  offset: 0, 0
+  index: -1
+effect/xiaosan04
+  rotate: false
+  xy: 814, 132
+  size: 96, 120
+  orig: 96, 120
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,41 @@
+
+eff_ninetails.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/huhuo_00
+  rotate: false
+  xy: 2, 2
+  size: 79, 177
+  orig: 79, 177
+  offset: 0, 0
+  index: -1
+effect/huhuo_01
+  rotate: false
+  xy: 83, 2
+  size: 79, 177
+  orig: 79, 177
+  offset: 0, 0
+  index: -1
+effect/huhuo_02
+  rotate: false
+  xy: 164, 2
+  size: 79, 177
+  orig: 79, 177
+  offset: 0, 0
+  index: -1
+effect/huhuo_03
+  rotate: false
+  xy: 245, 2
+  size: 79, 177
+  orig: 79, 177
+  offset: 0, 0
+  index: -1
+effect/huhuo_04
+  rotate: false
+  xy: 326, 2
+  size: 79, 177
+  orig: 79, 177
+  offset: 0, 0
+  index: -1

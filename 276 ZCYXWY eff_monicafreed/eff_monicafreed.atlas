@@ -1,0 +1,160 @@
+
+eff_monicafreed.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/fazhen_0000
+  rotate: false
+  xy: 2, 303
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+effect/fazhen_0001
+  rotate: false
+  xy: 2, 103
+  size: 198, 198
+  orig: 200, 200
+  offset: 1, 1
+  index: -1
+effect/guangquan_0019
+  rotate: false
+  xy: 2, 37
+  size: 130, 64
+  orig: 130, 66
+  offset: 0, 1
+  index: -1
+effect/hua
+  rotate: false
+  xy: 969, 390
+  size: 20, 25
+  orig: 20, 25
+  offset: 0, 0
+  index: -1
+effect/huaban_0018
+  rotate: false
+  xy: 969, 417
+  size: 35, 86
+  orig: 44, 118
+  offset: 4, 0
+  index: -1
+effect/huaban_0020
+  rotate: false
+  xy: 589, 281
+  size: 33, 78
+  orig: 44, 118
+  offset: 7, 12
+  index: -1
+effect/huaban_0022
+  rotate: true
+  xy: 2, 2
+  size: 33, 77
+  orig: 44, 118
+  offset: 7, 16
+  index: -1
+effect/huaban_0024
+  rotate: true
+  xy: 624, 335
+  size: 24, 79
+  orig: 44, 118
+  offset: 13, 27
+  index: -1
+effect/huaban_0026
+  rotate: true
+  xy: 624, 307
+  size: 26, 77
+  orig: 44, 118
+  offset: 12, 30
+  index: -1
+effect/huaban_0028
+  rotate: false
+  xy: 134, 46
+  size: 27, 55
+  orig: 44, 118
+  offset: 10, 36
+  index: -1
+effect/huaban_0030
+  rotate: false
+  xy: 589, 225
+  size: 28, 54
+  orig: 44, 118
+  offset: 9, 40
+  index: -1
+effect/huaban_0032
+  rotate: false
+  xy: 81, 18
+  size: 18, 17
+  orig: 44, 118
+  offset: 8, 46
+  index: -1
+effect/huaban_0034
+  rotate: true
+  xy: 1006, 485
+  size: 18, 16
+  orig: 44, 118
+  offset: 8, 49
+  index: -1
+effect/huaban_0036
+  rotate: false
+  xy: 705, 344
+  size: 15, 15
+  orig: 44, 118
+  offset: 9, 55
+  index: -1
+effect/skill1guangzhu_0000 (10)
+  rotate: false
+  xy: 204, 221
+  size: 150, 138
+  orig: 151, 146
+  offset: 0, 4
+  index: -1
+effect/skill1guangzhu_0000 (12)
+  rotate: false
+  xy: 816, 364
+  size: 151, 139
+  orig: 151, 146
+  offset: 0, 3
+  index: -1
+effect/skill1guangzhu_0000 (14)
+  rotate: false
+  xy: 204, 361
+  size: 151, 142
+  orig: 151, 146
+  offset: 0, 0
+  index: -1
+effect/skill1guangzhu_0000 (16)
+  rotate: false
+  xy: 356, 221
+  size: 120, 138
+  orig: 151, 146
+  offset: 18, 4
+  index: -1
+effect/skill1guangzhu_0000 (18)
+  rotate: false
+  xy: 478, 221
+  size: 109, 138
+  orig: 151, 146
+  offset: 20, 4
+  index: -1
+effect/skill1guangzhu_0000 (4)
+  rotate: false
+  xy: 357, 361
+  size: 151, 142
+  orig: 151, 146
+  offset: 0, 0
+  index: -1
+effect/skill1guangzhu_0000 (6)
+  rotate: false
+  xy: 510, 361
+  size: 151, 142
+  orig: 151, 146
+  offset: 0, 0
+  index: -1
+effect/skill1guangzhu_0000 (8)
+  rotate: false
+  xy: 663, 361
+  size: 151, 142
+  orig: 151, 146
+  offset: 0, 0
+  index: -1

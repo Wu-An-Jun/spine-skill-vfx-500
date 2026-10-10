@@ -1,0 +1,195 @@
+
+eff_sakura.png
+size: 2048,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/jiawen
+  rotate: false
+  xy: 2, 142
+  size: 368, 368
+  orig: 368, 368
+  offset: 0, 0
+  index: -1
+effect/jiawenl
+  rotate: false
+  xy: 372, 326
+  size: 184, 184
+  orig: 184, 184
+  offset: 0, 0
+  index: -1
+effect/zhongxinhua_01
+  rotate: false
+  xy: 372, 164
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: -1
+effect/zhongxinhua_02
+  rotate: false
+  xy: 372, 2
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: -1
+effect/zhongxinhua_03
+  rotate: false
+  xy: 558, 350
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: -1
+effect/zhongxinhua_04
+  rotate: false
+  xy: 720, 350
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: -1
+effect/zhongxinhua_05
+  rotate: false
+  xy: 882, 350
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: -1
+effect/zhongxinhua_06
+  rotate: false
+  xy: 1044, 350
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: -1
+effect/zhongxinhua_07
+  rotate: false
+  xy: 1206, 350
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: -1
+effect/zhongxinhua_08
+  rotate: false
+  xy: 1368, 350
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: -1
+effect/zhongxinhua_09
+  rotate: false
+  xy: 1530, 350
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: -1
+effect/zhongxinhua_10
+  rotate: false
+  xy: 1692, 350
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: -1
+effect/zhongxinhua_11
+  rotate: false
+  xy: 1854, 350
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: -1
+effect/zhongxinhua_12
+  rotate: false
+  xy: 534, 164
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: -1
+effect/zhongxinhua_13
+  rotate: false
+  xy: 534, 2
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: -1
+effect/zhongxinhua_14
+  rotate: false
+  xy: 696, 188
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: -1
+effect/zhongxinhua_15
+  rotate: false
+  xy: 696, 26
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: -1
+effect/zhongxinhua_16
+  rotate: false
+  xy: 858, 188
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: -1
+effect/zhongxinhua_17
+  rotate: false
+  xy: 858, 26
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: -1
+effect/zhongxinhua_18
+  rotate: false
+  xy: 1020, 188
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: -1
+effect/zhongxinhua_19
+  rotate: false
+  xy: 1020, 26
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: -1
+effect/zhongxinhua_20
+  rotate: false
+  xy: 1182, 188
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: -1
+effect/zhongxinhua_21
+  rotate: false
+  xy: 1182, 26
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: -1
+effect/zhongxinhua_22
+  rotate: false
+  xy: 1344, 188
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: -1
+effect/zhongxinhua_23
+  rotate: false
+  xy: 1344, 26
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: -1
+effect/zhongxinhua_24
+  rotate: false
+  xy: 1506, 188
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: -1
+effect/zhongxinhua_25
+  rotate: false
+  xy: 1506, 26
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: -1

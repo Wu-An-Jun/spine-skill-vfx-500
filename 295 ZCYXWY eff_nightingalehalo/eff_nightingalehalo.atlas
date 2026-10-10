@@ -1,0 +1,20 @@
+
+eff_nightingalehalo.png
+size: 512,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/halo1
+  rotate: false
+  xy: 134, 2
+  size: 130, 70
+  orig: 130, 70
+  offset: 0, 0
+  index: -1
+effect/halo2
+  rotate: false
+  xy: 2, 2
+  size: 130, 70
+  orig: 130, 70
+  offset: 0, 0
+  index: -1

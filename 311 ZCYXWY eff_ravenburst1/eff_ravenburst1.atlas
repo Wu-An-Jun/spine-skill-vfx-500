@@ -1,0 +1,62 @@
+
+eff_ravenburst1.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/bao01
+  rotate: false
+  xy: 2, 126
+  size: 122, 122
+  orig: 122, 122
+  offset: 0, 0
+  index: -1
+effect/bao02
+  rotate: false
+  xy: 2, 2
+  size: 122, 122
+  orig: 122, 122
+  offset: 0, 0
+  index: -1
+effect/bao03
+  rotate: false
+  xy: 126, 126
+  size: 122, 122
+  orig: 122, 122
+  offset: 0, 0
+  index: -1
+effect/bao04
+  rotate: false
+  xy: 126, 2
+  size: 122, 122
+  orig: 122, 122
+  offset: 0, 0
+  index: -1
+effect/bao05
+  rotate: false
+  xy: 250, 126
+  size: 122, 122
+  orig: 122, 122
+  offset: 0, 0
+  index: -1
+effect/guang
+  rotate: false
+  xy: 250, 2
+  size: 122, 122
+  orig: 122, 122
+  offset: 0, 0
+  index: -1
+effect/jian
+  rotate: false
+  xy: 374, 58
+  size: 38, 190
+  orig: 38, 190
+  offset: 0, 0
+  index: -1
+effect/yuan
+  rotate: false
+  xy: 414, 153
+  size: 95, 95
+  orig: 95, 95
+  offset: 0, 0
+  index: -1

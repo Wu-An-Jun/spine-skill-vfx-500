@@ -1,0 +1,104 @@
+
+eff_queenburst.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/bao01
+  rotate: false
+  xy: 126, 134
+  size: 116, 114
+  orig: 116, 114
+  offset: 0, 0
+  index: -1
+effect/bao02
+  rotate: false
+  xy: 126, 18
+  size: 116, 114
+  orig: 116, 114
+  offset: 0, 0
+  index: -1
+effect/bao03
+  rotate: false
+  xy: 244, 134
+  size: 116, 114
+  orig: 116, 114
+  offset: 0, 0
+  index: -1
+effect/bao04
+  rotate: false
+  xy: 244, 18
+  size: 116, 114
+  orig: 116, 114
+  offset: 0, 0
+  index: -1
+effect/bao05
+  rotate: false
+  xy: 362, 134
+  size: 116, 114
+  orig: 116, 114
+  offset: 0, 0
+  index: -1
+effect/bao06
+  rotate: false
+  xy: 362, 18
+  size: 116, 114
+  orig: 116, 114
+  offset: 0, 0
+  index: -1
+effect/bao07
+  rotate: false
+  xy: 480, 134
+  size: 116, 114
+  orig: 116, 114
+  offset: 0, 0
+  index: -1
+effect/d1
+  rotate: false
+  xy: 480, 18
+  size: 105, 114
+  orig: 105, 114
+  offset: 0, 0
+  index: -1
+effect/d2
+  rotate: false
+  xy: 598, 134
+  size: 105, 114
+  orig: 105, 114
+  offset: 0, 0
+  index: -1
+effect/d3
+  rotate: false
+  xy: 587, 18
+  size: 105, 114
+  orig: 105, 114
+  offset: 0, 0
+  index: -1
+effect/d4
+  rotate: false
+  xy: 705, 134
+  size: 105, 114
+  orig: 105, 114
+  offset: 0, 0
+  index: -1
+effect/dian
+  rotate: false
+  xy: 694, 71
+  size: 61, 61
+  orig: 61, 61
+  offset: 0, 0
+  index: -1
+effect/guang
+  rotate: false
+  xy: 2, 126
+  size: 122, 122
+  orig: 122, 122
+  offset: 0, 0
+  index: -1
+effect/yuan
+  rotate: false
+  xy: 2, 2
+  size: 122, 122
+  orig: 122, 122
+  offset: 0, 0
+  index: -1

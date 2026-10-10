@@ -1,0 +1,370 @@
+
+eff_searcyaoe.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/baiquan
+  rotate: false
+  xy: 2, 92
+  size: 38, 38
+  orig: 38, 38
+  offset: 0, 0
+  index: -1
+effect/fazhen/biaopan
+  rotate: false
+  xy: 1086, 524
+  size: 274, 274
+  orig: 274, 274
+  offset: 0, 0
+  index: -1
+effect/fazhen/biaopan2
+  rotate: false
+  xy: 1086, 800
+  size: 288, 288
+  orig: 288, 288
+  offset: 0, 0
+  index: -1
+effect/fazhen/fenzhen
+  rotate: true
+  xy: 2, 2
+  size: 64, 220
+  orig: 64, 220
+  offset: 0, 0
+  index: -1
+effect/fazhen/shizhen
+  rotate: false
+  xy: 1357, 1109
+  size: 64, 163
+  orig: 64, 163
+  offset: 0, 0
+  index: -1
+effect/fazhen/shuzi
+  rotate: false
+  xy: 1628, 1727
+  size: 319, 319
+  orig: 319, 319
+  offset: 0, 0
+  index: -1
+effect/shuye/shuhuanrao_00
+  rotate: true
+  xy: 1357, 1274
+  size: 293, 159
+  orig: 293, 159
+  offset: 0, 0
+  index: -1
+effect/shuye/shuhuanrao_01
+  rotate: true
+  xy: 1086, 229
+  size: 293, 159
+  orig: 293, 159
+  offset: 0, 0
+  index: -1
+effect/shuye/shuhuanrao_02
+  rotate: false
+  xy: 1628, 1566
+  size: 293, 159
+  orig: 293, 159
+  offset: 0, 0
+  index: -1
+effect/shuye/shuhuanrao_03
+  rotate: true
+  xy: 1247, 229
+  size: 293, 159
+  orig: 293, 159
+  offset: 0, 0
+  index: -1
+effect/shuye/shuhuanrao_04
+  rotate: false
+  xy: 1086, 68
+  size: 293, 159
+  orig: 293, 159
+  offset: 0, 0
+  index: -1
+effect/shuye/shuhuanrao_05
+  rotate: false
+  xy: 1518, 1405
+  size: 293, 159
+  orig: 293, 159
+  offset: 0, 0
+  index: -1
+effect/shuye/shuhuanrao_06
+  rotate: false
+  xy: 1518, 1244
+  size: 293, 159
+  orig: 293, 159
+  offset: 0, 0
+  index: -1
+effect/shuye/shuhuanrao_07
+  rotate: true
+  xy: 1813, 1271
+  size: 293, 159
+  orig: 293, 159
+  offset: 0, 0
+  index: -1
+effect/shuye/shuhuanrao_09
+  rotate: true
+  xy: 1408, 268
+  size: 293, 159
+  orig: 293, 159
+  offset: 0, 0
+  index: -1
+effect/shuye/shuhuanrao_10
+  rotate: false
+  xy: 1558, 1083
+  size: 293, 159
+  orig: 293, 159
+  offset: 0, 0
+  index: -1
+effect/shuye/shuhuanrao_11
+  rotate: false
+  xy: 1558, 922
+  size: 293, 159
+  orig: 293, 159
+  offset: 0, 0
+  index: -1
+effect/shuye/shuhuanrao_12
+  rotate: true
+  xy: 1853, 976
+  size: 293, 159
+  orig: 293, 159
+  offset: 0, 0
+  index: -1
+effect/shuye/shuhuanrao_13
+  rotate: false
+  xy: 1558, 761
+  size: 293, 159
+  orig: 293, 159
+  offset: 0, 0
+  index: -1
+effect/shuye/shuhuanrao_14
+  rotate: false
+  xy: 1558, 600
+  size: 293, 159
+  orig: 293, 159
+  offset: 0, 0
+  index: -1
+effect/shuye/shuhuanrao_15
+  rotate: true
+  xy: 1853, 681
+  size: 293, 159
+  orig: 293, 159
+  offset: 0, 0
+  index: -1
+effect/shuye/shuye_00
+  rotate: false
+  xy: 1949, 1959
+  size: 74, 87
+  orig: 74, 87
+  offset: 0, 0
+  index: -1
+effect/shuye/shuye_01
+  rotate: true
+  xy: 1853, 605
+  size: 74, 87
+  orig: 74, 87
+  offset: 0, 0
+  index: -1
+effect/shuye/shuye_02
+  rotate: false
+  xy: 1423, 1185
+  size: 74, 87
+  orig: 74, 87
+  offset: 0, 0
+  index: -1
+effect/shuye/shuye_03
+  rotate: false
+  xy: 1618, 119
+  size: 74, 87
+  orig: 74, 87
+  offset: 0, 0
+  index: -1
+effect/shuye/shuye_04
+  rotate: false
+  xy: 1949, 1870
+  size: 74, 87
+  orig: 74, 87
+  offset: 0, 0
+  index: -1
+effect/shuye/shuye_05
+  rotate: false
+  xy: 1618, 30
+  size: 74, 87
+  orig: 74, 87
+  offset: 0, 0
+  index: -1
+effect/star_00
+  rotate: true
+  xy: 1362, 563
+  size: 235, 194
+  orig: 235, 194
+  offset: 0, 0
+  index: -1
+effect/star_01
+  rotate: false
+  xy: 1569, 404
+  size: 235, 194
+  orig: 235, 194
+  offset: 0, 0
+  index: -1
+effect/star_02
+  rotate: false
+  xy: 1569, 208
+  size: 235, 194
+  orig: 235, 194
+  offset: 0, 0
+  index: -1
+effect/star_03
+  rotate: true
+  xy: 1806, 363
+  size: 235, 194
+  orig: 235, 194
+  offset: 0, 0
+  index: -1
+effect/star_04
+  rotate: false
+  xy: 1806, 167
+  size: 235, 194
+  orig: 235, 194
+  offset: 0, 0
+  index: -1
+effect/star_05
+  rotate: false
+  xy: 1381, 12
+  size: 235, 194
+  orig: 235, 194
+  offset: 0, 0
+  index: -1
+effect/xianguang_01
+  rotate: false
+  xy: 2, 1569
+  size: 269, 477
+  orig: 269, 477
+  offset: 0, 0
+  index: -1
+effect/xianguang_02
+  rotate: false
+  xy: 2, 1090
+  size: 269, 477
+  orig: 269, 477
+  offset: 0, 0
+  index: -1
+effect/xianguang_03
+  rotate: false
+  xy: 273, 1569
+  size: 269, 477
+  orig: 269, 477
+  offset: 0, 0
+  index: -1
+effect/xianguang_04
+  rotate: false
+  xy: 2, 611
+  size: 269, 477
+  orig: 269, 477
+  offset: 0, 0
+  index: -1
+effect/xianguang_05
+  rotate: false
+  xy: 273, 1090
+  size: 269, 477
+  orig: 269, 477
+  offset: 0, 0
+  index: -1
+effect/xianguang_06
+  rotate: false
+  xy: 544, 1569
+  size: 269, 477
+  orig: 269, 477
+  offset: 0, 0
+  index: -1
+effect/xianguang_07
+  rotate: false
+  xy: 2, 132
+  size: 269, 477
+  orig: 269, 477
+  offset: 0, 0
+  index: -1
+effect/xianguang_08
+  rotate: false
+  xy: 273, 611
+  size: 269, 477
+  orig: 269, 477
+  offset: 0, 0
+  index: -1
+effect/xianguang_09
+  rotate: false
+  xy: 544, 1090
+  size: 269, 477
+  orig: 269, 477
+  offset: 0, 0
+  index: -1
+effect/xianguang_10
+  rotate: false
+  xy: 815, 1569
+  size: 269, 477
+  orig: 269, 477
+  offset: 0, 0
+  index: -1
+effect/xianguang_11
+  rotate: false
+  xy: 273, 132
+  size: 269, 477
+  orig: 269, 477
+  offset: 0, 0
+  index: -1
+effect/xianguang_12
+  rotate: false
+  xy: 544, 611
+  size: 269, 477
+  orig: 269, 477
+  offset: 0, 0
+  index: -1
+effect/xianguang_13
+  rotate: false
+  xy: 815, 1090
+  size: 269, 477
+  orig: 269, 477
+  offset: 0, 0
+  index: -1
+effect/xianguang_14
+  rotate: false
+  xy: 1086, 1569
+  size: 269, 477
+  orig: 269, 477
+  offset: 0, 0
+  index: -1
+effect/xianguang_15
+  rotate: false
+  xy: 544, 132
+  size: 269, 477
+  orig: 269, 477
+  offset: 0, 0
+  index: -1
+effect/xianguang_16
+  rotate: false
+  xy: 815, 611
+  size: 269, 477
+  orig: 269, 477
+  offset: 0, 0
+  index: -1
+effect/xianguang_17
+  rotate: false
+  xy: 1086, 1090
+  size: 269, 477
+  orig: 269, 477
+  offset: 0, 0
+  index: -1
+effect/xianguang_18
+  rotate: false
+  xy: 1357, 1569
+  size: 269, 477
+  orig: 269, 477
+  offset: 0, 0
+  index: -1
+effect/xianguang_19
+  rotate: false
+  xy: 815, 132
+  size: 269, 477
+  orig: 269, 477
+  offset: 0, 0
+  index: -1

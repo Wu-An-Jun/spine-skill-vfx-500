@@ -1,0 +1,55 @@
+
+eff_ScienceCure2.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/banyuan
+  rotate: false
+  xy: 167, 116
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+effect/banyuan01
+  rotate: false
+  xy: 297, 116
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+effect/guang
+  rotate: false
+  xy: 427, 116
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+effect/shizi
+  rotate: false
+  xy: 557, 184
+  size: 60, 60
+  orig: 60, 60
+  offset: 0, 0
+  index: -1
+effect/shutiao
+  rotate: true
+  xy: 2, 2
+  size: 77, 150
+  orig: 77, 150
+  offset: 0, 0
+  index: -1
+effect/wujiaoxing
+  rotate: false
+  xy: 2, 81
+  size: 163, 163
+  orig: 163, 163
+  offset: 0, 0
+  index: -1
+effect/wujiaoxing2
+  rotate: false
+  xy: 557, 141
+  size: 41, 41
+  orig: 41, 41
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,153 @@
+
+eff_searcyattack3.png
+size: 2048,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/huoshu/huowen_00
+  rotate: false
+  xy: 2, 127
+  size: 239, 123
+  orig: 239, 123
+  offset: 0, 0
+  index: -1
+effect/huoshu/huowen_01
+  rotate: false
+  xy: 333, 366
+  size: 239, 123
+  orig: 239, 123
+  offset: 0, 0
+  index: -1
+effect/huoshu/huowen_02
+  rotate: false
+  xy: 2, 2
+  size: 239, 123
+  orig: 239, 123
+  offset: 0, 0
+  index: -1
+effect/huoshu/huowen_03
+  rotate: false
+  xy: 574, 366
+  size: 239, 123
+  orig: 239, 123
+  offset: 0, 0
+  index: -1
+effect/huoshu/huowen_04
+  rotate: false
+  xy: 815, 366
+  size: 239, 123
+  orig: 239, 123
+  offset: 0, 0
+  index: -1
+effect/huoshu/huowen_05
+  rotate: false
+  xy: 1056, 366
+  size: 239, 123
+  orig: 239, 123
+  offset: 0, 0
+  index: -1
+effect/huoshu/huowen_06
+  rotate: false
+  xy: 1297, 366
+  size: 239, 123
+  orig: 239, 123
+  offset: 0, 0
+  index: -1
+effect/huoshu/huowen_07
+  rotate: false
+  xy: 1538, 366
+  size: 239, 123
+  orig: 239, 123
+  offset: 0, 0
+  index: -1
+effect/huoshu/huowen_08
+  rotate: false
+  xy: 1779, 366
+  size: 239, 123
+  orig: 239, 123
+  offset: 0, 0
+  index: -1
+effect/huoshu/huowen_09
+  rotate: false
+  xy: 333, 241
+  size: 239, 123
+  orig: 239, 123
+  offset: 0, 0
+  index: -1
+effect/huoshu/huowen_10
+  rotate: false
+  xy: 574, 241
+  size: 239, 123
+  orig: 239, 123
+  offset: 0, 0
+  index: -1
+effect/huoshu/huowen_11
+  rotate: false
+  xy: 815, 241
+  size: 239, 123
+  orig: 239, 123
+  offset: 0, 0
+  index: -1
+effect/huoshu/huowen_12
+  rotate: false
+  xy: 1056, 241
+  size: 239, 123
+  orig: 239, 123
+  offset: 0, 0
+  index: -1
+effect/huoshu/huowen_13
+  rotate: false
+  xy: 1297, 241
+  size: 239, 123
+  orig: 239, 123
+  offset: 0, 0
+  index: -1
+effect/huoshu/huowen_14
+  rotate: false
+  xy: 1538, 241
+  size: 239, 123
+  orig: 239, 123
+  offset: 0, 0
+  index: -1
+effect/huoshu/huowen_15
+  rotate: false
+  xy: 1779, 241
+  size: 239, 123
+  orig: 239, 123
+  offset: 0, 0
+  index: -1
+effect/huoshu/huowen_16
+  rotate: false
+  xy: 243, 116
+  size: 239, 123
+  orig: 239, 123
+  offset: 0, 0
+  index: -1
+effect/huoshu/huowen_17
+  rotate: false
+  xy: 484, 116
+  size: 239, 123
+  orig: 239, 123
+  offset: 0, 0
+  index: -1
+effect/huoshu/huowen_18
+  rotate: false
+  xy: 725, 116
+  size: 239, 123
+  orig: 239, 123
+  offset: 0, 0
+  index: -1
+effect/huoshu/huowen_19
+  rotate: false
+  xy: 966, 116
+  size: 239, 123
+  orig: 239, 123
+  offset: 0, 0
+  index: -1
+effect/huoshu/shine
+  rotate: false
+  xy: 2, 252
+  size: 329, 237
+  orig: 329, 237
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,62 @@
+
+action.png
+size: 677,419
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+daoguangad_0005
+  rotate: true
+  xy: 613, 311
+  size: 108, 64
+  orig: 720, 720
+  offset: 175, 397
+  index: -1
+daoguangad_0006
+  rotate: false
+  xy: 0, 11
+  size: 254, 152
+  orig: 720, 720
+  offset: 240, 296
+  index: -1
+daoguangad_0007
+  rotate: true
+  xy: 157, 165
+  size: 254, 152
+  orig: 720, 720
+  offset: 240, 296
+  index: -1
+daoguangad_0008
+  rotate: false
+  xy: 256, 11
+  size: 254, 152
+  orig: 720, 720
+  offset: 240, 299
+  index: -1
+daoguangad_0009
+  rotate: true
+  xy: 0, 165
+  size: 254, 155
+  orig: 720, 720
+  offset: 240, 296
+  index: -1
+daoguangad_0010
+  rotate: true
+  xy: 311, 178
+  size: 241, 152
+  orig: 720, 720
+  offset: 240, 296
+  index: -1
+daoguangad_0011
+  rotate: true
+  xy: 465, 186
+  size: 233, 146
+  orig: 720, 720
+  offset: 256, 302
+  index: -1
+daoguangad_0012
+  rotate: true
+  xy: 512, 0
+  size: 184, 142
+  orig: 720, 720
+  offset: 290, 304
+  index: -1

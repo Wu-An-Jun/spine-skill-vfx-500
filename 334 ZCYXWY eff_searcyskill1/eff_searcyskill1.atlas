@@ -1,0 +1,251 @@
+
+eff_searcyskill1.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/bai
+  rotate: false
+  xy: 2038, 1013
+  size: 5, 5
+  orig: 5, 5
+  offset: 0, 0
+  index: -1
+effect/baichang
+  rotate: false
+  xy: 1806, 313
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+effect/baiquan
+  rotate: false
+  xy: 309, 155
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+effect/fazhen/biaopan
+  rotate: false
+  xy: 815, 653
+  size: 365, 365
+  orig: 365, 365
+  offset: 0, 0
+  index: -1
+effect/fazhen/biaopan2
+  rotate: false
+  xy: 2, 207
+  size: 384, 384
+  orig: 384, 384
+  offset: 0, 0
+  index: -1
+effect/fazhen/biaopan3
+  rotate: false
+  xy: 429, 634
+  size: 384, 384
+  orig: 384, 384
+  offset: 0, 0
+  index: -1
+effect/fazhen/chilun1
+  rotate: false
+  xy: 475, 43
+  size: 85, 85
+  orig: 85, 85
+  offset: 0, 0
+  index: -1
+effect/fazhen/chilun2
+  rotate: false
+  xy: 562, 43
+  size: 85, 85
+  orig: 85, 85
+  offset: 0, 0
+  index: -1
+effect/fazhen/chilun3
+  rotate: false
+  xy: 1735, 509
+  size: 170, 170
+  orig: 170, 170
+  offset: 0, 0
+  index: -1
+effect/fazhen/di
+  rotate: false
+  xy: 1182, 668
+  size: 350, 350
+  orig: 350, 350
+  offset: 0, 0
+  index: -1
+effect/fazhen/fenzhen
+  rotate: true
+  xy: 1534, 681
+  size: 85, 293
+  orig: 85, 293
+  offset: 0, 0
+  index: -1
+effect/fazhen/fenzhenhei
+  rotate: false
+  xy: 388, 298
+  size: 85, 293
+  orig: 85, 293
+  offset: 0, 0
+  index: -1
+effect/fazhen/jian1
+  rotate: true
+  xy: 1907, 495
+  size: 184, 101
+  orig: 184, 101
+  offset: 0, 0
+  index: -1
+effect/fazhen/jian2
+  rotate: false
+  xy: 1585, 135
+  size: 80, 95
+  orig: 80, 95
+  offset: 0, 0
+  index: -1
+effect/fazhen/jian3
+  rotate: false
+  xy: 1483, 232
+  size: 179, 182
+  orig: 179, 182
+  offset: 0, 0
+  index: -1
+effect/fazhen/shizhen
+  rotate: true
+  xy: 1829, 681
+  size: 85, 217
+  orig: 85, 217
+  offset: 0, 0
+  index: -1
+effect/fazhen/shizhenhei
+  rotate: false
+  xy: 388, 79
+  size: 85, 217
+  orig: 85, 217
+  offset: 0, 0
+  index: -1
+effect/fazhen/shuzi
+  rotate: false
+  xy: 2, 593
+  size: 425, 425
+  orig: 425, 425
+  offset: 0, 0
+  index: -1
+effect/fazhen/xiaozhen1
+  rotate: false
+  xy: 361, 136
+  size: 25, 69
+  orig: 25, 69
+  offset: 0, 0
+  index: -1
+effect/fazhen/xiaozhen2
+  rotate: true
+  xy: 2, 2
+  size: 18, 86
+  orig: 18, 86
+  offset: 0, 0
+  index: -1
+effect/huan
+  rotate: false
+  xy: 1664, 273
+  size: 140, 140
+  orig: 140, 140
+  offset: 0, 0
+  index: -1
+effect/huayuan_00
+  rotate: false
+  xy: 1534, 768
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: -1
+effect/huayuan_01
+  rotate: false
+  xy: 1786, 768
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: -1
+effect/huayuan_02
+  rotate: false
+  xy: 475, 382
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: -1
+effect/huayuan_03
+  rotate: false
+  xy: 727, 382
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: -1
+effect/huayuan_04
+  rotate: false
+  xy: 979, 401
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: -1
+effect/huayuan_05
+  rotate: false
+  xy: 1231, 416
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: -1
+effect/huayuan_06
+  rotate: false
+  xy: 475, 130
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: -1
+effect/huayuan_07
+  rotate: false
+  xy: 727, 130
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: -1
+effect/huayuan_08
+  rotate: false
+  xy: 979, 149
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: -1
+effect/huayuan_09
+  rotate: false
+  xy: 1231, 164
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: -1
+effect/huayuan_10
+  rotate: false
+  xy: 1483, 416
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: -1
+effect/jianying1
+  rotate: false
+  xy: 2, 22
+  size: 305, 183
+  orig: 305, 183
+  offset: 0, 0
+  index: -1
+effect/jianying2
+  rotate: false
+  xy: 1735, 415
+  size: 147, 92
+  orig: 147, 92
+  offset: 0, 0
+  index: -1
+effect/liang
+  rotate: false
+  xy: 1483, 130
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1

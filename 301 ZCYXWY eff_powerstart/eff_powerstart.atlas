@@ -1,0 +1,83 @@
+
+eff_powerstart.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/guang
+  rotate: true
+  xy: 437, 159
+  size: 95, 122
+  orig: 95, 122
+  offset: 0, 0
+  index: -1
+effect/guang01
+  rotate: false
+  xy: 2, 147
+  size: 143, 107
+  orig: 143, 107
+  offset: 0, 0
+  index: -1
+effect/guang02
+  rotate: true
+  xy: 2, 2
+  size: 143, 107
+  orig: 143, 107
+  offset: 0, 0
+  index: -1
+effect/guang03
+  rotate: true
+  xy: 111, 2
+  size: 143, 107
+  orig: 143, 107
+  offset: 0, 0
+  index: -1
+effect/guang04
+  rotate: false
+  xy: 147, 147
+  size: 143, 107
+  orig: 143, 107
+  offset: 0, 0
+  index: -1
+effect/guang05
+  rotate: true
+  xy: 220, 2
+  size: 143, 107
+  orig: 143, 107
+  offset: 0, 0
+  index: -1
+effect/guang06
+  rotate: false
+  xy: 292, 147
+  size: 143, 107
+  orig: 143, 107
+  offset: 0, 0
+  index: -1
+effect/guang07
+  rotate: true
+  xy: 329, 2
+  size: 143, 107
+  orig: 143, 107
+  offset: 0, 0
+  index: -1
+effect/pian
+  rotate: false
+  xy: 782, 197
+  size: 57, 57
+  orig: 57, 57
+  offset: 0, 0
+  index: -1
+effect/shizi
+  rotate: true
+  xy: 685, 206
+  size: 48, 95
+  orig: 48, 95
+  offset: 0, 0
+  index: -1
+effect/yuan
+  rotate: false
+  xy: 561, 197
+  size: 122, 57
+  orig: 122, 57
+  offset: 0, 0
+  index: -1

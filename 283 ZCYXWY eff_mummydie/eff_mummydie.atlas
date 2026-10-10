@@ -1,0 +1,125 @@
+
+eff_mummydie.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/baozha_04
+  rotate: false
+  xy: 2, 318
+  size: 122, 190
+  orig: 122, 190
+  offset: 0, 0
+  index: -1
+effect/baozha_05
+  rotate: false
+  xy: 2, 126
+  size: 122, 190
+  orig: 122, 190
+  offset: 0, 0
+  index: -1
+effect/baozha_06
+  rotate: false
+  xy: 126, 318
+  size: 122, 190
+  orig: 122, 190
+  offset: 0, 0
+  index: -1
+effect/baozha_07
+  rotate: false
+  xy: 126, 126
+  size: 122, 190
+  orig: 122, 190
+  offset: 0, 0
+  index: -1
+effect/baozha_08
+  rotate: true
+  xy: 2, 2
+  size: 122, 190
+  orig: 122, 190
+  offset: 0, 0
+  index: -1
+effect/baozha_09
+  rotate: false
+  xy: 250, 318
+  size: 122, 190
+  orig: 122, 190
+  offset: 0, 0
+  index: -1
+effect/baozha_10
+  rotate: false
+  xy: 250, 126
+  size: 122, 190
+  orig: 122, 190
+  offset: 0, 0
+  index: -1
+effect/baozha_11
+  rotate: false
+  xy: 374, 318
+  size: 122, 190
+  orig: 122, 190
+  offset: 0, 0
+  index: -1
+effect/baozha_12
+  rotate: false
+  xy: 374, 126
+  size: 122, 190
+  orig: 122, 190
+  offset: 0, 0
+  index: -1
+effect/yan03
+  rotate: false
+  xy: 194, 31
+  size: 113, 93
+  orig: 113, 93
+  offset: 0, 0
+  index: -1
+effect/yan04
+  rotate: false
+  xy: 498, 415
+  size: 113, 93
+  orig: 113, 93
+  offset: 0, 0
+  index: -1
+effect/yan05
+  rotate: false
+  xy: 309, 31
+  size: 113, 93
+  orig: 113, 93
+  offset: 0, 0
+  index: -1
+effect/yan06
+  rotate: false
+  xy: 498, 320
+  size: 113, 93
+  orig: 113, 93
+  offset: 0, 0
+  index: -1
+effect/yan07
+  rotate: false
+  xy: 613, 415
+  size: 113, 93
+  orig: 113, 93
+  offset: 0, 0
+  index: -1
+effect/yan08
+  rotate: false
+  xy: 498, 225
+  size: 113, 93
+  orig: 113, 93
+  offset: 0, 0
+  index: -1
+effect/yan09
+  rotate: false
+  xy: 613, 320
+  size: 113, 93
+  orig: 113, 93
+  offset: 0, 0
+  index: -1
+effect/yan10
+  rotate: false
+  xy: 728, 415
+  size: 113, 93
+  orig: 113, 93
+  offset: 0, 0
+  index: -1

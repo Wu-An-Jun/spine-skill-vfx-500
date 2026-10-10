@@ -1,0 +1,27 @@
+
+ayin_attack13_4_2.png
+size: 117,112
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+tx_glow1_00
+  rotate: false
+  xy: 2, 2
+  size: 80, 108
+  orig: 95, 119
+  offset: 4, 4
+  index: -1
+tx_glow2_00
+  rotate: true
+  xy: 84, 21
+  size: 89, 25
+  orig: 90, 25
+  offset: 1, 0
+  index: -1
+tx_line_00
+  rotate: false
+  xy: 111, 55
+  size: 4, 55
+  orig: 6, 60
+  offset: 1, 4
+  index: -1

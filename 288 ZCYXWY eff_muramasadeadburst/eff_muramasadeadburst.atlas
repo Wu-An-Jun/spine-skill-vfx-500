@@ -1,0 +1,83 @@
+
+eff_muramasadeadburst.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/baodian01
+  rotate: false
+  xy: 2, 89
+  size: 157, 104
+  orig: 157, 104
+  offset: 0, 0
+  index: -1
+effect/baodian02
+  rotate: false
+  xy: 247, 139
+  size: 157, 104
+  orig: 157, 104
+  offset: 0, 0
+  index: -1
+effect/baodian03
+  rotate: false
+  xy: 406, 139
+  size: 157, 104
+  orig: 157, 104
+  offset: 0, 0
+  index: -1
+effect/baodian04
+  rotate: false
+  xy: 565, 139
+  size: 157, 104
+  orig: 157, 104
+  offset: 0, 0
+  index: -1
+effect/ci
+  rotate: false
+  xy: 2, 195
+  size: 243, 48
+  orig: 243, 48
+  offset: 0, 0
+  index: -1
+effect/guang
+  rotate: false
+  xy: 724, 121
+  size: 122, 122
+  orig: 122, 122
+  offset: 0, 0
+  index: -1
+effect/kuosan01
+  rotate: true
+  xy: 2, 2
+  size: 85, 97
+  orig: 85, 97
+  offset: 0, 0
+  index: -1
+effect/kuosan02
+  rotate: false
+  xy: 848, 146
+  size: 85, 97
+  orig: 85, 97
+  offset: 0, 0
+  index: -1
+effect/kuosan03
+  rotate: false
+  xy: 935, 146
+  size: 85, 97
+  orig: 85, 97
+  offset: 0, 0
+  index: -1
+effect/kuosan04
+  rotate: true
+  xy: 101, 2
+  size: 85, 97
+  orig: 85, 97
+  offset: 0, 0
+  index: -1
+effect/kuosan05
+  rotate: true
+  xy: 848, 59
+  size: 85, 97
+  orig: 85, 97
+  offset: 0, 0
+  index: -1

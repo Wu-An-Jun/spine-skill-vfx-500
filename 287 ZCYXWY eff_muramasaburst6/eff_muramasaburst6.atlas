@@ -1,0 +1,160 @@
+
+eff_muramasaburst6.png
+size: 2048,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/cihong
+  rotate: false
+  xy: 674, 268
+  size: 256, 50
+  orig: 256, 50
+  offset: 0, 0
+  index: -1
+effect/guangxiaohong
+  rotate: false
+  xy: 226, 53
+  size: 200, 67
+  orig: 200, 67
+  offset: 0, 0
+  index: -1
+effect/lizi02
+  rotate: false
+  xy: 674, 320
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: -1
+effect/lizi03
+  rotate: false
+  xy: 836, 320
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: -1
+effect/lizi04
+  rotate: false
+  xy: 998, 320
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: -1
+effect/lizi06
+  rotate: false
+  xy: 1160, 320
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: -1
+effect/lizi07
+  rotate: false
+  xy: 1322, 320
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: -1
+effect/penjian01
+  rotate: false
+  xy: 450, 135
+  size: 125, 105
+  orig: 125, 105
+  offset: 0, 0
+  index: -1
+effect/penjian02
+  rotate: false
+  xy: 1614, 375
+  size: 125, 105
+  orig: 125, 105
+  offset: 0, 0
+  index: -1
+effect/penjian03
+  rotate: false
+  xy: 1741, 375
+  size: 125, 105
+  orig: 125, 105
+  offset: 0, 0
+  index: -1
+effect/penjian04
+  rotate: false
+  xy: 1868, 375
+  size: 125, 105
+  orig: 125, 105
+  offset: 0, 0
+  index: -1
+effect/quan
+  rotate: false
+  xy: 1484, 352
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+effect/xinhuoxinga00
+  rotate: false
+  xy: 2, 362
+  size: 222, 118
+  orig: 222, 118
+  offset: 0, 0
+  index: -1
+effect/xinhuoxinga01
+  rotate: false
+  xy: 2, 242
+  size: 222, 118
+  orig: 222, 118
+  offset: 0, 0
+  index: -1
+effect/xinhuoxinga02
+  rotate: false
+  xy: 226, 362
+  size: 222, 118
+  orig: 222, 118
+  offset: 0, 0
+  index: -1
+effect/xinhuoxinga03
+  rotate: false
+  xy: 2, 122
+  size: 222, 118
+  orig: 222, 118
+  offset: 0, 0
+  index: -1
+effect/xinhuoxinga04
+  rotate: false
+  xy: 226, 242
+  size: 222, 118
+  orig: 222, 118
+  offset: 0, 0
+  index: -1
+effect/xinhuoxinga05
+  rotate: false
+  xy: 450, 362
+  size: 222, 118
+  orig: 222, 118
+  offset: 0, 0
+  index: -1
+effect/xinhuoxinga06
+  rotate: false
+  xy: 2, 2
+  size: 222, 118
+  orig: 222, 118
+  offset: 0, 0
+  index: -1
+effect/xinhuoxinga07
+  rotate: false
+  xy: 226, 122
+  size: 222, 118
+  orig: 222, 118
+  offset: 0, 0
+  index: -1
+effect/xinhuoxinga08
+  rotate: false
+  xy: 450, 242
+  size: 222, 118
+  orig: 222, 118
+  offset: 0, 0
+  index: -1
+effect/yuan
+  rotate: false
+  xy: 577, 140
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1

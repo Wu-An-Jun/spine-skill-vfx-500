@@ -1,0 +1,83 @@
+
+action.png
+size: 992,529
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+daoguangb_00008
+  rotate: true
+  xy: 0, 263
+  size: 266, 191
+  orig: 720, 720
+  offset: 225, 329
+  index: -1
+daoguangb_00009
+  rotate: true
+  xy: 193, 264
+  size: 265, 191
+  orig: 720, 720
+  offset: 226, 329
+  index: -1
+daoguangb_00010
+  rotate: true
+  xy: 386, 266
+  size: 263, 190
+  orig: 720, 720
+  offset: 228, 330
+  index: -1
+daoguangb_00011
+  rotate: true
+  xy: 377, 0
+  size: 262, 189
+  orig: 720, 720
+  offset: 229, 330
+  index: -1
+daoguangb_00012
+  rotate: true
+  xy: 0, 2
+  size: 259, 188
+  orig: 720, 720
+  offset: 232, 330
+  index: -1
+daoguangb_00013
+  rotate: true
+  xy: 190, 2
+  size: 259, 185
+  orig: 720, 720
+  offset: 231, 330
+  index: -1
+daoguangb_00014
+  rotate: true
+  xy: 568, 11
+  size: 253, 184
+  orig: 720, 720
+  offset: 237, 330
+  index: -1
+daoguangb_00015
+  rotate: false
+  xy: 754, 354
+  size: 238, 175
+  orig: 720, 720
+  offset: 239, 338
+  index: -1
+daoguangb_00016
+  rotate: true
+  xy: 578, 296
+  size: 233, 173
+  orig: 720, 720
+  offset: 241, 340
+  index: -1
+daoguangb_00017
+  rotate: false
+  xy: 754, 179
+  size: 231, 173
+  orig: 720, 720
+  offset: 243, 340
+  index: -1
+daoguangb_00018
+  rotate: false
+  xy: 754, 4
+  size: 222, 173
+  orig: 720, 720
+  offset: 251, 340
+  index: -1

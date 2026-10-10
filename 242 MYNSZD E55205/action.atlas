@@ -1,0 +1,83 @@
+
+action.png
+size: 990,932
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+a_0029
+  rotate: true
+  xy: 708, 790
+  size: 142, 257
+  orig: 720, 1280
+  offset: 469, 487
+  index: -1
+a_0030
+  rotate: false
+  xy: 0, 16
+  size: 324, 350
+  orig: 720, 1280
+  offset: 283, 385
+  index: -1
+a_0031
+  rotate: true
+  xy: 326, 0
+  size: 414, 258
+  orig: 720, 1280
+  offset: 185, 389
+  index: -1
+a_0032
+  rotate: false
+  xy: 586, 213
+  size: 404, 201
+  orig: 720, 1280
+  offset: 166, 397
+  index: -1
+a_0033
+  rotate: false
+  xy: 586, 14
+  size: 348, 197
+  orig: 720, 1280
+  offset: 168, 405
+  index: -1
+a_0034
+  rotate: false
+  xy: 708, 619
+  size: 246, 169
+  orig: 720, 1280
+  offset: 213, 408
+  index: -1
+a_0035
+  rotate: true
+  xy: 708, 452
+  size: 165, 145
+  orig: 720, 1280
+  offset: 220, 421
+  index: -1
+a_0036
+  rotate: false
+  xy: 855, 529
+  size: 89, 88
+  orig: 720, 1280
+  offset: 223, 474
+  index: -1
+b
+  rotate: true
+  xy: 0, 368
+  size: 564, 194
+  orig: 720, 1280
+  offset: 82, 466
+  index: -1
+fazhen_1
+  rotate: false
+  xy: 196, 416
+  size: 510, 516
+  orig: 720, 1280
+  offset: 105, 380
+  index: -1
+shuye
+  rotate: false
+  xy: 855, 440
+  size: 83, 87
+  orig: 720, 1280
+  offset: 316, 597
+  index: -1

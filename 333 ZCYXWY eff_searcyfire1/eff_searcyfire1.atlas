@@ -1,0 +1,188 @@
+
+eff_searcyfire1.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/baiquan
+  rotate: false
+  xy: 2, 2
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+effect/fazhen/biaopan
+  rotate: false
+  xy: 2, 268
+  size: 365, 365
+  orig: 365, 365
+  offset: 0, 0
+  index: -1
+effect/fazhen/biaopan2
+  rotate: false
+  xy: 2, 635
+  size: 384, 384
+  orig: 384, 384
+  offset: 0, 0
+  index: -1
+effect/fazhen/fenzhen
+  rotate: false
+  xy: 1960, 726
+  size: 85, 293
+  orig: 85, 293
+  offset: 0, 0
+  index: -1
+effect/fazhen/shizhen
+  rotate: true
+  xy: 395, 78
+  size: 85, 217
+  orig: 85, 217
+  offset: 0, 0
+  index: -1
+effect/shuye/shuhuanrao_00
+  rotate: false
+  xy: 388, 807
+  size: 391, 212
+  orig: 391, 212
+  offset: 0, 0
+  index: -1
+effect/shuye/shuhuanrao_01
+  rotate: false
+  xy: 781, 807
+  size: 391, 212
+  orig: 391, 212
+  offset: 0, 0
+  index: -1
+effect/shuye/shuhuanrao_02
+  rotate: false
+  xy: 1174, 807
+  size: 391, 212
+  orig: 391, 212
+  offset: 0, 0
+  index: -1
+effect/shuye/shuhuanrao_03
+  rotate: false
+  xy: 1567, 807
+  size: 391, 212
+  orig: 391, 212
+  offset: 0, 0
+  index: -1
+effect/shuye/shuhuanrao_04
+  rotate: false
+  xy: 2, 54
+  size: 391, 212
+  orig: 391, 212
+  offset: 0, 0
+  index: -1
+effect/shuye/shuhuanrao_05
+  rotate: false
+  xy: 388, 593
+  size: 391, 212
+  orig: 391, 212
+  offset: 0, 0
+  index: -1
+effect/shuye/shuhuanrao_06
+  rotate: false
+  xy: 781, 593
+  size: 391, 212
+  orig: 391, 212
+  offset: 0, 0
+  index: -1
+effect/shuye/shuhuanrao_07
+  rotate: false
+  xy: 1174, 593
+  size: 391, 212
+  orig: 391, 212
+  offset: 0, 0
+  index: -1
+effect/shuye/shuhuanrao_09
+  rotate: false
+  xy: 1567, 593
+  size: 391, 212
+  orig: 391, 212
+  offset: 0, 0
+  index: -1
+effect/shuye/shuhuanrao_10
+  rotate: false
+  xy: 369, 379
+  size: 391, 212
+  orig: 391, 212
+  offset: 0, 0
+  index: -1
+effect/shuye/shuhuanrao_11
+  rotate: false
+  xy: 762, 379
+  size: 391, 212
+  orig: 391, 212
+  offset: 0, 0
+  index: -1
+effect/shuye/shuhuanrao_12
+  rotate: false
+  xy: 1155, 379
+  size: 391, 212
+  orig: 391, 212
+  offset: 0, 0
+  index: -1
+effect/shuye/shuhuanrao_13
+  rotate: false
+  xy: 1548, 379
+  size: 391, 212
+  orig: 391, 212
+  offset: 0, 0
+  index: -1
+effect/shuye/shuhuanrao_14
+  rotate: false
+  xy: 395, 165
+  size: 391, 212
+  orig: 391, 212
+  offset: 0, 0
+  index: -1
+effect/shuye/shuhuanrao_15
+  rotate: false
+  xy: 788, 165
+  size: 391, 212
+  orig: 391, 212
+  offset: 0, 0
+  index: -1
+effect/shuye/shuye_00
+  rotate: false
+  xy: 1181, 261
+  size: 99, 116
+  orig: 99, 116
+  offset: 0, 0
+  index: -1
+effect/shuye/shuye_01
+  rotate: false
+  xy: 1282, 261
+  size: 99, 116
+  orig: 99, 116
+  offset: 0, 0
+  index: -1
+effect/shuye/shuye_02
+  rotate: false
+  xy: 1383, 261
+  size: 99, 116
+  orig: 99, 116
+  offset: 0, 0
+  index: -1
+effect/shuye/shuye_03
+  rotate: false
+  xy: 1484, 261
+  size: 99, 116
+  orig: 99, 116
+  offset: 0, 0
+  index: -1
+effect/shuye/shuye_04
+  rotate: false
+  xy: 1585, 261
+  size: 99, 116
+  orig: 99, 116
+  offset: 0, 0
+  index: -1
+effect/shuye/shuye_05
+  rotate: false
+  xy: 1686, 261
+  size: 99, 116
+  orig: 99, 116
+  offset: 0, 0
+  index: -1

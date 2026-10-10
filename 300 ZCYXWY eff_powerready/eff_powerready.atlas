@@ -1,0 +1,34 @@
+
+eff_powerready.png
+size: 512,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/d1
+  rotate: false
+  xy: 2, 2
+  size: 105, 114
+  orig: 105, 114
+  offset: 0, 0
+  index: -1
+effect/d2
+  rotate: false
+  xy: 109, 2
+  size: 105, 114
+  orig: 105, 114
+  offset: 0, 0
+  index: -1
+effect/d3
+  rotate: false
+  xy: 216, 2
+  size: 105, 114
+  orig: 105, 114
+  offset: 0, 0
+  index: -1
+effect/d4
+  rotate: false
+  xy: 323, 2
+  size: 105, 114
+  orig: 105, 114
+  offset: 0, 0
+  index: -1

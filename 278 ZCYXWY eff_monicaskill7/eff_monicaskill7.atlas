@@ -1,0 +1,272 @@
+
+eff_monicaskill7.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/andian_00
+  rotate: false
+  xy: 2, 688
+  size: 179, 306
+  orig: 179, 306
+  offset: 0, 0
+  index: -1
+effect/andian_01
+  rotate: false
+  xy: 2, 380
+  size: 179, 306
+  orig: 179, 306
+  offset: 0, 0
+  index: -1
+effect/andian_02
+  rotate: false
+  xy: 183, 688
+  size: 179, 306
+  orig: 179, 306
+  offset: 0, 0
+  index: -1
+effect/andian_03
+  rotate: false
+  xy: 2, 72
+  size: 179, 306
+  orig: 179, 306
+  offset: 0, 0
+  index: -1
+effect/andian_04
+  rotate: false
+  xy: 183, 380
+  size: 179, 306
+  orig: 179, 306
+  offset: 0, 0
+  index: -1
+effect/andian_05
+  rotate: false
+  xy: 364, 688
+  size: 179, 306
+  orig: 179, 306
+  offset: 0, 0
+  index: -1
+effect/andian_06
+  rotate: false
+  xy: 183, 72
+  size: 179, 306
+  orig: 179, 306
+  offset: 0, 0
+  index: -1
+effect/andian_07
+  rotate: false
+  xy: 364, 380
+  size: 179, 306
+  orig: 179, 306
+  offset: 0, 0
+  index: -1
+effect/bao_00
+  rotate: false
+  xy: 545, 417
+  size: 165, 109
+  orig: 165, 109
+  offset: 0, 0
+  index: -1
+effect/bao_01
+  rotate: false
+  xy: 1399, 885
+  size: 165, 109
+  orig: 165, 109
+  offset: 0, 0
+  index: -1
+effect/bao_02
+  rotate: true
+  xy: 433, 213
+  size: 165, 109
+  orig: 165, 109
+  offset: 0, 0
+  index: -1
+effect/bao_03
+  rotate: false
+  xy: 1399, 774
+  size: 165, 109
+  orig: 165, 109
+  offset: 0, 0
+  index: -1
+effect/boom00
+  rotate: false
+  xy: 995, 794
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+effect/boom01
+  rotate: false
+  xy: 995, 592
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+effect/boom02
+  rotate: false
+  xy: 1197, 794
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+effect/boom03
+  rotate: false
+  xy: 1197, 592
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+effect/dise
+  rotate: false
+  xy: 995, 567
+  size: 5, 5
+  orig: 5, 5
+  offset: 0, 0
+  index: -1
+effect/fazhen_0000
+  rotate: false
+  xy: 545, 762
+  size: 232, 232
+  orig: 232, 232
+  offset: 0, 0
+  index: -1
+effect/fazhen_0001
+  rotate: false
+  xy: 779, 780
+  size: 214, 214
+  orig: 214, 214
+  offset: 0, 0
+  index: -1
+effect/fazhenh
+  rotate: false
+  xy: 545, 528
+  size: 232, 232
+  orig: 232, 232
+  offset: 0, 0
+  index: -1
+effect/fazhenh2
+  rotate: false
+  xy: 779, 564
+  size: 214, 214
+  orig: 214, 214
+  offset: 0, 0
+  index: -1
+effect/fuwentiao
+  rotate: false
+  xy: 995, 574
+  size: 251, 16
+  orig: 251, 16
+  offset: 0, 0
+  index: -1
+effect/fuwentiaoh
+  rotate: false
+  xy: 1566, 978
+  size: 251, 16
+  orig: 251, 16
+  offset: 0, 0
+  index: -1
+effect/guangquan_0019
+  rotate: false
+  xy: 1399, 584
+  size: 130, 66
+  orig: 130, 66
+  offset: 0, 0
+  index: -1
+effect/guangshu
+  rotate: true
+  xy: 2, 3
+  size: 67, 250
+  orig: 67, 250
+  offset: 0, 0
+  index: -1
+effect/guangshuh
+  rotate: false
+  xy: 364, 128
+  size: 67, 250
+  orig: 67, 250
+  offset: 0, 0
+  index: -1
+effect/guangxiaohong
+  rotate: false
+  xy: 1566, 909
+  size: 200, 67
+  orig: 200, 67
+  offset: 0, 0
+  index: -1
+effect/liang
+  rotate: false
+  xy: 433, 111
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+effect/qiu01
+  rotate: false
+  xy: 254, 2
+  size: 68, 68
+  orig: 68, 68
+  offset: 0, 0
+  index: -1
+effect/qiu02
+  rotate: false
+  xy: 1521, 704
+  size: 68, 68
+  orig: 68, 68
+  offset: 0, 0
+  index: -1
+effect/qiu03
+  rotate: false
+  xy: 1591, 717
+  size: 68, 68
+  orig: 68, 68
+  offset: 0, 0
+  index: -1
+effect/qiu04
+  rotate: false
+  xy: 1661, 717
+  size: 68, 68
+  orig: 68, 68
+  offset: 0, 0
+  index: -1
+effect/shulei_00
+  rotate: false
+  xy: 1399, 652
+  size: 120, 120
+  orig: 120, 120
+  offset: 0, 0
+  index: -1
+effect/shulei_01
+  rotate: false
+  xy: 1566, 787
+  size: 120, 120
+  orig: 120, 120
+  offset: 0, 0
+  index: -1
+effect/shulei_02
+  rotate: false
+  xy: 1688, 787
+  size: 120, 120
+  orig: 120, 120
+  offset: 0, 0
+  index: -1
+effect/shulei_03
+  rotate: false
+  xy: 544, 232
+  size: 120, 120
+  orig: 120, 120
+  offset: 0, 0
+  index: -1
+effect/yumao
+  rotate: false
+  xy: 545, 354
+  size: 163, 61
+  orig: 163, 61
+  offset: 0, 0
+  index: -1
+effect/yumaoh
+  rotate: false
+  xy: 779, 501
+  size: 163, 61
+  orig: 163, 61
+  offset: 0, 0
+  index: -1

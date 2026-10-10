@@ -1,0 +1,69 @@
+
+eff_replisome.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/da
+  rotate: false
+  xy: 2, 9
+  size: 176, 171
+  orig: 176, 171
+  offset: 0, 0
+  index: -1
+effect/dise
+  rotate: false
+  xy: 2, 2
+  size: 5, 5
+  orig: 5, 5
+  offset: 0, 0
+  index: -1
+effect/line
+  rotate: false
+  xy: 2, 182
+  size: 326, 318
+  orig: 326, 318
+  offset: 0, 0
+  index: -1
+effect/waihuan_00
+  rotate: false
+  xy: 532, 300
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+effect/waihuan_01
+  rotate: false
+  xy: 734, 300
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+effect/waihuan_02
+  rotate: false
+  xy: 330, 98
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+effect/waihuan_03
+  rotate: false
+  xy: 330, 300
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+effect/xiao
+  rotate: false
+  xy: 936, 446
+  size: 51, 54
+  orig: 51, 54
+  offset: 0, 0
+  index: -1
+effect/zhong
+  rotate: false
+  xy: 532, 197
+  size: 102, 101
+  orig: 102, 101
+  offset: 0, 0
+  index: -1

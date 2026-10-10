@@ -1,0 +1,83 @@
+
+eff_muramasaburst2.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/guang
+  rotate: false
+  xy: 672, 125
+  size: 122, 122
+  orig: 122, 122
+  offset: 0, 0
+  index: -1
+effect/lizi01
+  rotate: false
+  xy: 2, 106
+  size: 132, 141
+  orig: 132, 141
+  offset: 0, 0
+  index: -1
+effect/lizi02
+  rotate: false
+  xy: 136, 106
+  size: 132, 141
+  orig: 132, 141
+  offset: 0, 0
+  index: -1
+effect/lizi03
+  rotate: false
+  xy: 270, 106
+  size: 132, 141
+  orig: 132, 141
+  offset: 0, 0
+  index: -1
+effect/lizi04
+  rotate: false
+  xy: 404, 106
+  size: 132, 141
+  orig: 132, 141
+  offset: 0, 0
+  index: -1
+effect/lizi05
+  rotate: false
+  xy: 538, 106
+  size: 132, 141
+  orig: 132, 141
+  offset: 0, 0
+  index: -1
+effect/xiaosan01
+  rotate: true
+  xy: 2, 2
+  size: 102, 127
+  orig: 102, 127
+  offset: 0, 0
+  index: -1
+effect/xiaosan02
+  rotate: true
+  xy: 796, 145
+  size: 102, 127
+  orig: 102, 127
+  offset: 0, 0
+  index: -1
+effect/xiaosan03
+  rotate: true
+  xy: 131, 2
+  size: 102, 127
+  orig: 102, 127
+  offset: 0, 0
+  index: -1
+effect/xiaosan04
+  rotate: true
+  xy: 260, 2
+  size: 102, 127
+  orig: 102, 127
+  offset: 0, 0
+  index: -1
+effect/yuan
+  rotate: false
+  xy: 925, 152
+  size: 95, 95
+  orig: 95, 95
+  offset: 0, 0
+  index: -1

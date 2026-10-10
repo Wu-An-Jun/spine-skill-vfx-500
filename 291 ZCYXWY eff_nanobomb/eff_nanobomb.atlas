@@ -1,0 +1,20 @@
+
+eff_nanobomb.png
+size: 512,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+star_l
+  rotate: false
+  xy: 2, 2
+  size: 171, 96
+  orig: 171, 96
+  offset: 0, 0
+  index: -1
+star_s
+  rotate: false
+  xy: 175, 14
+  size: 84, 84
+  orig: 84, 84
+  offset: 0, 0
+  index: -1

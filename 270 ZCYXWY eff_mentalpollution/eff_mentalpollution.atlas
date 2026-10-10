@@ -1,0 +1,181 @@
+
+eff_mentalpollution.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/sheng01
+  rotate: false
+  xy: 2, 852
+  size: 190, 143
+  orig: 190, 143
+  offset: 0, 0
+  index: -1
+effect/sheng03
+  rotate: false
+  xy: 2, 707
+  size: 190, 143
+  orig: 190, 143
+  offset: 0, 0
+  index: -1
+effect/sheng05
+  rotate: false
+  xy: 194, 852
+  size: 190, 143
+  orig: 190, 143
+  offset: 0, 0
+  index: -1
+effect/sheng07
+  rotate: false
+  xy: 2, 562
+  size: 190, 143
+  orig: 190, 143
+  offset: 0, 0
+  index: -1
+effect/sheng09
+  rotate: false
+  xy: 194, 707
+  size: 190, 143
+  orig: 190, 143
+  offset: 0, 0
+  index: -1
+effect/yan_01
+  rotate: false
+  xy: 2, 99
+  size: 95, 171
+  orig: 95, 171
+  offset: 0, 0
+  index: -1
+effect/yan_02
+  rotate: true
+  xy: 194, 320
+  size: 95, 171
+  orig: 95, 171
+  offset: 0, 0
+  index: -1
+effect/yan_03
+  rotate: true
+  xy: 386, 465
+  size: 95, 171
+  orig: 95, 171
+  offset: 0, 0
+  index: -1
+effect/yan_04
+  rotate: true
+  xy: 578, 610
+  size: 95, 171
+  orig: 95, 171
+  offset: 0, 0
+  index: -1
+effect/yan_05
+  rotate: true
+  xy: 770, 755
+  size: 95, 171
+  orig: 95, 171
+  offset: 0, 0
+  index: -1
+effect/yan_06
+  rotate: false
+  xy: 99, 99
+  size: 95, 171
+  orig: 95, 171
+  offset: 0, 0
+  index: -1
+effect/yan_07
+  rotate: true
+  xy: 2, 2
+  size: 95, 171
+  orig: 95, 171
+  offset: 0, 0
+  index: -1
+effect/yan_08
+  rotate: false
+  xy: 196, 147
+  size: 95, 171
+  orig: 95, 171
+  offset: 0, 0
+  index: -1
+effect/yan_09
+  rotate: false
+  xy: 293, 147
+  size: 95, 171
+  orig: 95, 171
+  offset: 0, 0
+  index: -1
+effect/yan_10
+  rotate: true
+  xy: 578, 513
+  size: 95, 171
+  orig: 95, 171
+  offset: 0, 0
+  index: -1
+effect/zhuan01
+  rotate: false
+  xy: 386, 852
+  size: 190, 143
+  orig: 190, 143
+  offset: 0, 0
+  index: -1
+effect/zhuan02
+  rotate: false
+  xy: 2, 417
+  size: 190, 143
+  orig: 190, 143
+  offset: 0, 0
+  index: -1
+effect/zhuan03
+  rotate: false
+  xy: 194, 562
+  size: 190, 143
+  orig: 190, 143
+  offset: 0, 0
+  index: -1
+effect/zhuan04
+  rotate: false
+  xy: 386, 707
+  size: 190, 143
+  orig: 190, 143
+  offset: 0, 0
+  index: -1
+effect/zhuan05
+  rotate: false
+  xy: 578, 852
+  size: 190, 143
+  orig: 190, 143
+  offset: 0, 0
+  index: -1
+effect/zhuan06
+  rotate: false
+  xy: 2, 272
+  size: 190, 143
+  orig: 190, 143
+  offset: 0, 0
+  index: -1
+effect/zhuan07
+  rotate: false
+  xy: 194, 417
+  size: 190, 143
+  orig: 190, 143
+  offset: 0, 0
+  index: -1
+effect/zhuan08
+  rotate: false
+  xy: 386, 562
+  size: 190, 143
+  orig: 190, 143
+  offset: 0, 0
+  index: -1
+effect/zhuan09
+  rotate: false
+  xy: 578, 707
+  size: 190, 143
+  orig: 190, 143
+  offset: 0, 0
+  index: -1
+effect/zhuan10
+  rotate: false
+  xy: 770, 852
+  size: 190, 143
+  orig: 190, 143
+  offset: 0, 0
+  index: -1

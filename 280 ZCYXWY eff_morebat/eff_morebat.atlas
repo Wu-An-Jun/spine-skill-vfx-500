@@ -1,0 +1,41 @@
+
+eff_morebat.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/bat00
+  rotate: false
+  xy: 2, 2
+  size: 150, 184
+  orig: 150, 184
+  offset: 0, 0
+  index: -1
+effect/bat01
+  rotate: false
+  xy: 154, 2
+  size: 150, 184
+  orig: 150, 184
+  offset: 0, 0
+  index: -1
+effect/bat02
+  rotate: false
+  xy: 306, 2
+  size: 150, 184
+  orig: 150, 184
+  offset: 0, 0
+  index: -1
+effect/bat03
+  rotate: false
+  xy: 458, 2
+  size: 150, 184
+  orig: 150, 184
+  offset: 0, 0
+  index: -1
+effect/bat04
+  rotate: false
+  xy: 610, 2
+  size: 150, 184
+  orig: 150, 184
+  offset: 0, 0
+  index: -1

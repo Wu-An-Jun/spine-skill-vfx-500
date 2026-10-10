@@ -1,0 +1,90 @@
+
+eff_railgunburst.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/baodian01
+  rotate: false
+  xy: 2, 126
+  size: 122, 122
+  orig: 122, 122
+  offset: 0, 0
+  index: -1
+effect/baodian02
+  rotate: false
+  xy: 2, 2
+  size: 122, 122
+  orig: 122, 122
+  offset: 0, 0
+  index: -1
+effect/baodian03
+  rotate: false
+  xy: 126, 126
+  size: 122, 122
+  orig: 122, 122
+  offset: 0, 0
+  index: -1
+effect/baodian04
+  rotate: false
+  xy: 126, 2
+  size: 122, 122
+  orig: 122, 122
+  offset: 0, 0
+  index: -1
+effect/baodian05
+  rotate: false
+  xy: 250, 126
+  size: 122, 122
+  orig: 122, 122
+  offset: 0, 0
+  index: -1
+effect/baodian06
+  rotate: false
+  xy: 250, 2
+  size: 122, 122
+  orig: 122, 122
+  offset: 0, 0
+  index: -1
+effect/dian01
+  rotate: false
+  xy: 498, 163
+  size: 85, 85
+  orig: 85, 85
+  offset: 0, 0
+  index: -1
+effect/dian02
+  rotate: false
+  xy: 498, 76
+  size: 85, 85
+  orig: 85, 85
+  offset: 0, 0
+  index: -1
+effect/dian03
+  rotate: false
+  xy: 585, 163
+  size: 85, 85
+  orig: 85, 85
+  offset: 0, 0
+  index: -1
+effect/dian04
+  rotate: false
+  xy: 585, 76
+  size: 85, 85
+  orig: 85, 85
+  offset: 0, 0
+  index: -1
+effect/guang
+  rotate: false
+  xy: 374, 126
+  size: 122, 122
+  orig: 122, 122
+  offset: 0, 0
+  index: -1
+effect/guang01
+  rotate: false
+  xy: 374, 2
+  size: 122, 122
+  orig: 122, 122
+  offset: 0, 0
+  index: -1

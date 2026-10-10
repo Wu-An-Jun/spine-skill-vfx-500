@@ -1,0 +1,83 @@
+
+eff_place.png
+size: 1024,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/guang_01
+  rotate: false
+  xy: 2, 2
+  size: 76, 76
+  orig: 76, 76
+  offset: 0, 0
+  index: -1
+effect/guang_02
+  rotate: false
+  xy: 80, 2
+  size: 76, 76
+  orig: 76, 76
+  offset: 0, 0
+  index: -1
+effect/guang_03
+  rotate: false
+  xy: 158, 2
+  size: 76, 76
+  orig: 76, 76
+  offset: 0, 0
+  index: -1
+effect/guang_04
+  rotate: false
+  xy: 236, 2
+  size: 76, 76
+  orig: 76, 76
+  offset: 0, 0
+  index: -1
+effect/guang_05
+  rotate: false
+  xy: 314, 2
+  size: 76, 76
+  orig: 76, 76
+  offset: 0, 0
+  index: -1
+effect/guang_06
+  rotate: false
+  xy: 392, 2
+  size: 76, 76
+  orig: 76, 76
+  offset: 0, 0
+  index: -1
+effect/guang_07
+  rotate: false
+  xy: 470, 2
+  size: 76, 76
+  orig: 76, 76
+  offset: 0, 0
+  index: -1
+effect/guang_08
+  rotate: false
+  xy: 548, 2
+  size: 76, 76
+  orig: 76, 76
+  offset: 0, 0
+  index: -1
+effect/guang_09
+  rotate: false
+  xy: 626, 2
+  size: 76, 76
+  orig: 76, 76
+  offset: 0, 0
+  index: -1
+effect/guang_10
+  rotate: false
+  xy: 704, 2
+  size: 76, 76
+  orig: 76, 76
+  offset: 0, 0
+  index: -1
+effect/kuai01
+  rotate: false
+  xy: 782, 30
+  size: 48, 48
+  orig: 48, 48
+  offset: 0, 0
+  index: -1

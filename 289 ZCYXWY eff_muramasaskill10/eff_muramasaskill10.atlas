@@ -1,0 +1,279 @@
+
+eff_muramasaskill10.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/changguang
+  rotate: true
+  xy: 859, 14
+  size: 64, 128
+  orig: 64, 128
+  offset: 0, 0
+  index: -1
+effect/changtiao
+  rotate: true
+  xy: 2, 23
+  size: 121, 611
+  orig: 121, 611
+  offset: 0, 0
+  index: -1
+effect/cihong
+  rotate: false
+  xy: 554, 150
+  size: 256, 50
+  orig: 256, 50
+  offset: 0, 0
+  index: -1
+effect/daoguang01
+  rotate: false
+  xy: 615, 2
+  size: 120, 146
+  orig: 120, 146
+  offset: 0, 0
+  index: -1
+effect/dise
+  rotate: false
+  xy: 1306, 477
+  size: 5, 5
+  orig: 5, 5
+  offset: 0, 0
+  index: -1
+effect/heng_00
+  rotate: false
+  xy: 554, 337
+  size: 615, 133
+  orig: 615, 133
+  offset: 0, 0
+  index: -1
+effect/heng_01
+  rotate: false
+  xy: 1306, 889
+  size: 615, 133
+  orig: 615, 133
+  offset: 0, 0
+  index: -1
+effect/heng_02
+  rotate: false
+  xy: 554, 202
+  size: 615, 133
+  orig: 615, 133
+  offset: 0, 0
+  index: -1
+effect/heng_03
+  rotate: false
+  xy: 1306, 754
+  size: 615, 133
+  orig: 615, 133
+  offset: 0, 0
+  index: -1
+effect/heng_04
+  rotate: false
+  xy: 1306, 619
+  size: 615, 133
+  orig: 615, 133
+  offset: 0, 0
+  index: -1
+effect/heng_05
+  rotate: false
+  xy: 1306, 484
+  size: 615, 133
+  orig: 615, 133
+  offset: 0, 0
+  index: -1
+effect/hongshandian_00
+  rotate: false
+  xy: 1923, 899
+  size: 123, 123
+  orig: 123, 123
+  offset: 0, 0
+  index: -1
+effect/hongshandian_01
+  rotate: false
+  xy: 1923, 774
+  size: 123, 123
+  orig: 123, 123
+  offset: 0, 0
+  index: -1
+effect/hongshandian_02
+  rotate: false
+  xy: 1923, 649
+  size: 123, 123
+  orig: 123, 123
+  offset: 0, 0
+  index: -1
+effect/hongshandian_03
+  rotate: false
+  xy: 1923, 524
+  size: 123, 123
+  orig: 123, 123
+  offset: 0, 0
+  index: -1
+effect/hongzhuanjiao_00
+  rotate: false
+  xy: 1113, 80
+  size: 110, 120
+  orig: 110, 120
+  offset: 0, 0
+  index: -1
+effect/hongzhuanjiao_01
+  rotate: true
+  xy: 1923, 412
+  size: 110, 120
+  orig: 110, 120
+  offset: 0, 0
+  index: -1
+effect/hongzhuanjiao_02
+  rotate: true
+  xy: 1874, 56
+  size: 110, 120
+  orig: 110, 120
+  offset: 0, 0
+  index: -1
+effect/hongzhuanjiao_03
+  rotate: true
+  xy: 1352, 48
+  size: 110, 120
+  orig: 110, 120
+  offset: 0, 0
+  index: -1
+effect/huomiao_00
+  rotate: true
+  xy: 737, 23
+  size: 125, 120
+  orig: 125, 120
+  offset: 0, 0
+  index: -1
+effect/huomiao_01
+  rotate: false
+  xy: 859, 80
+  size: 125, 120
+  orig: 125, 120
+  offset: 0, 0
+  index: -1
+effect/huomiao_02
+  rotate: false
+  xy: 986, 80
+  size: 125, 120
+  orig: 125, 120
+  offset: 0, 0
+  index: -1
+effect/huomiao_03
+  rotate: false
+  xy: 1225, 98
+  size: 125, 120
+  orig: 125, 120
+  offset: 0, 0
+  index: -1
+effect/huomiao_04
+  rotate: false
+  xy: 1909, 290
+  size: 125, 120
+  orig: 125, 120
+  offset: 0, 0
+  index: -1
+effect/huomiao_05
+  rotate: false
+  xy: 1877, 168
+  size: 125, 120
+  orig: 125, 120
+  offset: 0, 0
+  index: -1
+effect/huomiao_06
+  rotate: false
+  xy: 1747, 70
+  size: 125, 120
+  orig: 125, 120
+  offset: 0, 0
+  index: -1
+effect/liang
+  rotate: false
+  xy: 1474, 58
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+effect/lizi02
+  rotate: false
+  xy: 1423, 322
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: -1
+effect/lizi03
+  rotate: false
+  xy: 1585, 322
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: -1
+effect/lizi04
+  rotate: false
+  xy: 1747, 322
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: -1
+effect/lizi06
+  rotate: false
+  xy: 1423, 160
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: -1
+effect/lizi07
+  rotate: false
+  xy: 1585, 160
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: -1
+effect/qiedaog
+  rotate: false
+  xy: 1171, 220
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: -1
+effect/quan
+  rotate: false
+  xy: 1747, 192
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+effect/shu_00
+  rotate: false
+  xy: 2, 472
+  size: 324, 550
+  orig: 324, 550
+  offset: 0, 0
+  index: -1
+effect/shu_01
+  rotate: false
+  xy: 328, 472
+  size: 324, 550
+  orig: 324, 550
+  offset: 0, 0
+  index: -1
+effect/shu_02
+  rotate: true
+  xy: 2, 146
+  size: 324, 550
+  orig: 324, 550
+  offset: 0, 0
+  index: -1
+effect/shu_03
+  rotate: false
+  xy: 654, 472
+  size: 324, 550
+  orig: 324, 550
+  offset: 0, 0
+  index: -1
+effect/shu_04
+  rotate: false
+  xy: 980, 472
+  size: 324, 550
+  orig: 324, 550
+  offset: 0, 0
+  index: -1

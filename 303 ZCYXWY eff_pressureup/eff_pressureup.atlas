@@ -1,0 +1,146 @@
+
+eff_pressureup.png
+size: 2048,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+baiquan
+  rotate: false
+  xy: 121, 52
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+baodian00
+  rotate: false
+  xy: 2, 306
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+baodian01
+  rotate: false
+  xy: 2, 104
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+baodian02
+  rotate: false
+  xy: 204, 306
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+baodian03
+  rotate: false
+  xy: 204, 104
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+baodian04
+  rotate: false
+  xy: 406, 306
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+baodian05
+  rotate: false
+  xy: 406, 104
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+dian2
+  rotate: false
+  xy: 1128, 114
+  size: 60, 60
+  orig: 60, 60
+  offset: 0, 0
+  index: -1
+liang
+  rotate: false
+  xy: 1258, 406
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+quan
+  rotate: false
+  xy: 1128, 176
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+zhongya00
+  rotate: false
+  xy: 608, 306
+  size: 128, 200
+  orig: 128, 200
+  offset: 0, 0
+  index: -1
+zhongya01
+  rotate: false
+  xy: 608, 104
+  size: 128, 200
+  orig: 128, 200
+  offset: 0, 0
+  index: -1
+zhongya02
+  rotate: false
+  xy: 738, 306
+  size: 128, 200
+  orig: 128, 200
+  offset: 0, 0
+  index: -1
+zhongya03
+  rotate: false
+  xy: 738, 104
+  size: 128, 200
+  orig: 128, 200
+  offset: 0, 0
+  index: -1
+zhongya04
+  rotate: false
+  xy: 868, 306
+  size: 128, 200
+  orig: 128, 200
+  offset: 0, 0
+  index: -1
+zhongya05
+  rotate: false
+  xy: 868, 104
+  size: 128, 200
+  orig: 128, 200
+  offset: 0, 0
+  index: -1
+zhongya06
+  rotate: false
+  xy: 998, 306
+  size: 128, 200
+  orig: 128, 200
+  offset: 0, 0
+  index: -1
+zhongya07
+  rotate: false
+  xy: 998, 104
+  size: 128, 200
+  orig: 128, 200
+  offset: 0, 0
+  index: -1
+zhongya08
+  rotate: false
+  xy: 1128, 306
+  size: 128, 200
+  orig: 128, 200
+  offset: 0, 0
+  index: -1
+zhuguang
+  rotate: true
+  xy: 2, 2
+  size: 100, 117
+  orig: 100, 117
+  offset: 0, 0
+  index: -1

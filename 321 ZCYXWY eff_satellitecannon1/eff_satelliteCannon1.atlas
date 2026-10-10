@@ -1,0 +1,188 @@
+
+eff_satelliteCannon1.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/bao01
+  rotate: false
+  xy: 500, 209
+  size: 122, 122
+  orig: 122, 122
+  offset: 0, 0
+  index: -1
+effect/bao02
+  rotate: false
+  xy: 624, 209
+  size: 122, 122
+  orig: 122, 122
+  offset: 0, 0
+  index: -1
+effect/bao03
+  rotate: false
+  xy: 749, 287
+  size: 122, 122
+  orig: 122, 122
+  offset: 0, 0
+  index: -1
+effect/bao04
+  rotate: false
+  xy: 873, 287
+  size: 122, 122
+  orig: 122, 122
+  offset: 0, 0
+  index: -1
+effect/bao05
+  rotate: false
+  xy: 748, 163
+  size: 122, 122
+  orig: 122, 122
+  offset: 0, 0
+  index: -1
+effect/bao06
+  rotate: false
+  xy: 872, 163
+  size: 122, 122
+  orig: 122, 122
+  offset: 0, 0
+  index: -1
+effect/dian
+  rotate: false
+  xy: 251, 34
+  size: 122, 122
+  orig: 122, 122
+  offset: 0, 0
+  index: -1
+effect/dian01
+  rotate: false
+  xy: 501, 87
+  size: 57, 57
+  orig: 57, 57
+  offset: 0, 0
+  index: -1
+effect/dilie
+  rotate: true
+  xy: 375, 34
+  size: 122, 61
+  orig: 122, 61
+  offset: 0, 0
+  index: -1
+effect/ditu
+  rotate: false
+  xy: 251, 158
+  size: 190, 95
+  orig: 190, 95
+  offset: 0, 0
+  index: -1
+effect/ditu01
+  rotate: false
+  xy: 2, 2
+  size: 190, 95
+  orig: 190, 95
+  offset: 0, 0
+  index: -1
+effect/guang
+  rotate: true
+  xy: 438, 34
+  size: 122, 61
+  orig: 122, 61
+  offset: 0, 0
+  index: -1
+effect/guang_01
+  rotate: false
+  xy: 2, 411
+  size: 247, 76
+  orig: 247, 76
+  offset: 0, 0
+  index: -1
+effect/guang_02
+  rotate: false
+  xy: 2, 333
+  size: 247, 76
+  orig: 247, 76
+  offset: 0, 0
+  index: -1
+effect/guang_03
+  rotate: false
+  xy: 251, 411
+  size: 247, 76
+  orig: 247, 76
+  offset: 0, 0
+  index: -1
+effect/guang_04
+  rotate: false
+  xy: 2, 255
+  size: 247, 76
+  orig: 247, 76
+  offset: 0, 0
+  index: -1
+effect/guang_05
+  rotate: false
+  xy: 251, 333
+  size: 247, 76
+  orig: 247, 76
+  offset: 0, 0
+  index: -1
+effect/guang_06
+  rotate: false
+  xy: 500, 411
+  size: 247, 76
+  orig: 247, 76
+  offset: 0, 0
+  index: -1
+effect/guang_07
+  rotate: false
+  xy: 2, 177
+  size: 247, 76
+  orig: 247, 76
+  offset: 0, 0
+  index: -1
+effect/guang_08
+  rotate: false
+  xy: 251, 255
+  size: 247, 76
+  orig: 247, 76
+  offset: 0, 0
+  index: -1
+effect/guang_09
+  rotate: false
+  xy: 500, 333
+  size: 247, 76
+  orig: 247, 76
+  offset: 0, 0
+  index: -1
+effect/guang_10
+  rotate: false
+  xy: 749, 411
+  size: 247, 76
+  orig: 247, 76
+  offset: 0, 0
+  index: -1
+effect/guang_11
+  rotate: false
+  xy: 2, 99
+  size: 247, 76
+  orig: 247, 76
+  offset: 0, 0
+  index: -1
+effect/guang_12
+  rotate: false
+  xy: 2, 99
+  size: 247, 76
+  orig: 247, 76
+  offset: 0, 0
+  index: -1
+effect/tiao
+  rotate: false
+  xy: 443, 158
+  size: 19, 95
+  orig: 19, 95
+  offset: 0, 0
+  index: -1
+effect/yuan
+  rotate: false
+  xy: 501, 146
+  size: 122, 61
+  orig: 122, 61
+  offset: 0, 0
+  index: -1

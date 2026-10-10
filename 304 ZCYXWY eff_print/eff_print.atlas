@@ -1,0 +1,90 @@
+
+eff_print.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/dian
+  rotate: false
+  xy: 247, 228
+  size: 57, 57
+  orig: 57, 57
+  offset: 0, 0
+  index: -1
+effect/fazhen_hong
+  rotate: false
+  xy: 2, 777
+  size: 243, 243
+  orig: 243, 243
+  offset: 0, 0
+  index: -1
+effect/fazhen_huang
+  rotate: false
+  xy: 2, 532
+  size: 243, 243
+  orig: 243, 243
+  offset: 0, 0
+  index: -1
+effect/fazhen_lan
+  rotate: false
+  xy: 247, 777
+  size: 243, 243
+  orig: 243, 243
+  offset: 0, 0
+  index: -1
+effect/fazhen_lv
+  rotate: false
+  xy: 2, 287
+  size: 243, 243
+  orig: 243, 243
+  offset: 0, 0
+  index: -1
+effect/guang
+  rotate: false
+  xy: 247, 532
+  size: 243, 243
+  orig: 243, 243
+  offset: 0, 0
+  index: -1
+effect/quan
+  rotate: false
+  xy: 492, 777
+  size: 243, 243
+  orig: 243, 243
+  offset: 0, 0
+  index: -1
+effect/tiao01
+  rotate: true
+  xy: 2, 2
+  size: 38, 162
+  orig: 38, 162
+  offset: 0, 0
+  index: -1
+effect/yuan
+  rotate: false
+  xy: 2, 42
+  size: 243, 243
+  orig: 243, 243
+  offset: 0, 0
+  index: -1
+effect/yuan01
+  rotate: false
+  xy: 247, 287
+  size: 243, 243
+  orig: 243, 243
+  offset: 0, 0
+  index: -1
+effect/yuan02
+  rotate: false
+  xy: 492, 532
+  size: 243, 243
+  orig: 243, 243
+  offset: 0, 0
+  index: -1
+effect/yuan03
+  rotate: false
+  xy: 737, 777
+  size: 243, 243
+  orig: 243, 243
+  offset: 0, 0
+  index: -1

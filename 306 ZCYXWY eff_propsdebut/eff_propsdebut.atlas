@@ -1,0 +1,97 @@
+
+eff_propsdebut.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/dian01
+  rotate: false
+  xy: 867, 196
+  size: 48, 48
+  orig: 48, 48
+  offset: 0, 0
+  index: -1
+effect/guang
+  rotate: false
+  xy: 770, 133
+  size: 95, 111
+  orig: 95, 111
+  offset: 0, 0
+  index: -1
+effect/kuai
+  rotate: true
+  xy: 2, 2
+  size: 48, 95
+  orig: 48, 95
+  offset: 0, 0
+  index: -1
+effect/pian
+  rotate: false
+  xy: 646, 63
+  size: 57, 57
+  orig: 57, 57
+  offset: 0, 0
+  index: -1
+effect/yuan
+  rotate: false
+  xy: 646, 122
+  size: 122, 122
+  orig: 122, 122
+  offset: 0, 0
+  index: -1
+effect/zhuan01
+  rotate: false
+  xy: 2, 149
+  size: 159, 95
+  orig: 159, 95
+  offset: 0, 0
+  index: -1
+effect/zhuan02
+  rotate: false
+  xy: 163, 149
+  size: 159, 95
+  orig: 159, 95
+  offset: 0, 0
+  index: -1
+effect/zhuan03
+  rotate: false
+  xy: 324, 149
+  size: 159, 95
+  orig: 159, 95
+  offset: 0, 0
+  index: -1
+effect/zhuan04
+  rotate: false
+  xy: 485, 149
+  size: 159, 95
+  orig: 159, 95
+  offset: 0, 0
+  index: -1
+effect/zhuan1
+  rotate: false
+  xy: 2, 52
+  size: 159, 95
+  orig: 159, 95
+  offset: 0, 0
+  index: -1
+effect/zhuan2
+  rotate: false
+  xy: 163, 52
+  size: 159, 95
+  orig: 159, 95
+  offset: 0, 0
+  index: -1
+effect/zhuan3
+  rotate: false
+  xy: 324, 52
+  size: 159, 95
+  orig: 159, 95
+  offset: 0, 0
+  index: -1
+effect/zhuan4
+  rotate: false
+  xy: 485, 52
+  size: 159, 95
+  orig: 159, 95
+  offset: 0, 0
+  index: -1

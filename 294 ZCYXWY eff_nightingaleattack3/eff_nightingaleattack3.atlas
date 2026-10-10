@@ -1,0 +1,27 @@
+
+eff_nightingaleattack3.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/baodian03
+  rotate: false
+  xy: 132, 30
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+effect/guangxiao
+  rotate: false
+  xy: 2, 132
+  size: 200, 67
+  orig: 200, 67
+  offset: 0, 0
+  index: -1
+effect/yuan
+  rotate: false
+  xy: 2, 2
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1

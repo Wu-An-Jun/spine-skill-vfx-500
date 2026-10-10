@@ -1,0 +1,160 @@
+
+eff_mechanicalsword.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/flash
+  rotate: false
+  xy: 1892, 508
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+effect/guangxiao
+  rotate: true
+  xy: 1892, 560
+  size: 200, 67
+  orig: 200, 67
+  offset: 0, 0
+  index: -1
+effect/jianguang
+  rotate: true
+  xy: 1892, 762
+  size: 250, 113
+  orig: 250, 113
+  offset: 0, 0
+  index: -1
+effect/ring_01
+  rotate: false
+  xy: 2, 643
+  size: 268, 369
+  orig: 268, 369
+  offset: 0, 0
+  index: -1
+effect/ring_02
+  rotate: false
+  xy: 2, 272
+  size: 268, 369
+  orig: 268, 369
+  offset: 0, 0
+  index: -1
+effect/ring_03
+  rotate: false
+  xy: 272, 643
+  size: 268, 369
+  orig: 268, 369
+  offset: 0, 0
+  index: -1
+effect/ring_04
+  rotate: false
+  xy: 272, 272
+  size: 268, 369
+  orig: 268, 369
+  offset: 0, 0
+  index: -1
+effect/ring_05
+  rotate: true
+  xy: 2, 2
+  size: 268, 369
+  orig: 268, 369
+  offset: 0, 0
+  index: -1
+effect/ring_06
+  rotate: false
+  xy: 542, 643
+  size: 268, 369
+  orig: 268, 369
+  offset: 0, 0
+  index: -1
+effect/ring_07
+  rotate: false
+  xy: 542, 272
+  size: 268, 369
+  orig: 268, 369
+  offset: 0, 0
+  index: -1
+effect/ring_08
+  rotate: true
+  xy: 373, 2
+  size: 268, 369
+  orig: 268, 369
+  offset: 0, 0
+  index: -1
+effect/ring_09
+  rotate: false
+  xy: 812, 643
+  size: 268, 369
+  orig: 268, 369
+  offset: 0, 0
+  index: -1
+effect/ring_10
+  rotate: false
+  xy: 812, 272
+  size: 268, 369
+  orig: 268, 369
+  offset: 0, 0
+  index: -1
+effect/ring_11
+  rotate: false
+  xy: 1082, 643
+  size: 268, 369
+  orig: 268, 369
+  offset: 0, 0
+  index: -1
+effect/ring_12
+  rotate: false
+  xy: 1082, 272
+  size: 268, 369
+  orig: 268, 369
+  offset: 0, 0
+  index: -1
+effect/ring_13
+  rotate: true
+  xy: 744, 2
+  size: 268, 369
+  orig: 268, 369
+  offset: 0, 0
+  index: -1
+effect/ring_14
+  rotate: false
+  xy: 1352, 643
+  size: 268, 369
+  orig: 268, 369
+  offset: 0, 0
+  index: -1
+effect/ring_15
+  rotate: false
+  xy: 1352, 272
+  size: 268, 369
+  orig: 268, 369
+  offset: 0, 0
+  index: -1
+effect/ring_16
+  rotate: true
+  xy: 1115, 2
+  size: 268, 369
+  orig: 268, 369
+  offset: 0, 0
+  index: -1
+effect/ring_17
+  rotate: false
+  xy: 1622, 643
+  size: 268, 369
+  orig: 268, 369
+  offset: 0, 0
+  index: -1
+effect/ring_18
+  rotate: false
+  xy: 1622, 272
+  size: 268, 369
+  orig: 268, 369
+  offset: 0, 0
+  index: -1
+effect/ring_19
+  rotate: true
+  xy: 1486, 2
+  size: 268, 369
+  orig: 268, 369
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,174 @@
+
+eff_replisomemid.png
+size: 2048,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/feng1
+  rotate: true
+  xy: 2, 2
+  size: 51, 145
+  orig: 51, 145
+  offset: 0, 0
+  index: -1
+effect/feng2
+  rotate: true
+  xy: 909, 44
+  size: 87, 116
+  orig: 87, 116
+  offset: 0, 0
+  index: -1
+effect/feng3
+  rotate: false
+  xy: 1546, 80
+  size: 78, 51
+  orig: 78, 51
+  offset: 0, 0
+  index: -1
+effect/feng4
+  rotate: false
+  xy: 151, 76
+  size: 150, 164
+  orig: 150, 164
+  offset: 0, 0
+  index: -1
+effect/huo1
+  rotate: false
+  xy: 1326, 47
+  size: 111, 84
+  orig: 111, 84
+  offset: 0, 0
+  index: -1
+effect/huo2
+  rotate: true
+  xy: 303, 146
+  size: 94, 180
+  orig: 94, 180
+  offset: 0, 0
+  index: -1
+effect/huo3
+  rotate: false
+  xy: 779, 43
+  size: 128, 88
+  orig: 128, 88
+  offset: 0, 0
+  index: -1
+effect/lin1
+  rotate: true
+  xy: 1177, 86
+  size: 45, 147
+  orig: 45, 147
+  offset: 0, 0
+  index: -1
+effect/lin2
+  rotate: false
+  xy: 1439, 26
+  size: 105, 105
+  orig: 105, 105
+  offset: 0, 0
+  index: -1
+effect/lin3
+  rotate: false
+  xy: 2, 55
+  size: 147, 185
+  orig: 147, 185
+  offset: 0, 0
+  index: -1
+effect/moshui_00
+  rotate: true
+  xy: 485, 133
+  size: 107, 166
+  orig: 107, 166
+  offset: 0, 0
+  index: -1
+effect/moshui_01
+  rotate: true
+  xy: 653, 133
+  size: 107, 166
+  orig: 107, 166
+  offset: 0, 0
+  index: -1
+effect/moshui_02
+  rotate: true
+  xy: 821, 133
+  size: 107, 166
+  orig: 107, 166
+  offset: 0, 0
+  index: -1
+effect/moshui_03
+  rotate: true
+  xy: 989, 133
+  size: 107, 166
+  orig: 107, 166
+  offset: 0, 0
+  index: -1
+effect/moshui_04
+  rotate: true
+  xy: 1157, 133
+  size: 107, 166
+  orig: 107, 166
+  offset: 0, 0
+  index: -1
+effect/moshui_05
+  rotate: true
+  xy: 1325, 133
+  size: 107, 166
+  orig: 107, 166
+  offset: 0, 0
+  index: -1
+effect/moshui_06
+  rotate: true
+  xy: 1493, 133
+  size: 107, 166
+  orig: 107, 166
+  offset: 0, 0
+  index: -1
+effect/moshui_07
+  rotate: true
+  xy: 1661, 133
+  size: 107, 166
+  orig: 107, 166
+  offset: 0, 0
+  index: -1
+effect/moshui_08
+  rotate: true
+  xy: 1829, 133
+  size: 107, 166
+  orig: 107, 166
+  offset: 0, 0
+  index: -1
+effect/moshui_09
+  rotate: true
+  xy: 303, 37
+  size: 107, 166
+  orig: 107, 166
+  offset: 0, 0
+  index: -1
+effect/moshui_10
+  rotate: true
+  xy: 471, 24
+  size: 107, 166
+  orig: 107, 166
+  offset: 0, 0
+  index: -1
+effect/shan1
+  rotate: false
+  xy: 639, 44
+  size: 138, 87
+  orig: 138, 87
+  offset: 0, 0
+  index: -1
+effect/shan2
+  rotate: true
+  xy: 1027, 83
+  size: 48, 148
+  orig: 48, 148
+  offset: 0, 0
+  index: -1
+effect/shan3
+  rotate: false
+  xy: 1997, 155
+  size: 38, 85
+  orig: 38, 85
+  offset: 0, 0
+  index: -1

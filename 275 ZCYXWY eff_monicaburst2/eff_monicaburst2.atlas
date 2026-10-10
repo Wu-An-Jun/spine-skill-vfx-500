@@ -1,0 +1,153 @@
+
+eff_monicaburst2.png
+size: 2048,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/attack2_baodian01
+  rotate: false
+  xy: 758, 366
+  size: 150, 139
+  orig: 150, 139
+  offset: 0, 0
+  index: -1
+effect/attack2_baodian03
+  rotate: false
+  xy: 758, 225
+  size: 150, 139
+  orig: 150, 139
+  offset: 0, 0
+  index: -1
+effect/attack2_baodian05
+  rotate: false
+  xy: 910, 366
+  size: 150, 139
+  orig: 150, 139
+  offset: 0, 0
+  index: -1
+effect/attack2_baodian07
+  rotate: false
+  xy: 910, 225
+  size: 150, 139
+  orig: 150, 139
+  offset: 0, 0
+  index: -1
+effect/bao_00
+  rotate: false
+  xy: 2, 2
+  size: 132, 87
+  orig: 132, 87
+  offset: 0, 0
+  index: -1
+effect/bao_01
+  rotate: false
+  xy: 1198, 293
+  size: 132, 87
+  orig: 132, 87
+  offset: 0, 0
+  index: -1
+effect/bao_02
+  rotate: false
+  xy: 1334, 418
+  size: 132, 87
+  orig: 132, 87
+  offset: 0, 0
+  index: -1
+effect/bao_03
+  rotate: false
+  xy: 136, 2
+  size: 132, 87
+  orig: 132, 87
+  offset: 0, 0
+  index: -1
+effect/juqibaodian_0033
+  rotate: false
+  xy: 758, 100
+  size: 134, 123
+  orig: 134, 123
+  offset: 0, 0
+  index: -1
+effect/juqibaodian_0035
+  rotate: false
+  xy: 1062, 382
+  size: 134, 123
+  orig: 134, 123
+  offset: 0, 0
+  index: -1
+effect/juqibaodian_0036
+  rotate: false
+  xy: 894, 100
+  size: 134, 123
+  orig: 134, 123
+  offset: 0, 0
+  index: -1
+effect/juqibaodian_0037
+  rotate: false
+  xy: 1062, 257
+  size: 134, 123
+  orig: 134, 123
+  offset: 0, 0
+  index: -1
+effect/juqibaodian_0039
+  rotate: false
+  xy: 1198, 382
+  size: 134, 123
+  orig: 134, 123
+  offset: 0, 0
+  index: -1
+effect/star_00
+  rotate: false
+  xy: 2, 299
+  size: 250, 206
+  orig: 250, 206
+  offset: 0, 0
+  index: -1
+effect/star_01
+  rotate: false
+  xy: 2, 91
+  size: 250, 206
+  orig: 250, 206
+  offset: 0, 0
+  index: -1
+effect/star_02
+  rotate: false
+  xy: 254, 299
+  size: 250, 206
+  orig: 250, 206
+  offset: 0, 0
+  index: -1
+effect/star_03
+  rotate: false
+  xy: 254, 91
+  size: 250, 206
+  orig: 250, 206
+  offset: 0, 0
+  index: -1
+effect/star_04
+  rotate: false
+  xy: 506, 299
+  size: 250, 206
+  orig: 250, 206
+  offset: 0, 0
+  index: -1
+effect/star_05
+  rotate: false
+  xy: 506, 91
+  size: 250, 206
+  orig: 250, 206
+  offset: 0, 0
+  index: -1
+effect/yumao
+  rotate: false
+  xy: 1468, 456
+  size: 130, 49
+  orig: 130, 49
+  offset: 0, 0
+  index: -1
+effect/yumaoh
+  rotate: false
+  xy: 270, 40
+  size: 130, 49
+  orig: 130, 49
+  offset: 0, 0
+  index: -1

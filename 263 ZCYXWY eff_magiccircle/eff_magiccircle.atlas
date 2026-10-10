@@ -1,0 +1,167 @@
+
+eff_magiccircle.png
+size: 2048,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/fazhen_0000
+  rotate: false
+  xy: 2, 22
+  size: 232, 232
+  orig: 232, 232
+  offset: 0, 0
+  index: -1
+effect/fazhen_0001
+  rotate: false
+  xy: 236, 40
+  size: 214, 214
+  orig: 214, 214
+  offset: 0, 0
+  index: -1
+effect/huaban_0018
+  rotate: true
+  xy: 452, 48
+  size: 44, 118
+  orig: 44, 118
+  offset: 0, 0
+  index: -1
+effect/huaban_0020
+  rotate: true
+  xy: 452, 2
+  size: 44, 118
+  orig: 44, 118
+  offset: 0, 0
+  index: -1
+effect/huaban_0022
+  rotate: true
+  xy: 1574, 210
+  size: 44, 118
+  orig: 44, 118
+  offset: 0, 0
+  index: -1
+effect/huaban_0024
+  rotate: true
+  xy: 572, 48
+  size: 44, 118
+  orig: 44, 118
+  offset: 0, 0
+  index: -1
+effect/huaban_0026
+  rotate: true
+  xy: 572, 2
+  size: 44, 118
+  orig: 44, 118
+  offset: 0, 0
+  index: -1
+effect/huaban_0028
+  rotate: true
+  xy: 1574, 164
+  size: 44, 118
+  orig: 44, 118
+  offset: 0, 0
+  index: -1
+effect/huaban_0030
+  rotate: true
+  xy: 1694, 210
+  size: 44, 118
+  orig: 44, 118
+  offset: 0, 0
+  index: -1
+effect/huaban_0032
+  rotate: true
+  xy: 692, 48
+  size: 44, 118
+  orig: 44, 118
+  offset: 0, 0
+  index: -1
+effect/huaban_0034
+  rotate: true
+  xy: 692, 2
+  size: 44, 118
+  orig: 44, 118
+  offset: 0, 0
+  index: -1
+effect/huaban_0036
+  rotate: true
+  xy: 1694, 164
+  size: 44, 118
+  orig: 44, 118
+  offset: 0, 0
+  index: -1
+effect/liudong01
+  rotate: false
+  xy: 452, 94
+  size: 100, 160
+  orig: 100, 160
+  offset: 0, 0
+  index: -1
+effect/liudong02
+  rotate: false
+  xy: 554, 94
+  size: 100, 160
+  orig: 100, 160
+  offset: 0, 0
+  index: -1
+effect/liudong03
+  rotate: false
+  xy: 656, 94
+  size: 100, 160
+  orig: 100, 160
+  offset: 0, 0
+  index: -1
+effect/liudong04
+  rotate: false
+  xy: 758, 94
+  size: 100, 160
+  orig: 100, 160
+  offset: 0, 0
+  index: -1
+effect/liudong05
+  rotate: false
+  xy: 860, 94
+  size: 100, 160
+  orig: 100, 160
+  offset: 0, 0
+  index: -1
+effect/liudong06
+  rotate: false
+  xy: 962, 94
+  size: 100, 160
+  orig: 100, 160
+  offset: 0, 0
+  index: -1
+effect/liudong07
+  rotate: false
+  xy: 1064, 94
+  size: 100, 160
+  orig: 100, 160
+  offset: 0, 0
+  index: -1
+effect/liudong08
+  rotate: false
+  xy: 1166, 94
+  size: 100, 160
+  orig: 100, 160
+  offset: 0, 0
+  index: -1
+effect/liudong09
+  rotate: false
+  xy: 1268, 94
+  size: 100, 160
+  orig: 100, 160
+  offset: 0, 0
+  index: -1
+effect/liudong10
+  rotate: false
+  xy: 1370, 94
+  size: 100, 160
+  orig: 100, 160
+  offset: 0, 0
+  index: -1
+effect/zhuguang
+  rotate: false
+  xy: 1472, 137
+  size: 100, 117
+  orig: 100, 117
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,188 @@
+
+eff_minovsky3.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/beam5
+  rotate: false
+  xy: 241, 24
+  size: 45, 45
+  orig: 45, 45
+  offset: 0, 0
+  index: -1
+effect/faguangs
+  rotate: false
+  xy: 1613, 1646
+  size: 70, 81
+  orig: 70, 81
+  offset: 0, 0
+  index: -1
+effect/flash
+  rotate: false
+  xy: 1460, 399
+  size: 140, 140
+  orig: 140, 140
+  offset: 0, 0
+  index: -1
+effect/flash2
+  rotate: false
+  xy: 1613, 1609
+  size: 35, 35
+  orig: 35, 35
+  offset: 0, 0
+  index: -1
+effect/guangxiao
+  rotate: true
+  xy: 241, 71
+  size: 140, 47
+  orig: 140, 47
+  offset: 0, 0
+  index: -1
+effect/huan
+  rotate: false
+  xy: 1460, 754
+  size: 188, 197
+  orig: 188, 197
+  offset: 0, 0
+  index: -1
+effect/jie
+  rotate: false
+  xy: 2, 2
+  size: 47, 13
+  orig: 47, 13
+  offset: 0, 0
+  index: -1
+effect/liang
+  rotate: false
+  xy: 1172, 317
+  size: 70, 70
+  orig: 70, 70
+  offset: 0, 0
+  index: -1
+effect/star
+  rotate: false
+  xy: 1030, 247
+  size: 140, 140
+  orig: 140, 140
+  offset: 0, 0
+  index: -1
+mnskpng/a_0000
+  rotate: false
+  xy: 290, 130
+  size: 48, 81
+  orig: 48, 81
+  offset: 0, 0
+  index: -1
+mnskpng/a_0001
+  rotate: false
+  xy: 1460, 541
+  size: 167, 211
+  orig: 167, 211
+  offset: 0, 0
+  index: -1
+mnskpng/fram1
+  rotate: false
+  xy: 2, 213
+  size: 364, 174
+  orig: 364, 174
+  offset: 0, 0
+  index: -1
+mnskpng/light
+  rotate: true
+  xy: 1460, 1427
+  size: 300, 151
+  orig: 300, 151
+  offset: 0, 0
+  index: -1
+mnskpng/mnsk_01
+  rotate: false
+  xy: 2, 1210
+  size: 1456, 819
+  orig: 1456, 819
+  offset: 0, 0
+  index: -1
+mnskpng/mnsk_02
+  rotate: false
+  xy: 2, 389
+  size: 1456, 819
+  orig: 1456, 819
+  offset: 0, 0
+  index: -1
+mnskpng/mnsk_03
+  rotate: true
+  xy: 1460, 953
+  size: 214, 188
+  orig: 214, 188
+  offset: 0, 0
+  index: -1
+mnskpng/mnsk_04
+  rotate: false
+  xy: 2, 17
+  size: 237, 194
+  orig: 237, 194
+  offset: 0, 0
+  index: -1
+mnskpng/mnsk_05
+  rotate: false
+  xy: 1741, 1787
+  size: 305, 242
+  orig: 305, 242
+  offset: 0, 0
+  index: -1
+mnskpng/mnsk_05a
+  rotate: false
+  xy: 1741, 1543
+  size: 305, 242
+  orig: 305, 242
+  offset: 0, 0
+  index: -1
+mnskpng/mnsk_06
+  rotate: false
+  xy: 1460, 1169
+  size: 151, 256
+  orig: 151, 256
+  offset: 0, 0
+  index: -1
+mnskpng/mnsk_06a
+  rotate: false
+  xy: 1460, 1169
+  size: 151, 256
+  orig: 151, 256
+  offset: 0, 0
+  index: -1
+mnskpng/mnsk_08
+  rotate: false
+  xy: 1460, 1729
+  size: 279, 300
+  orig: 279, 300
+  offset: 0, 0
+  index: -1
+mnskpng/mnsk_09
+  rotate: true
+  xy: 368, 204
+  size: 183, 247
+  orig: 183, 247
+  offset: 0, 0
+  index: -1
+mnskpng/mnsk_10
+  rotate: true
+  xy: 617, 236
+  size: 151, 255
+  orig: 151, 255
+  offset: 0, 0
+  index: -1
+mnskpng/mnsk_10a
+  rotate: true
+  xy: 617, 236
+  size: 151, 255
+  orig: 151, 255
+  offset: 0, 0
+  index: -1
+mnskpng/mnsk_11
+  rotate: false
+  xy: 874, 246
+  size: 154, 141
+  orig: 154, 141
+  offset: 0, 0
+  index: -1

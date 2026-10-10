@@ -1,0 +1,286 @@
+
+eff_mechanical1.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/beihou_00
+  rotate: false
+  xy: 952, 539
+  size: 188, 208
+  orig: 188, 208
+  offset: 0, 0
+  index: -1
+effect/beihou_01
+  rotate: false
+  xy: 1142, 799
+  size: 188, 208
+  orig: 188, 208
+  offset: 0, 0
+  index: -1
+effect/beihou_02
+  rotate: false
+  xy: 952, 329
+  size: 188, 208
+  orig: 188, 208
+  offset: 0, 0
+  index: -1
+effect/beihou_03
+  rotate: false
+  xy: 1142, 589
+  size: 188, 208
+  orig: 188, 208
+  offset: 0, 0
+  index: -1
+effect/beihou_04
+  rotate: false
+  xy: 1332, 799
+  size: 188, 208
+  orig: 188, 208
+  offset: 0, 0
+  index: -1
+effect/beihou_05
+  rotate: false
+  xy: 1142, 379
+  size: 188, 208
+  orig: 188, 208
+  offset: 0, 0
+  index: -1
+effect/beihou_06
+  rotate: false
+  xy: 1332, 589
+  size: 188, 208
+  orig: 188, 208
+  offset: 0, 0
+  index: -1
+effect/beihou_07
+  rotate: false
+  xy: 1522, 799
+  size: 188, 208
+  orig: 188, 208
+  offset: 0, 0
+  index: -1
+effect/beihou_08
+  rotate: false
+  xy: 1332, 379
+  size: 188, 208
+  orig: 188, 208
+  offset: 0, 0
+  index: -1
+effect/beihou_09
+  rotate: false
+  xy: 1522, 589
+  size: 188, 208
+  orig: 188, 208
+  offset: 0, 0
+  index: -1
+effect/beihou_10
+  rotate: false
+  xy: 1712, 799
+  size: 188, 208
+  orig: 188, 208
+  offset: 0, 0
+  index: -1
+effect/beihou_11
+  rotate: false
+  xy: 1522, 379
+  size: 188, 208
+  orig: 188, 208
+  offset: 0, 0
+  index: -1
+effect/beihou_12
+  rotate: false
+  xy: 1712, 589
+  size: 188, 208
+  orig: 188, 208
+  offset: 0, 0
+  index: -1
+effect/beihou_13
+  rotate: false
+  xy: 1712, 379
+  size: 188, 208
+  orig: 188, 208
+  offset: 0, 0
+  index: -1
+effect/beihou_14
+  rotate: false
+  xy: 782, 19
+  size: 188, 208
+  orig: 188, 208
+  offset: 0, 0
+  index: -1
+effect/beihou_15
+  rotate: false
+  xy: 972, 119
+  size: 188, 208
+  orig: 188, 208
+  offset: 0, 0
+  index: -1
+effect/beihou_16
+  rotate: false
+  xy: 1162, 169
+  size: 188, 208
+  orig: 188, 208
+  offset: 0, 0
+  index: -1
+effect/beihou_17
+  rotate: false
+  xy: 1352, 169
+  size: 188, 208
+  orig: 188, 208
+  offset: 0, 0
+  index: -1
+effect/beihou_18
+  rotate: false
+  xy: 1542, 169
+  size: 188, 208
+  orig: 188, 208
+  offset: 0, 0
+  index: -1
+effect/beihou_19
+  rotate: false
+  xy: 1732, 169
+  size: 188, 208
+  orig: 188, 208
+  offset: 0, 0
+  index: -1
+effect/flash
+  rotate: false
+  xy: 2, 2
+  size: 35, 35
+  orig: 35, 35
+  offset: 0, 0
+  index: -1
+effect/jibian_01
+  rotate: false
+  xy: 2, 749
+  size: 188, 258
+  orig: 188, 258
+  offset: 0, 0
+  index: -1
+effect/jibian_02
+  rotate: false
+  xy: 2, 489
+  size: 188, 258
+  orig: 188, 258
+  offset: 0, 0
+  index: -1
+effect/jibian_03
+  rotate: false
+  xy: 192, 749
+  size: 188, 258
+  orig: 188, 258
+  offset: 0, 0
+  index: -1
+effect/jibian_04
+  rotate: false
+  xy: 2, 229
+  size: 188, 258
+  orig: 188, 258
+  offset: 0, 0
+  index: -1
+effect/jibian_05
+  rotate: false
+  xy: 192, 489
+  size: 188, 258
+  orig: 188, 258
+  offset: 0, 0
+  index: -1
+effect/jibian_06
+  rotate: false
+  xy: 382, 749
+  size: 188, 258
+  orig: 188, 258
+  offset: 0, 0
+  index: -1
+effect/jibian_07
+  rotate: false
+  xy: 192, 229
+  size: 188, 258
+  orig: 188, 258
+  offset: 0, 0
+  index: -1
+effect/jibian_08
+  rotate: true
+  xy: 2, 39
+  size: 188, 258
+  orig: 188, 258
+  offset: 0, 0
+  index: -1
+effect/jibian_09
+  rotate: false
+  xy: 382, 489
+  size: 188, 258
+  orig: 188, 258
+  offset: 0, 0
+  index: -1
+effect/jibian_10
+  rotate: false
+  xy: 572, 749
+  size: 188, 258
+  orig: 188, 258
+  offset: 0, 0
+  index: -1
+effect/jibian_11
+  rotate: false
+  xy: 382, 229
+  size: 188, 258
+  orig: 188, 258
+  offset: 0, 0
+  index: -1
+effect/jibian_12
+  rotate: true
+  xy: 262, 39
+  size: 188, 258
+  orig: 188, 258
+  offset: 0, 0
+  index: -1
+effect/jibian_13
+  rotate: false
+  xy: 572, 489
+  size: 188, 258
+  orig: 188, 258
+  offset: 0, 0
+  index: -1
+effect/jibian_14
+  rotate: false
+  xy: 762, 749
+  size: 188, 258
+  orig: 188, 258
+  offset: 0, 0
+  index: -1
+effect/jibian_15
+  rotate: false
+  xy: 572, 229
+  size: 188, 258
+  orig: 188, 258
+  offset: 0, 0
+  index: -1
+effect/jibian_16
+  rotate: false
+  xy: 762, 489
+  size: 188, 258
+  orig: 188, 258
+  offset: 0, 0
+  index: -1
+effect/jibian_17
+  rotate: false
+  xy: 952, 749
+  size: 188, 258
+  orig: 188, 258
+  offset: 0, 0
+  index: -1
+effect/jibian_18
+  rotate: false
+  xy: 762, 229
+  size: 188, 258
+  orig: 188, 258
+  offset: 0, 0
+  index: -1
+effect/jibian_19
+  rotate: true
+  xy: 522, 39
+  size: 188, 258
+  orig: 188, 258
+  offset: 0, 0
+  index: -1

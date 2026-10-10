@@ -1,0 +1,48 @@
+
+eff_monicaattack3.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/quan
+  rotate: false
+  xy: 536, 53
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+effect/quanh
+  rotate: false
+  xy: 666, 53
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+effect/quanpingyana
+  rotate: false
+  xy: 2, 2
+  size: 200, 179
+  orig: 200, 179
+  offset: 0, 0
+  index: -1
+effect/quanpingyanh
+  rotate: false
+  xy: 204, 2
+  size: 200, 179
+  orig: 200, 179
+  offset: 0, 0
+  index: -1
+effect/xuanzhuan
+  rotate: false
+  xy: 406, 53
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+effect/xuanzhuanh
+  rotate: false
+  xy: 796, 53
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1

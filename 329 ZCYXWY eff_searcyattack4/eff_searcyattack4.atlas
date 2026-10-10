@@ -1,0 +1,300 @@
+
+eff_searcyattack4.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/starbook/biaopan2
+  rotate: false
+  xy: 806, 18
+  size: 384, 384
+  orig: 384, 384
+  offset: 0, 0
+  index: -1
+effect/starbook/di_00
+  rotate: false
+  xy: 1466, 352
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+effect/starbook/di_01
+  rotate: false
+  xy: 1772, 820
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+effect/starbook/di_02
+  rotate: false
+  xy: 1394, 160
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+effect/starbook/di_03
+  rotate: false
+  xy: 1394, 30
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+effect/starbook/di_04
+  rotate: false
+  xy: 1598, 676
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+effect/starbook/di_05
+  rotate: false
+  xy: 1598, 546
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+effect/starbook/di_06
+  rotate: false
+  xy: 1598, 416
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+effect/starbook/di_07
+  rotate: false
+  xy: 1596, 286
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+effect/starbook/di_08
+  rotate: false
+  xy: 1524, 156
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+effect/starbook/di_09
+  rotate: false
+  xy: 1524, 26
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+effect/starbook/di_10
+  rotate: false
+  xy: 1654, 156
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+effect/starbook/di_11
+  rotate: false
+  xy: 1654, 26
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+effect/starbook/guang
+  rotate: false
+  xy: 1726, 286
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+effect/starbook/guangxiao
+  rotate: false
+  xy: 1192, 19
+  size: 200, 67
+  orig: 200, 67
+  offset: 0, 0
+  index: -1
+effect/starbook/huan
+  rotate: false
+  xy: 1208, 548
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+effect/starbook/huan2
+  rotate: false
+  xy: 1610, 950
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+effect/starbook/lizi_00
+  rotate: false
+  xy: 2, 1610
+  size: 400, 400
+  orig: 400, 400
+  offset: 0, 0
+  index: -1
+effect/starbook/lizi_01
+  rotate: false
+  xy: 2, 1208
+  size: 400, 400
+  orig: 400, 400
+  offset: 0, 0
+  index: -1
+effect/starbook/lizi_02
+  rotate: false
+  xy: 404, 1610
+  size: 400, 400
+  orig: 400, 400
+  offset: 0, 0
+  index: -1
+effect/starbook/lizi_03
+  rotate: false
+  xy: 2, 806
+  size: 400, 400
+  orig: 400, 400
+  offset: 0, 0
+  index: -1
+effect/starbook/lizi_04
+  rotate: false
+  xy: 404, 1208
+  size: 400, 400
+  orig: 400, 400
+  offset: 0, 0
+  index: -1
+effect/starbook/lizi_05
+  rotate: false
+  xy: 806, 1610
+  size: 400, 400
+  orig: 400, 400
+  offset: 0, 0
+  index: -1
+effect/starbook/lizi_06
+  rotate: false
+  xy: 2, 404
+  size: 400, 400
+  orig: 400, 400
+  offset: 0, 0
+  index: -1
+effect/starbook/lizi_07
+  rotate: false
+  xy: 404, 806
+  size: 400, 400
+  orig: 400, 400
+  offset: 0, 0
+  index: -1
+effect/starbook/lizi_08
+  rotate: false
+  xy: 806, 1208
+  size: 400, 400
+  orig: 400, 400
+  offset: 0, 0
+  index: -1
+effect/starbook/lizi_09
+  rotate: false
+  xy: 1208, 1610
+  size: 400, 400
+  orig: 400, 400
+  offset: 0, 0
+  index: -1
+effect/starbook/lizi_10
+  rotate: false
+  xy: 2, 2
+  size: 400, 400
+  orig: 400, 400
+  offset: 0, 0
+  index: -1
+effect/starbook/lizi_11
+  rotate: false
+  xy: 404, 404
+  size: 400, 400
+  orig: 400, 400
+  offset: 0, 0
+  index: -1
+effect/starbook/lizi_12
+  rotate: false
+  xy: 806, 806
+  size: 400, 400
+  orig: 400, 400
+  offset: 0, 0
+  index: -1
+effect/starbook/lizi_13
+  rotate: false
+  xy: 1208, 1208
+  size: 400, 400
+  orig: 400, 400
+  offset: 0, 0
+  index: -1
+effect/starbook/lizi_14
+  rotate: false
+  xy: 1610, 1610
+  size: 400, 400
+  orig: 400, 400
+  offset: 0, 0
+  index: -1
+effect/starbook/lizi_15
+  rotate: false
+  xy: 404, 2
+  size: 400, 400
+  orig: 400, 400
+  offset: 0, 0
+  index: -1
+effect/starbook/lizi_16
+  rotate: false
+  xy: 806, 404
+  size: 400, 400
+  orig: 400, 400
+  offset: 0, 0
+  index: -1
+effect/starbook/lizi_17
+  rotate: false
+  xy: 1208, 806
+  size: 400, 400
+  orig: 400, 400
+  offset: 0, 0
+  index: -1
+effect/starbook/lizi_18
+  rotate: false
+  xy: 1610, 1208
+  size: 400, 400
+  orig: 400, 400
+  offset: 0, 0
+  index: -1
+effect/starbook/shou
+  rotate: false
+  xy: 1208, 290
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+effect/starbook/xingxiang
+  rotate: false
+  xy: 1192, 88
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+effect/starbook/zhuan_00
+  rotate: true
+  xy: 1466, 644
+  size: 160, 130
+  orig: 160, 130
+  offset: 0, 0
+  index: -1
+effect/starbook/zhuan_01
+  rotate: false
+  xy: 1610, 818
+  size: 160, 130
+  orig: 160, 130
+  offset: 0, 0
+  index: -1
+effect/starbook/zhuan_02
+  rotate: true
+  xy: 1868, 1046
+  size: 160, 130
+  orig: 160, 130
+  offset: 0, 0
+  index: -1
+effect/starbook/zhuan_03
+  rotate: true
+  xy: 1466, 482
+  size: 160, 130
+  orig: 160, 130
+  offset: 0, 0
+  index: -1

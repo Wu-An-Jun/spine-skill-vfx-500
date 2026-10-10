@@ -1,0 +1,146 @@
+
+action.png
+size: 928,108
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+buffh_0000
+  rotate: false
+  xy: 372, 55
+  size: 91, 53
+  orig: 173, 173
+  offset: 40, 67
+  index: -1
+buffh_0002
+  rotate: false
+  xy: 465, 55
+  size: 91, 53
+  orig: 173, 173
+  offset: 40, 67
+  index: -1
+buffh_0004
+  rotate: false
+  xy: 0, 53
+  size: 91, 55
+  orig: 173, 173
+  offset: 40, 67
+  index: -1
+buffh_0006
+  rotate: false
+  xy: 558, 3
+  size: 91, 50
+  orig: 173, 173
+  offset: 40, 67
+  index: -1
+buffh_0008
+  rotate: false
+  xy: 0, 0
+  size: 91, 51
+  orig: 173, 173
+  offset: 40, 67
+  index: -1
+buffh_0010
+  rotate: false
+  xy: 558, 55
+  size: 91, 53
+  orig: 173, 173
+  offset: 40, 67
+  index: -1
+buffh_0012
+  rotate: false
+  xy: 651, 55
+  size: 91, 53
+  orig: 173, 173
+  offset: 40, 67
+  index: -1
+buffh_0014
+  rotate: false
+  xy: 93, 53
+  size: 91, 55
+  orig: 173, 173
+  offset: 40, 67
+  index: -1
+buffh_0016
+  rotate: false
+  xy: 651, 3
+  size: 91, 50
+  orig: 173, 173
+  offset: 40, 67
+  index: -1
+buffh_0018
+  rotate: false
+  xy: 93, 0
+  size: 91, 51
+  orig: 173, 173
+  offset: 40, 67
+  index: -1
+buffz_0000
+  rotate: false
+  xy: 744, 55
+  size: 91, 53
+  orig: 173, 173
+  offset: 40, 67
+  index: -1
+buffz_0002
+  rotate: false
+  xy: 837, 55
+  size: 91, 53
+  orig: 173, 173
+  offset: 40, 67
+  index: -1
+buffz_0004
+  rotate: false
+  xy: 186, 53
+  size: 91, 55
+  orig: 173, 173
+  offset: 40, 67
+  index: -1
+buffz_0006
+  rotate: false
+  xy: 744, 3
+  size: 91, 50
+  orig: 173, 173
+  offset: 40, 67
+  index: -1
+buffz_0008
+  rotate: false
+  xy: 186, 0
+  size: 91, 51
+  orig: 173, 173
+  offset: 40, 67
+  index: -1
+buffz_0010
+  rotate: false
+  xy: 372, 0
+  size: 91, 53
+  orig: 173, 173
+  offset: 40, 67
+  index: -1
+buffz_0012
+  rotate: false
+  xy: 465, 0
+  size: 91, 53
+  orig: 173, 173
+  offset: 40, 67
+  index: -1
+buffz_0014
+  rotate: false
+  xy: 279, 53
+  size: 91, 55
+  orig: 173, 173
+  offset: 40, 67
+  index: -1
+buffz_0016
+  rotate: false
+  xy: 837, 3
+  size: 91, 50
+  orig: 173, 173
+  offset: 40, 67
+  index: -1
+buffz_0018
+  rotate: false
+  xy: 279, 0
+  size: 91, 51
+  orig: 173, 173
+  offset: 40, 67
+  index: -1

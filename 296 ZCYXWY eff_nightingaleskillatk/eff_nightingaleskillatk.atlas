@@ -1,0 +1,41 @@
+
+eff_nightingaleskillatk.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/banyuan
+  rotate: false
+  xy: 2, 2
+  size: 122, 57
+  orig: 122, 57
+  offset: 0, 0
+  index: -1
+effect/dian01
+  rotate: false
+  xy: 194, 81
+  size: 57, 57
+  orig: 57, 57
+  offset: 0, 0
+  index: -1
+effect/fazhen
+  rotate: false
+  xy: 2, 61
+  size: 190, 190
+  orig: 190, 190
+  offset: 0, 0
+  index: -1
+effect/shizi
+  rotate: false
+  xy: 291, 194
+  size: 57, 57
+  orig: 57, 57
+  offset: 0, 0
+  index: -1
+effect/zhuguang
+  rotate: false
+  xy: 194, 140
+  size: 95, 111
+  orig: 95, 111
+  offset: 0, 0
+  index: -1

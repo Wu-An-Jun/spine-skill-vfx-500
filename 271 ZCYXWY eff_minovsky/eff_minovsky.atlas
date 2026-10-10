@@ -1,0 +1,153 @@
+
+eff_minovsky.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect/faguangs
+  rotate: false
+  xy: 1931, 1971
+  size: 65, 75
+  orig: 65, 75
+  offset: 0, 0
+  index: -1
+effect/flash
+  rotate: false
+  xy: 1356, 713
+  size: 130, 130
+  orig: 130, 130
+  offset: 0, 0
+  index: -1
+effect/flash2
+  rotate: false
+  xy: 2, 2
+  size: 33, 33
+  orig: 33, 33
+  offset: 0, 0
+  index: -1
+effect/guangxiao
+  rotate: false
+  xy: 1617, 1816
+  size: 130, 44
+  orig: 130, 44
+  offset: 0, 0
+  index: -1
+effect/maskz
+  rotate: false
+  xy: 1617, 1862
+  size: 312, 184
+  orig: 312, 184
+  offset: 0, 0
+  index: -1
+effect/star
+  rotate: false
+  xy: 902, 390
+  size: 130, 130
+  orig: 130, 130
+  offset: 0, 0
+  index: -1
+mnskpng/a_0000
+  rotate: false
+  xy: 2, 37
+  size: 45, 75
+  orig: 45, 75
+  offset: 0, 0
+  index: -1
+mnskpng/a_0001
+  rotate: false
+  xy: 1356, 845
+  size: 155, 196
+  orig: 155, 196
+  offset: 0, 0
+  index: -1
+mnskpng/mnsk_01
+  rotate: false
+  xy: 2, 1285
+  size: 1352, 761
+  orig: 1352, 761
+  offset: 0, 0
+  index: -1
+mnskpng/mnsk_02
+  rotate: false
+  xy: 2, 522
+  size: 1352, 761
+  orig: 1352, 761
+  offset: 0, 0
+  index: -1
+mnskpng/mnsk_03
+  rotate: true
+  xy: 1356, 1043
+  size: 198, 175
+  orig: 198, 175
+  offset: 0, 0
+  index: -1
+mnskpng/mnsk_04
+  rotate: false
+  xy: 2, 114
+  size: 220, 180
+  orig: 220, 180
+  offset: 0, 0
+  index: -1
+mnskpng/mnsk_05
+  rotate: false
+  xy: 2, 296
+  size: 283, 224
+  orig: 283, 224
+  offset: 0, 0
+  index: -1
+mnskpng/mnsk_05a
+  rotate: true
+  xy: 1356, 1482
+  size: 283, 224
+  orig: 283, 224
+  offset: 0, 0
+  index: -1
+mnskpng/mnsk_06
+  rotate: false
+  xy: 1356, 1243
+  size: 140, 237
+  orig: 140, 237
+  offset: 0, 0
+  index: -1
+mnskpng/mnsk_06a
+  rotate: false
+  xy: 1356, 1243
+  size: 140, 237
+  orig: 140, 237
+  offset: 0, 0
+  index: -1
+mnskpng/mnsk_08
+  rotate: false
+  xy: 1356, 1767
+  size: 259, 279
+  orig: 259, 279
+  offset: 0, 0
+  index: -1
+mnskpng/mnsk_09
+  rotate: true
+  xy: 287, 350
+  size: 170, 229
+  orig: 170, 229
+  offset: 0, 0
+  index: -1
+mnskpng/mnsk_10
+  rotate: true
+  xy: 518, 380
+  size: 140, 237
+  orig: 140, 237
+  offset: 0, 0
+  index: -1
+mnskpng/mnsk_10a
+  rotate: true
+  xy: 518, 380
+  size: 140, 237
+  orig: 140, 237
+  offset: 0, 0
+  index: -1
+mnskpng/mnsk_11
+  rotate: false
+  xy: 757, 389
+  size: 143, 131
+  orig: 143, 131
+  offset: 0, 0
+  index: -1

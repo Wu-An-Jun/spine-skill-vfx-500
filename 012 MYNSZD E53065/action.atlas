@@ -1,0 +1,48 @@
+
+action.png
+size: 553,220
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+yuezidan_0000
+  rotate: false
+  xy: 381, 112
+  size: 171, 107
+  orig: 214, 137
+  offset: 28, 18
+  index: -1
+yuezidan_0002
+  rotate: false
+  xy: 1, 1
+  size: 186, 109
+  orig: 214, 137
+  offset: 14, 18
+  index: -1
+yuezidan_0004
+  rotate: false
+  xy: 193, 112
+  size: 186, 107
+  orig: 214, 137
+  offset: 18, 18
+  index: -1
+yuezidan_0006
+  rotate: false
+  xy: 372, 3
+  size: 178, 107
+  orig: 214, 137
+  offset: 22, 18
+  index: -1
+yuezidan_0008
+  rotate: false
+  xy: 189, 3
+  size: 181, 107
+  orig: 214, 137
+  offset: 17, 18
+  index: -1
+yuezidan_0009
+  rotate: false
+  xy: 1, 112
+  size: 190, 107
+  orig: 214, 137
+  offset: 13, 18
+  index: -1

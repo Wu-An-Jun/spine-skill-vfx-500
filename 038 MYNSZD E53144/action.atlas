@@ -1,0 +1,62 @@
+
+action.png
+size: 289,558
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+guangyunaa_0000
+  rotate: false
+  xy: 148, 1
+  size: 119, 117
+  orig: 180, 180
+  offset: 31, 0
+  index: -1
+huoqiu_0000
+  rotate: false
+  xy: 1, 433
+  size: 159, 124
+  orig: 231, 208
+  offset: 15, 43
+  index: -1
+huoqiu_0001
+  rotate: false
+  xy: 1, 176
+  size: 146, 124
+  orig: 231, 208
+  offset: 26, 43
+  index: -1
+huoqiu_0002
+  rotate: false
+  xy: 1, 51
+  size: 145, 123
+  orig: 231, 208
+  offset: 27, 43
+  index: -1
+huoqiu_0003
+  rotate: true
+  xy: 149, 120
+  size: 144, 124
+  orig: 231, 208
+  offset: 28, 41
+  index: -1
+huoqiu_0004
+  rotate: true
+  xy: 150, 266
+  size: 143, 125
+  orig: 231, 208
+  offset: 29, 40
+  index: -1
+huoqiu_0005
+  rotate: true
+  xy: 162, 411
+  size: 146, 126
+  orig: 231, 208
+  offset: 26, 39
+  index: -1
+huoqiu_0006
+  rotate: false
+  xy: 1, 302
+  size: 147, 129
+  orig: 231, 208
+  offset: 25, 39
+  index: -1

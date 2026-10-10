@@ -1,0 +1,146 @@
+
+action.png
+size: 1000,994
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+03_00000
+  rotate: false
+  xy: 661, 426
+  size: 80, 63
+  orig: 648, 648
+  offset: 318, 269
+  index: -1
+03_00001
+  rotate: false
+  xy: 366, 522
+  size: 101, 76
+  orig: 648, 648
+  offset: 318, 266
+  index: -1
+03_00002
+  rotate: true
+  xy: 870, 35
+  size: 120, 77
+  orig: 648, 648
+  offset: 318, 265
+  index: -1
+03_00003
+  rotate: true
+  xy: 921, 720
+  size: 136, 77
+  orig: 648, 648
+  offset: 319, 265
+  index: -1
+03_00004
+  rotate: false
+  xy: 1, 46
+  size: 148, 77
+  orig: 648, 648
+  offset: 319, 265
+  index: -1
+03_00005
+  rotate: true
+  xy: 633, 1
+  size: 154, 77
+  orig: 648, 648
+  offset: 319, 265
+  index: -1
+03_00006
+  rotate: true
+  xy: 712, 1
+  size: 154, 77
+  orig: 648, 648
+  offset: 319, 265
+  index: -1
+03_00007
+  rotate: true
+  xy: 791, 1
+  size: 154, 77
+  orig: 648, 648
+  offset: 319, 265
+  index: -1
+fenghuang_00000
+  rotate: false
+  xy: 1, 125
+  size: 335, 245
+  orig: 1152, 648
+  offset: 523, 282
+  index: -1
+fenghuang_00001
+  rotate: false
+  xy: 1, 372
+  size: 363, 226
+  orig: 1152, 648
+  offset: 522, 278
+  index: -1
+fenghuang_00002
+  rotate: false
+  xy: 472, 491
+  size: 294, 226
+  orig: 1152, 648
+  offset: 521, 193
+  index: -1
+fenghuang_00003
+  rotate: true
+  xy: 768, 423
+  size: 294, 231
+  orig: 1152, 648
+  offset: 522, 132
+  index: -1
+fenghuang_00004
+  rotate: false
+  xy: 366, 269
+  size: 293, 220
+  orig: 1152, 648
+  offset: 523, 146
+  index: -1
+fenghuang_00005
+  rotate: false
+  xy: 338, 2
+  size: 293, 265
+  orig: 1152, 648
+  offset: 524, 132
+  index: -1
+fenghuang_00006
+  rotate: false
+  xy: 661, 157
+  size: 293, 264
+  orig: 1152, 648
+  offset: 523, 178
+  index: -1
+luoxuan_00013
+  rotate: false
+  xy: 542, 719
+  size: 377, 137
+  orig: 1152, 648
+  offset: 330, 231
+  index: -1
+luoxuan_00014
+  rotate: false
+  xy: 552, 858
+  size: 446, 135
+  orig: 1152, 648
+  offset: 331, 232
+  index: -1
+luoxuan_00015
+  rotate: false
+  xy: 1, 860
+  size: 549, 133
+  orig: 1152, 648
+  offset: 342, 233
+  index: -1
+luoxuan_00016
+  rotate: false
+  xy: 1, 727
+  size: 539, 131
+  orig: 1152, 648
+  offset: 352, 234
+  index: -1
+luoxuan_00017
+  rotate: false
+  xy: 1, 600
+  size: 469, 125
+  orig: 1152, 648
+  offset: 422, 239
+  index: -1

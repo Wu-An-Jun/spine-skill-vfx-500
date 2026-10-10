@@ -1,0 +1,55 @@
+
+action.png
+size: 300,300
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+lvdan_0000
+  rotate: false
+  xy: 0, 158
+  size: 150, 71
+  orig: 190, 107
+  offset: 20, 18
+  index: -1
+lvdan_0002
+  rotate: false
+  xy: 0, 86
+  size: 149, 72
+  orig: 190, 107
+  offset: 21, 17
+  index: -1
+lvdan_0004
+  rotate: false
+  xy: 149, 87
+  size: 140, 71
+  orig: 190, 107
+  offset: 29, 18
+  index: -1
+lvdan_0006
+  rotate: false
+  xy: 0, 15
+  size: 142, 71
+  orig: 190, 107
+  offset: 27, 18
+  index: -1
+lvdan_0008
+  rotate: false
+  xy: 150, 158
+  size: 146, 71
+  orig: 190, 107
+  offset: 23, 18
+  index: -1
+lvdan_0010
+  rotate: false
+  xy: 152, 229
+  size: 148, 71
+  orig: 190, 107
+  offset: 21, 18
+  index: -1
+lvdan_0012
+  rotate: false
+  xy: 0, 229
+  size: 152, 71
+  orig: 190, 107
+  offset: 18, 18
+  index: -1

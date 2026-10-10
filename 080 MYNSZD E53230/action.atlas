@@ -1,0 +1,83 @@
+
+action.png
+size: 910,907
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+daorenhou0001
+  rotate: false
+  xy: 449, 1
+  size: 296, 105
+  orig: 468, 312
+  offset: 76, 155
+  index: -1
+daorenhou0003
+  rotate: false
+  xy: 462, 220
+  size: 407, 171
+  orig: 468, 312
+  offset: 14, 134
+  index: -1
+daorenhou0005
+  rotate: false
+  xy: 1, 549
+  size: 456, 176
+  orig: 468, 312
+  offset: 12, 134
+  index: -1
+daorenhou0007
+  rotate: false
+  xy: 1, 202
+  size: 459, 164
+  orig: 468, 312
+  offset: 9, 134
+  index: -1
+daorenhou0009
+  rotate: false
+  xy: 1, 368
+  size: 445, 179
+  orig: 468, 312
+  offset: 8, 132
+  index: -1
+daorenhou0011
+  rotate: false
+  xy: 1, 727
+  size: 456, 179
+  orig: 468, 312
+  offset: 12, 133
+  index: -1
+daorenhou0013
+  rotate: false
+  xy: 459, 730
+  size: 450, 176
+  orig: 468, 312
+  offset: 18, 136
+  index: -1
+daorenhou0015
+  rotate: false
+  xy: 459, 550
+  size: 431, 178
+  orig: 468, 312
+  offset: 12, 133
+  index: -1
+daorenhou0017
+  rotate: false
+  xy: 459, 393
+  size: 442, 155
+  orig: 468, 312
+  offset: 26, 143
+  index: -1
+daorenhou0018
+  rotate: false
+  xy: 1, 45
+  size: 446, 155
+  orig: 468, 312
+  offset: 16, 153
+  index: -1
+daorenhou0019
+  rotate: false
+  xy: 462, 108
+  size: 331, 110
+  orig: 468, 312
+  offset: 39, 155
+  index: -1

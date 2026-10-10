@@ -1,0 +1,83 @@
+
+action.png
+size: 960,679
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+daorenqian0001
+  rotate: true
+  xy: 844, 386
+  size: 292, 111
+  orig: 468, 312
+  offset: 79, 99
+  index: -1
+daorenqian0003
+  rotate: false
+  xy: 422, 243
+  size: 381, 143
+  orig: 468, 312
+  offset: 37, 71
+  index: -1
+daorenqian0005
+  rotate: false
+  xy: 1, 521
+  size: 420, 157
+  orig: 468, 312
+  offset: 35, 58
+  index: -1
+daorenqian0007
+  rotate: false
+  xy: 1, 362
+  size: 419, 157
+  orig: 468, 312
+  offset: 35, 58
+  index: -1
+daorenqian0009
+  rotate: false
+  xy: 423, 388
+  size: 396, 137
+  orig: 468, 312
+  offset: 32, 78
+  index: -1
+daorenqian0011
+  rotate: false
+  xy: 423, 527
+  size: 419, 151
+  orig: 468, 312
+  offset: 35, 64
+  index: -1
+daorenqian0013
+  rotate: false
+  xy: 1, 201
+  size: 415, 159
+  orig: 468, 312
+  offset: 41, 56
+  index: -1
+daorenqian0015
+  rotate: true
+  xy: 805, 5
+  size: 379, 154
+  orig: 468, 312
+  offset: 35, 61
+  index: -1
+daorenqian0017
+  rotate: false
+  xy: 1, 46
+  size: 394, 153
+  orig: 468, 312
+  offset: 60, 61
+  index: -1
+daorenqian0018
+  rotate: false
+  xy: 418, 119
+  size: 380, 122
+  orig: 468, 312
+  offset: 55, 92
+  index: -1
+daorenqian0019
+  rotate: false
+  xy: 397, 1
+  size: 305, 116
+  orig: 468, 312
+  offset: 65, 92
+  index: -1

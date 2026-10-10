@@ -1,0 +1,180 @@
+
+action.png
+size: 1016,997
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+baobing_0010
+  rotate: false
+  xy: 370, 10
+  size: 162, 67
+  orig: 1500, 1280
+  offset: 662, 561
+  index: -1
+bingbaoa_0000
+  rotate: false
+  xy: 104, 652
+  size: 316, 345
+  orig: 1500, 1280
+  offset: 574, 449
+  index: -1
+bingbaoa_0001
+  rotate: true
+  xy: 422, 687
+  size: 267, 308
+  orig: 1500, 1280
+  offset: 595, 491
+  index: -1
+bingbaoa_0002
+  rotate: true
+  xy: 732, 690
+  size: 264, 282
+  orig: 1500, 1280
+  offset: 610, 522
+  index: -1
+bingbaoa_0003
+  rotate: false
+  xy: 104, 316
+  size: 278, 334
+  orig: 1500, 1280
+  offset: 608, 481
+  index: -1
+bingbaoa_0004
+  rotate: false
+  xy: 457, 79
+  size: 267, 293
+  orig: 1500, 1280
+  offset: 605, 527
+  index: -1
+bingbaoa_0005
+  rotate: false
+  xy: 726, 72
+  size: 261, 304
+  orig: 1500, 1280
+  offset: 613, 522
+  index: -1
+bingbaoa_0006
+  rotate: false
+  xy: 457, 374
+  size: 260, 311
+  orig: 1500, 1280
+  offset: 602, 525
+  index: -1
+bingbaoa_0008
+  rotate: false
+  xy: 719, 378
+  size: 238, 307
+  orig: 1500, 1280
+  offset: 624, 529
+  index: -1
+glow
+  rotate: true
+  xy: 104, 74
+  size: 240, 255
+  orig: 1500, 1280
+  offset: 610, 482
+  index: -1
+icejian_0000
+  rotate: false
+  xy: 0, 172
+  size: 50, 825
+  orig: 400, 1000
+  offset: 176, 142
+  index: -1
+icejian_0001
+  rotate: false
+  xy: 52, 282
+  size: 50, 715
+  orig: 400, 1000
+  offset: 176, 142
+  index: -1
+icejian_0002
+  rotate: true
+  xy: 422, 956
+  size: 41, 594
+  orig: 400, 1000
+  offset: 181, 152
+  index: -1
+icejian_0003
+  rotate: false
+  xy: 384, 177
+  size: 35, 473
+  orig: 400, 1000
+  offset: 186, 163
+  index: -1
+icejian_0004
+  rotate: false
+  xy: 421, 260
+  size: 34, 390
+  orig: 400, 1000
+  offset: 187, 174
+  index: -1
+icejian_0005
+  rotate: true
+  xy: 0, 38
+  size: 34, 368
+  orig: 400, 1000
+  offset: 187, 185
+  index: -1
+icejian_0006
+  rotate: true
+  xy: 0, 2
+  size: 34, 368
+  orig: 400, 1000
+  offset: 187, 185
+  index: -1
+icejian_0007
+  rotate: true
+  xy: 534, 36
+  size: 34, 368
+  orig: 400, 1000
+  offset: 187, 185
+  index: -1
+icejian_0008
+  rotate: true
+  xy: 534, 0
+  size: 34, 368
+  orig: 400, 1000
+  offset: 187, 185
+  index: -1
+icejian_0010
+  rotate: false
+  xy: 421, 114
+  size: 34, 144
+  orig: 400, 1000
+  offset: 187, 236
+  index: -1
+icejian_0011
+  rotate: false
+  xy: 421, 114
+  size: 34, 144
+  orig: 400, 1000
+  offset: 187, 236
+  index: -1
+
+action2.png
+size: 493,350
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bingbaoa_0007
+  rotate: false
+  xy: 0, 36
+  size: 253, 314
+  orig: 1500, 1280
+  offset: 609, 528
+  index: -1
+bingbaoa_0009
+  rotate: false
+  xy: 255, 36
+  size: 238, 314
+  orig: 1500, 1280
+  offset: 624, 528
+  index: -1
+icejian_0009
+  rotate: true
+  xy: 0, 0
+  size: 34, 368
+  orig: 400, 1000
+  offset: 187, 185
+  index: -1

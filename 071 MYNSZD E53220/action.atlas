@@ -1,0 +1,96 @@
+
+action.png
+size: 1022,965
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fenghuang_00000
+  rotate: false
+  xy: 1, 1
+  size: 372, 272
+  orig: 832, 468
+  offset: 357, 187
+  index: -1
+fenghuang_00001
+  rotate: false
+  xy: 1, 275
+  size: 403, 251
+  orig: 832, 468
+  offset: 356, 183
+  index: -1
+fenghuang_00002
+  rotate: false
+  xy: 613, 713
+  size: 328, 251
+  orig: 832, 468
+  offset: 355, 88
+  index: -1
+fenghuang_00003
+  rotate: false
+  xy: 406, 150
+  size: 327, 256
+  orig: 832, 468
+  offset: 356, 21
+  index: -1
+fenghuang_00004
+  rotate: true
+  xy: 735, 80
+  size: 326, 245
+  orig: 832, 468
+  offset: 357, 36
+  index: -1
+luoxuan_00013
+  rotate: false
+  xy: 602, 559
+  size: 419, 152
+  orig: 832, 468
+  offset: 143, 131
+  index: -1
+luoxuan_00014
+  rotate: false
+  xy: 524, 408
+  size: 496, 149
+  orig: 832, 468
+  offset: 144, 132
+  index: -1
+luoxuan_00015
+  rotate: false
+  xy: 1, 816
+  size: 610, 148
+  orig: 832, 468
+  offset: 156, 133
+  index: -1
+luoxuan_00016
+  rotate: false
+  xy: 1, 668
+  size: 599, 146
+  orig: 832, 468
+  offset: 167, 134
+  index: -1
+luoxuan_00017
+  rotate: false
+  xy: 1, 528
+  size: 521, 138
+  orig: 832, 468
+  offset: 245, 140
+  index: -1
+
+action2.png
+size: 655,296
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fenghuang_00005
+  rotate: false
+  xy: 329, 1
+  size: 325, 294
+  orig: 832, 468
+  offset: 358, 21
+  index: -1
+fenghuang_00006
+  rotate: false
+  xy: 1, 1
+  size: 326, 294
+  orig: 832, 468
+  offset: 357, 71
+  index: -1

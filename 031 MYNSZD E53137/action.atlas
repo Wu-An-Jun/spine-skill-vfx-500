@@ -1,0 +1,139 @@
+
+action.png
+size: 1000,514
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+jian000_0000
+  rotate: true
+  xy: 44, 13
+  size: 246, 44
+  orig: 600, 320
+  offset: 159, 140
+  index: -1
+jian000_0002
+  rotate: true
+  xy: 90, 25
+  size: 241, 41
+  orig: 600, 320
+  offset: 164, 141
+  index: -1
+jian000_0004
+  rotate: true
+  xy: 48, 268
+  size: 245, 42
+  orig: 600, 320
+  offset: 160, 141
+  index: -1
+jian000_0006
+  rotate: true
+  xy: 1, 261
+  size: 252, 45
+  orig: 600, 320
+  offset: 153, 138
+  index: -1
+jian000_0008
+  rotate: true
+  xy: 92, 280
+  size: 233, 42
+  orig: 600, 320
+  offset: 172, 141
+  index: -1
+jian000_0010
+  rotate: true
+  xy: 1, 11
+  size: 248, 41
+  orig: 600, 320
+  offset: 157, 142
+  index: -1
+jian000_0012
+  rotate: true
+  xy: 133, 47
+  size: 231, 43
+  orig: 600, 320
+  offset: 174, 142
+  index: -1
+jian000_0014
+  rotate: false
+  xy: 133, 4
+  size: 227, 41
+  orig: 600, 320
+  offset: 178, 143
+  index: -1
+shoujiaaa_0000
+  rotate: false
+  xy: 772, 352
+  size: 207, 161
+  orig: 503, 503
+  offset: 156, 165
+  index: -1
+shoujiaaa_0001
+  rotate: true
+  xy: 572, 304
+  size: 209, 198
+  orig: 503, 503
+  offset: 154, 149
+  index: -1
+shoujiaaa_0002
+  rotate: true
+  xy: 361, 289
+  size: 224, 209
+  orig: 503, 503
+  offset: 140, 145
+  index: -1
+shoujiaaa_0003
+  rotate: true
+  xy: 178, 55
+  size: 226, 220
+  orig: 503, 503
+  offset: 140, 143
+  index: -1
+shoujiaaa_0004
+  rotate: true
+  xy: 136, 283
+  size: 230, 223
+  orig: 503, 503
+  offset: 140, 141
+  index: -1
+shoujiaaa_0005
+  rotate: false
+  xy: 400, 66
+  size: 217, 221
+  orig: 503, 503
+  offset: 148, 143
+  index: -1
+shoujiaaa_0006
+  rotate: true
+  xy: 772, 162
+  size: 188, 196
+  orig: 503, 503
+  offset: 156, 146
+  index: -1
+shoujiaaa_0007
+  rotate: false
+  xy: 619, 136
+  size: 151, 166
+  orig: 503, 503
+  offset: 161, 171
+  index: -1
+shoujiaaa_0008
+  rotate: true
+  xy: 734, 4
+  size: 130, 148
+  orig: 503, 503
+  offset: 191, 183
+  index: -1
+shoujiaaa_0009
+  rotate: true
+  xy: 884, 31
+  size: 129, 115
+  orig: 503, 503
+  offset: 199, 199
+  index: -1
+shoujiaaa_0010
+  rotate: true
+  xy: 619, 1
+  size: 133, 113
+  orig: 503, 503
+  offset: 198, 200
+  index: -1

@@ -1,0 +1,27 @@
+
+action.png
+size: 306,306
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bingbiao_0000
+  rotate: false
+  xy: 0, 177
+  size: 255, 129
+  orig: 260, 195
+  offset: 3, 17
+  index: -1
+diquan_0000
+  rotate: false
+  xy: 0, 0
+  size: 200, 84
+  orig: 202, 202
+  offset: 1, 53
+  index: -1
+fazhena_0000
+  rotate: false
+  xy: 0, 84
+  size: 219, 93
+  orig: 260, 195
+  offset: 20, 50
+  index: -1

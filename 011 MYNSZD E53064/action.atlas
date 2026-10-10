@@ -1,0 +1,55 @@
+
+action.png
+size: 321,321
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+sheying_0012
+  rotate: true
+  xy: 272, 44
+  size: 134, 28
+  orig: 403, 176
+  offset: 45, 77
+  index: -1
+sheying_0014
+  rotate: false
+  xy: 0, 62
+  size: 242, 54
+  orig: 403, 176
+  offset: 47, 54
+  index: -1
+sheying_0016
+  rotate: false
+  xy: 0, 178
+  size: 317, 68
+  orig: 403, 176
+  offset: 58, 50
+  index: -1
+sheying_0018
+  rotate: false
+  xy: 0, 246
+  size: 321, 75
+  orig: 403, 176
+  offset: 57, 49
+  index: -1
+sheying_0020
+  rotate: false
+  xy: 0, 116
+  size: 272, 62
+  orig: 403, 176
+  offset: 106, 58
+  index: -1
+sheying_0022
+  rotate: false
+  xy: 0, 5
+  size: 198, 39
+  orig: 403, 176
+  offset: 179, 74
+  index: -1
+sheying_0024
+  rotate: false
+  xy: 198, 13
+  size: 90, 31
+  orig: 403, 176
+  offset: 256, 76
+  index: -1

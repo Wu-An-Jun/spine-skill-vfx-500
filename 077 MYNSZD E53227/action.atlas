@@ -1,0 +1,153 @@
+
+action.png
+size: 1009,914
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+hit_0000
+  rotate: false
+  xy: 682, 375
+  size: 194, 175
+  orig: 507, 507
+  offset: 142, 170
+  index: -1
+hit_0001
+  rotate: false
+  xy: 1, 585
+  size: 358, 328
+  orig: 507, 507
+  offset: 61, 94
+  index: -1
+hit_0002
+  rotate: false
+  xy: 1, 260
+  size: 357, 323
+  orig: 507, 507
+  offset: 61, 96
+  index: -1
+hit_0003
+  rotate: false
+  xy: 690, 640
+  size: 304, 273
+  orig: 507, 507
+  offset: 110, 143
+  index: -1
+hit_0004
+  rotate: false
+  xy: 361, 342
+  size: 319, 281
+  orig: 507, 507
+  offset: 95, 134
+  index: -1
+hit_0005
+  rotate: false
+  xy: 361, 625
+  size: 327, 288
+  orig: 507, 507
+  offset: 86, 127
+  index: -1
+hit_0006
+  rotate: false
+  xy: 254, 13
+  size: 236, 227
+  orig: 507, 507
+  offset: 76, 119
+  index: -1
+hit_0007
+  rotate: false
+  xy: 1, 15
+  size: 251, 243
+  orig: 507, 507
+  offset: 68, 112
+  index: -1
+hit_0008
+  rotate: false
+  xy: 492, 38
+  size: 197, 202
+  orig: 507, 507
+  offset: 60, 103
+  index: -1
+lvguang_0000
+  rotate: false
+  xy: 690, 552
+  size: 203, 86
+  orig: 234, 156
+  offset: 15, 25
+  index: -1
+lvjian_0000
+  rotate: true
+  xy: 360, 242
+  size: 98, 309
+  orig: 156, 312
+  offset: 24, 2
+  index: -1
+lvye_0000
+  rotate: false
+  xy: 873, 257
+  size: 63, 83
+  orig: 312, 320
+  offset: 136, 65
+  index: -1
+lvye_0001
+  rotate: false
+  xy: 938, 242
+  size: 70, 98
+  orig: 312, 320
+  offset: 128, 67
+  index: -1
+lvye_0002
+  rotate: true
+  xy: 813, 12
+  size: 72, 109
+  orig: 312, 320
+  offset: 120, 70
+  index: -1
+lvye_0003
+  rotate: false
+  xy: 919, 115
+  size: 85, 125
+  orig: 312, 320
+  offset: 114, 73
+  index: -1
+lvye_0004
+  rotate: false
+  xy: 878, 342
+  size: 93, 141
+  orig: 312, 320
+  offset: 108, 74
+  index: -1
+lvye_0005
+  rotate: false
+  xy: 895, 485
+  size: 98, 153
+  orig: 312, 320
+  offset: 106, 75
+  index: -1
+lvye_0006
+  rotate: false
+  xy: 807, 86
+  size: 110, 169
+  orig: 312, 320
+  offset: 97, 72
+  index: -1
+lvye_0007
+  rotate: false
+  xy: 691, 72
+  size: 114, 183
+  orig: 312, 320
+  offset: 93, 72
+  index: -1
+lvye_0008
+  rotate: true
+  xy: 682, 257
+  size: 116, 189
+  orig: 312, 320
+  offset: 90, 77
+  index: -1
+lvye_0009
+  rotate: true
+  xy: 691, 1
+  size: 69, 120
+  orig: 312, 320
+  offset: 90, 79
+  index: -1

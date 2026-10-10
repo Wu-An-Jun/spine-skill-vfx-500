@@ -1,0 +1,131 @@
+
+action.png
+size: 1017,1020
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+a1_0001
+  rotate: false
+  xy: 712, 172
+  size: 259, 130
+  orig: 576, 1024
+  offset: 155, 448
+  index: -1
+a1_0003
+  rotate: false
+  xy: 712, 52
+  size: 259, 118
+  orig: 576, 1024
+  offset: 156, 450
+  index: -1
+a1_0005
+  rotate: false
+  xy: 356, 18
+  size: 261, 119
+  orig: 576, 1024
+  offset: 154, 451
+  index: -1
+a1_0007
+  rotate: false
+  xy: 0, 0
+  size: 261, 130
+  orig: 576, 1024
+  offset: 153, 450
+  index: -1
+b_shandian_0000
+  rotate: false
+  xy: 619, 50
+  size: 72, 87
+  orig: 576, 1024
+  offset: 231, 590
+  index: -1
+b_shandian_0001
+  rotate: true
+  xy: 381, 700
+  size: 320, 484
+  orig: 576, 1024
+  offset: 137, 194
+  index: -1
+b_shandian_0002
+  rotate: true
+  xy: 777, 304
+  size: 361, 231
+  orig: 576, 1024
+  offset: 96, 183
+  index: -1
+b_shandian_0003
+  rotate: false
+  xy: 0, 589
+  size: 379, 431
+  orig: 576, 1024
+  offset: 96, 183
+  index: -1
+b_shandian_0004
+  rotate: false
+  xy: 0, 132
+  size: 354, 455
+  orig: 576, 1024
+  offset: 96, 183
+  index: -1
+b_shandian_0005
+  rotate: false
+  xy: 381, 394
+  size: 394, 304
+  orig: 576, 1024
+  offset: 96, 183
+  index: -1
+b_shandian_0006
+  rotate: false
+  xy: 356, 139
+  size: 354, 253
+  orig: 576, 1024
+  offset: 96, 183
+  index: -1
+b_shandian_0007
+  rotate: true
+  xy: 867, 667
+  size: 353, 150
+  orig: 576, 1024
+  offset: 96, 183
+  index: -1
+
+action2.png
+size: 703,266
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+a1_0002
+  rotate: false
+  xy: 345, 16
+  size: 257, 119
+  orig: 576, 1024
+  offset: 158, 449
+  index: -1
+a1_0004
+  rotate: false
+  xy: 0, 0
+  size: 260, 120
+  orig: 576, 1024
+  offset: 156, 450
+  index: -1
+a1_0006
+  rotate: false
+  xy: 345, 137
+  size: 260, 129
+  orig: 576, 1024
+  offset: 154, 450
+  index: -1
+b_shandian_0008
+  rotate: false
+  xy: 0, 122
+  size: 343, 144
+  orig: 576, 1024
+  offset: 101, 186
+  index: -1
+b_shandian_0009
+  rotate: true
+  xy: 607, 35
+  size: 231, 96
+  orig: 576, 1024
+  offset: 163, 218
+  index: -1

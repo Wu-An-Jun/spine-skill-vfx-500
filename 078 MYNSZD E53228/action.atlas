@@ -1,0 +1,27 @@
+
+action.png
+size: 243,243
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+lvfazhen_0000
+  rotate: false
+  xy: 0, 151
+  size: 218, 92
+  orig: 260, 195
+  offset: 21, 46
+  index: -1
+lvguang_0000
+  rotate: false
+  xy: 0, 0
+  size: 170, 71
+  orig: 195, 130
+  offset: 12, 21
+  index: -1
+lvquan_0000
+  rotate: false
+  xy: 0, 71
+  size: 188, 80
+  orig: 195, 130
+  offset: 5, 19
+  index: -1

@@ -1,0 +1,160 @@
+
+action.png
+size: 1020,1020
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+lanbao_0003
+  rotate: true
+  xy: 126, 109
+  size: 289, 204
+  orig: 434, 248
+  offset: 60, 19
+  index: -1
+lanbao_0004
+  rotate: false
+  xy: 0, 816
+  size: 356, 204
+  orig: 434, 248
+  offset: 26, 19
+  index: -1
+lanbao_0005
+  rotate: true
+  xy: 455, 496
+  size: 272, 176
+  orig: 434, 248
+  offset: 69, 11
+  index: -1
+lanbao_0006
+  rotate: true
+  xy: 509, 227
+  size: 269, 186
+  orig: 434, 248
+  offset: 70, 4
+  index: -1
+lanbao_0007
+  rotate: true
+  xy: 330, 130
+  size: 274, 179
+  orig: 434, 248
+  offset: 68, 15
+  index: -1
+lanbao_0008
+  rotate: true
+  xy: 828, 526
+  size: 242, 187
+  orig: 434, 248
+  offset: 87, 10
+  index: -1
+lanbao_0009
+  rotate: true
+  xy: 631, 507
+  size: 261, 197
+  orig: 434, 248
+  offset: 75, 3
+  index: -1
+lanbao_0010
+  rotate: true
+  xy: 251, 404
+  size: 286, 204
+  orig: 434, 248
+  offset: 62, 0
+  index: -1
+lanbao_0011
+  rotate: true
+  xy: 603, 9
+  size: 218, 184
+  orig: 434, 248
+  offset: 103, 23
+  index: -1
+lanbao_0012
+  rotate: true
+  xy: 828, 308
+  size: 218, 187
+  orig: 434, 248
+  offset: 103, 23
+  index: -1
+lanbao_0013
+  rotate: false
+  xy: 787, 152
+  size: 214, 117
+  orig: 434, 248
+  offset: 103, 24
+  index: -1
+lanbao_0014
+  rotate: false
+  xy: 0, 0
+  size: 206, 103
+  orig: 434, 248
+  offset: 109, 25
+  index: -1
+lanxing_0000
+  rotate: false
+  xy: 695, 269
+  size: 127, 238
+  orig: 167, 341
+  offset: 15, 18
+  index: -1
+lanxing_0001
+  rotate: true
+  xy: 330, 3
+  size: 127, 273
+  orig: 167, 341
+  offset: 15, 18
+  index: -1
+lanxing_0002
+  rotate: true
+  xy: 662, 768
+  size: 126, 302
+  orig: 167, 341
+  offset: 16, 18
+  index: -1
+lanxing_0003
+  rotate: true
+  xy: 356, 894
+  size: 126, 309
+  orig: 167, 341
+  offset: 16, 18
+  index: -1
+lanxing_0004
+  rotate: true
+  xy: 0, 690
+  size: 126, 303
+  orig: 167, 341
+  offset: 16, 18
+  index: -1
+lanxing_0005
+  rotate: true
+  xy: 665, 894
+  size: 126, 307
+  orig: 167, 341
+  offset: 16, 18
+  index: -1
+lanxing_0006
+  rotate: false
+  xy: 0, 103
+  size: 126, 293
+  orig: 167, 341
+  offset: 16, 18
+  index: -1
+lanxing_0007
+  rotate: false
+  xy: 125, 398
+  size: 126, 292
+  orig: 167, 341
+  offset: 16, 18
+  index: -1
+lanxing_0008
+  rotate: true
+  xy: 356, 768
+  size: 126, 306
+  orig: 167, 341
+  offset: 16, 18
+  index: -1
+lanxing_0009
+  rotate: false
+  xy: 0, 396
+  size: 125, 294
+  orig: 167, 341
+  offset: 16, 18
+  index: -1

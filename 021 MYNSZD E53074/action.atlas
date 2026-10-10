@@ -1,0 +1,97 @@
+
+action.png
+size: 1023,1008
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+daoguang111_0009
+  rotate: true
+  xy: 665, 322
+  size: 491, 187
+  orig: 648, 648
+  offset: 61, 188
+  index: -1
+daoguang111_0010
+  rotate: true
+  xy: 1, 322
+  size: 491, 190
+  orig: 648, 648
+  offset: 61, 185
+  index: -1
+daoguang111_0011
+  rotate: false
+  xy: 1, 815
+  size: 493, 192
+  orig: 648, 648
+  offset: 59, 183
+  index: -1
+daoguang111_0012
+  rotate: false
+  xy: 496, 815
+  size: 489, 192
+  orig: 648, 648
+  offset: 62, 182
+  index: -1
+daoguang111_0013
+  rotate: false
+  xy: 1, 129
+  size: 484, 191
+  orig: 648, 648
+  offset: 66, 183
+  index: -1
+daoguang111_0014
+  rotate: false
+  xy: 487, 133
+  size: 475, 187
+  orig: 648, 648
+  offset: 74, 184
+  index: -1
+daoguang111_0015
+  rotate: true
+  xy: 854, 378
+  size: 435, 168
+  orig: 648, 648
+  offset: 103, 191
+  index: -1
+daoguang111_0016
+  rotate: false
+  xy: 193, 647
+  size: 425, 166
+  orig: 648, 648
+  offset: 112, 192
+  index: -1
+daoguang111_0017
+  rotate: false
+  xy: 193, 481
+  size: 414, 164
+  orig: 648, 648
+  offset: 122, 193
+  index: -1
+daoguang111_0019
+  rotate: false
+  xy: 1, 1
+  size: 338, 126
+  orig: 648, 648
+  offset: 146, 198
+  index: -1
+daoguang111_0020
+  rotate: false
+  xy: 341, 3
+  size: 322, 124
+  orig: 648, 648
+  offset: 160, 198
+  index: -1
+daoguang111_0021
+  rotate: false
+  xy: 665, 9
+  size: 298, 122
+  orig: 648, 648
+  offset: 166, 198
+  index: -1
+daoguang111_0022
+  rotate: false
+  xy: 193, 357
+  size: 288, 122
+  orig: 648, 648
+  offset: 167, 198
+  index: -1

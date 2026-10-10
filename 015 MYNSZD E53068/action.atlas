@@ -1,0 +1,132 @@
+
+action.png
+size: 992,518
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dianchui_0000
+  rotate: false
+  xy: 878, 300
+  size: 113, 83
+  orig: 153, 153
+  offset: 28, 32
+  index: -1
+dianchui_0002
+  rotate: true
+  xy: 866, 99
+  size: 114, 83
+  orig: 153, 153
+  offset: 28, 32
+  index: -1
+dianchui_0004
+  rotate: false
+  xy: 656, 87
+  size: 126, 83
+  orig: 153, 153
+  offset: 16, 32
+  index: -1
+dianchui_0006
+  rotate: false
+  xy: 705, 257
+  size: 129, 83
+  orig: 153, 153
+  offset: 16, 32
+  index: -1
+dianchui_0008
+  rotate: false
+  xy: 656, 4
+  size: 126, 81
+  orig: 153, 153
+  offset: 16, 33
+  index: -1
+dianchui_0010
+  rotate: false
+  xy: 705, 172
+  size: 128, 83
+  orig: 153, 153
+  offset: 16, 33
+  index: -1
+dianchui_0012
+  rotate: false
+  xy: 866, 16
+  size: 115, 81
+  orig: 153, 153
+  offset: 28, 38
+  index: -1
+dianchui_0014
+  rotate: true
+  xy: 878, 385
+  size: 132, 84
+  orig: 153, 153
+  offset: 16, 35
+  index: -1
+dianchui_0016
+  rotate: true
+  xy: 784, 42
+  size: 128, 80
+  orig: 153, 153
+  offset: 16, 35
+  index: -1
+dianchui_0018
+  rotate: false
+  xy: 836, 215
+  size: 125, 83
+  orig: 153, 153
+  offset: 16, 32
+  index: -1
+puhit_0000
+  rotate: false
+  xy: 516, 53
+  size: 138, 131
+  orig: 390, 390
+  offset: 121, 135
+  index: -1
+puhit_0001
+  rotate: false
+  xy: 700, 342
+  size: 176, 175
+  orig: 390, 390
+  offset: 105, 108
+  index: -1
+puhit_0003
+  rotate: false
+  xy: 1, 260
+  size: 258, 257
+  orig: 390, 390
+  offset: 63, 67
+  index: -1
+puhit_0004
+  rotate: false
+  xy: 1, 1
+  size: 258, 257
+  orig: 390, 390
+  offset: 63, 67
+  index: -1
+puhit_0005
+  rotate: false
+  xy: 261, 260
+  size: 258, 257
+  orig: 390, 390
+  offset: 63, 67
+  index: -1
+puhit_0008
+  rotate: false
+  xy: 261, 7
+  size: 253, 251
+  orig: 390, 390
+  offset: 66, 70
+  index: -1
+puhit_0010
+  rotate: false
+  xy: 521, 329
+  size: 177, 188
+  orig: 390, 390
+  offset: 107, 109
+  index: -1
+puhit_0012
+  rotate: true
+  xy: 521, 186
+  size: 141, 182
+  orig: 390, 390
+  offset: 140, 116
+  index: -1

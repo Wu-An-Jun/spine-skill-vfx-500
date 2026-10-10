@@ -1,0 +1,48 @@
+
+action.png
+size: 800,800
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+daoguang_0000
+  rotate: false
+  xy: 399, 21
+  size: 374, 264
+  orig: 443, 276
+  offset: 8, 0
+  index: -1
+daoguang_0001
+  rotate: false
+  xy: 0, 23
+  size: 394, 260
+  orig: 443, 276
+  offset: 20, 0
+  index: -1
+daoguang_0002
+  rotate: false
+  xy: 0, 283
+  size: 399, 259
+  orig: 443, 276
+  offset: 19, 0
+  index: -1
+daoguang_0003
+  rotate: false
+  xy: 0, 542
+  size: 404, 258
+  orig: 443, 276
+  offset: 19, 0
+  index: -1
+daoguang_0004
+  rotate: false
+  xy: 404, 285
+  size: 395, 258
+  orig: 443, 276
+  offset: 23, 0
+  index: -1
+daoguang_0005
+  rotate: false
+  xy: 404, 543
+  size: 396, 257
+  orig: 443, 276
+  offset: 20, 0
+  index: -1
